@@ -1,0 +1,138 @@
+{
+	// https://containers.dev/implementors/json_reference/
+	// https://code.visualstudio.com/docs/editor/variables-reference
+	// ---------------------------------------------------------------------------------------------
+	"name": "MkDocs",
+	"image": "mcr.microsoft.com/devcontainers/python:3.13-bookworm",
+	// ---------------------------------------------------------------------------------------------
+	"remoteUser": "vscode",
+	"waitFor": "updateContentCommand",
+	"updateContentCommand": {
+		"install": "bash scripts/requirements.sh"
+	},
+	// ---------------------------------------------------------------------------------------------
+	"forwardPorts": [8000],
+	// ---------------------------------------------------------------------------------------------
+	"customizations": {
+		"vscode": {
+			"settings": {
+				"editor.detectIndentation": false,
+				"editor.insertSpaces": false,
+				"editor.formatOnPaste": false,
+				"editor.formatOnSave": true,
+				"editor.formatOnSaveMode": "file",
+				"editor.formatOnType": false,
+				"editor.tabSize": 4,
+				"editor.rulers": [
+					{
+						"column": 100,
+						"color": "#ffffff05"
+					},
+					{
+						"column": 130,
+						"color": "#ffffff15"
+					}
+				],
+				// ---------------------------------------------------------------------------------
+				"files.eol": "\n",
+				"files.insertFinalNewline": true,
+				"files.trimFinalNewlines": true,
+				"files.trimTrailingWhitespace": true,
+				// ---------------------------------------------------------------------------------
+				"[json]": {
+					"editor.defaultFormatter": "esbenp.prettier-vscode"
+				},
+				"[jsonc]": {
+					"editor.defaultFormatter": "esbenp.prettier-vscode"
+				},
+				"[markdown]": {
+					"editor.defaultFormatter": "esbenp.prettier-vscode"
+				},
+				// ---------------------------------------------------------------------------------
+				"markdownlint.config": {
+					"MD013": {
+						"line_length": 100,
+						"tables": false
+					},
+					"MD030": {
+						"ol_multi": 3,
+						"ol_single": 3,
+						"ul_multi": 3,
+						"ul_single": 3
+					}
+				},
+				// ---------------------------------------------------------------------------------
+				"git.blame.editorDecoration.enabled": true,
+				"git.blame.editorDecorationForeground": "#000000",
+				"git.blame.editorDecoration.template": "${authorDateAgo} (${hashShort}) | ${subject}",
+				// ---------------------------------------------------------------------------------
+				"workbench.colorCustomizations": {
+					"git.blame.editorDecorationForeground": "#99999959"
+				},
+				// ---------------------------------------------------------------------------------
+				"github.copilot.enable": {
+					"*": false, // Disable Copilot by default for all file types
+					"python": true, // Enable Copilot for Python files
+					"plaintext": false, // Disable for plaintext files
+					"markdown": true, // Optional: Enable for Markdown (useful for writing docstrings or documentation)
+					"yaml": true, // Optional: Enable for YAML files (e.g., Docker Compose, GitHub Actions)
+					"json": true, // Optional: Enable for JSON files (e.g., configuration files)
+					"scminput": true // Enable for SCM input (e.g., commit messages)
+				},
+				"github.copilot.suggestionDelay": 100,
+				"github.copilot.editor.enableAutoCompletions": true,
+				"github.copilot.chat.codeGeneration.instructions": [
+					{
+						"text": "You are an expert Python developer. Always write Python code that adheres to Python development best practices, including PEP 8 guidelines, proper naming conventions, and clear, maintainable structure. Ensure that each function includes a Python-compatible docstring that describes its purpose, parameters, and return values. Add comments only when necessary to explain complex logic or improve understanding, avoiding excessive line-by-line comments. Include type annotations, proper error handling, and ensure the code is efficient and readable. Before providing your response, double-check the code for correctness, syntax errors, and logical issues. If applicable, briefly explain your solution to ensure clarity. Avoid unnecessary complexity and prioritize maintainability."
+					}
+				],
+				// ---------------------------------------------------------------------------------
+				"files.watcherExclude": {
+					"**/.git/**": true
+				},
+				// ---------------------------------------------------------------------------------
+				"search.exclude": {
+					"**/.git/**": true
+				},
+				// ---------------------------------------------------------------------------------
+				"files.exclude": {
+					"**.code-workspace": true,
+					"**/.git/**": true
+				},
+				// ---------------------------------------------------------------------------------
+				"yaml.schemas": {
+					"https://squidfunk.github.io/mkdocs-material/schema.json": "mkdocs.yml"
+				},
+				"yaml.customTags": [
+					"!ENV scalar",
+					"!ENV sequence",
+					"!relative scalar",
+					"tag:yaml.org,2002:python/name:material.extensions.emoji.to_svg",
+					"tag:yaml.org,2002:python/name:material.extensions.emoji.twemoji",
+					"tag:yaml.org,2002:python/name:pymdownx.superfences.fence_code_format",
+					"tag:yaml.org,2002:python/object/apply:pymdownx.slugs.slugify mapping"
+				]
+			},
+			"extensions": [
+				"aaron-bond.better-comments", // For better comment formatting and readability
+				"DavidAnson.vscode-markdownlint", // For linting Markdown documentation
+				"esbenp.prettier-vscode", // Optional for formatting Markdown, JSON, or other non-Python files
+				"formulahendry.auto-rename-tag", // Optional if working with HTML/XML in Python projects
+				"GitHub.copilot", // AI code suggestions
+				"github.vscode-github-actions", // Optional if working with CI/CD pipelines (YAML-based GitHub Actions)
+				"GitHub.vscode-pull-request-github", // For managing GitHub pull requests/issues
+				"ms-vscode-remote.remote-containers", // For containerized Python development
+				"ms-vscode-remote.vscode-remote-extensionpack", // For remote development in general
+				"redhat.vscode-yaml", // For YAML file support (e.g., Docker Compose, GitHub Actions)
+				"usernamehw.errorlens" // Highlights errors and warnings inline
+			]
+		}
+	},
+	// ---------------------------------------------------------------------------------------------
+	"workspaceMount": "source=${localWorkspaceFolder},target=/workspaces,type=bind,consistency=cached",
+	"workspaceFolder": "/workspaces"
+	// ---------------------------------------------------------------------------------------------
+	// "mounts": [
+	// 	"source=${localWorkspaceFolder}/.vscode,target=/workspaces/${localWorkspaceFolderBasename}/src/.vscode,type=bind,consistency=delegated"
+	// ]
+}
