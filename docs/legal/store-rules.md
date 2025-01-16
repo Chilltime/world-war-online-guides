@@ -1,7 +1,5 @@
 # Store Rules
 
-![World War Online Store](images/header_store.webp "World War Online Store")
-
 ## 1. Object
 
 Store Rules are applied to players and users that make purchases through World War Online Store

@@ -1,6 +1,6 @@
 # Game Resources
 
-![World War Online Resources](images/header_resources.webp "Game Resources")
+![World War Online Resources](../assets/images/header_resources.webp "Game Resources")
 
 Resources are the currencies used to train [Units](unit-intro.md) and to upgrade your
 [Headquarters Base](bases.md).
@@ -19,7 +19,7 @@ guarantee your Army's upkeep.
 
 ### Army Upkeep
 
-![Army Upkeep](images/resources_upkeep.webp "Army Upkeep Resources")
+![Army Upkeep](../assets/images/resources_upkeep.webp "Army Upkeep Resources")
 
 **Army Upkeep** is a small amount of Resources that is subtracted from your Resource Production
 every 10 minutes based on how many Units you have.
@@ -29,7 +29,7 @@ more units until your resource production is positive.
 
 ## WWO-Influence
 
-![World War Online Resources](images/resources_wwo.webp "Game Resources")
+![World War Online Resources](../assets/images/resources_wwo.webp "Game Resources")
 
 WWO-Influence is a resource primarily gained through an in-game purchase in the [Store](store.md).
 

@@ -1,3 +1,9 @@
+---
+hide:
+    - navigation
+    - toc
+---
+
 # Terms of Service
 
 This Terms of Service (“Terms”) is a legal binding agreement that governs your use of Chilltime

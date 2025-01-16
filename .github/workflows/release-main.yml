@@ -46,7 +46,7 @@ jobs:
 
             - run: |
                   pip install mkdocs-material
-                  bash scripts/requirements.sh
+                  bash .devcontainer/requirements.sh
 
             - run: |
                   mkdocs build --site-dir _site/

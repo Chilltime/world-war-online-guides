@@ -1,6 +1,6 @@
 # Your Headquarters Base
 
-![What is the HQ base?](images/beginner_headquarters.webp "Your Headquarters Base")
+![What is the HQ base?](../assets/images/beginner_headquarters.webp "Your Headquarters Base")
 
 There are 2 types of Bases in World War Online:
 

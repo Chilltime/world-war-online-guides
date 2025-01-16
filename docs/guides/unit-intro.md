@@ -1,6 +1,6 @@
 # Introduction to Units
 
-![What units exist in World War Online](images/header_unit_types.webp "Units Introduction")
+![What units exist in World War Online](../assets/images/header_unit_types.webp "Units Introduction")
 
 Units are used to fight in World War Online.
 

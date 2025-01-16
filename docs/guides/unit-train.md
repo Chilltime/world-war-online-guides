@@ -1,6 +1,6 @@
 # Training Units
 
-![Build Units Costs](images/header_unit_constructions.webp "Unit Construction")
+![Build Units Costs](../assets/images/header_unit_constructions.webp "Unit Construction")
 
 Here you can find the cost of building units, the necessary military rank, how much experience
 points you get for each unit built and the max number of units you can build per type. You can learn

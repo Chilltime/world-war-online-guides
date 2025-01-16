@@ -1,10 +1,15 @@
-# Units Statistics
+# Combat Stats
 
-![Unit Stats](images/header_unit_stats.webp "Units Statistics")
+![Combat Stats](../assets/images/header_unit_stats.webp "Combat Stats")
 
-## 1. Normal Units
+**_Attack_** and **_Defense_** stats are the most important stats for units in World War Online. The
+**_Attack_** stat is the amount of damage a unit can deal to an enemy unit, while the **_Defense_**
+stat is the amount of damage a unit can resist from an enemy unit. The **_Health_** stat is the
+amount of damage a unit can take before it is destroyed.
 
-### 1.1 Attack
+## Normal Units
+
+**_Attack_**
 
 |      Unit      | Health | Attack Total | Attack Infantry | Attack Armored | Attack Air | Attack Sea | Critical Damage Type | Percent Critical Chance |
 | :------------: | :----: | :----------: | :-------------: | :------------: | :--------: | :--------: | :------------------: | :---------------------: |
@@ -23,7 +28,7 @@
 |  **Soldier**   |  135   |     163      |       90        |       40       |     25     |     8      |       Infantry       |           15%           |
 |  **Stinger**   |  135   |     150      |       15        |       35       |     95     |     5      |       Airforce       |           15%           |
 
-### 1.2 Defense
+**_Defense_**
 
 |      Unit      | Health | Defense Total | Defense Infantry | Defense Armored | Defense Air | Defense Sea | Defense Weapon Supreme | Defense Weapon Normal |
 | :------------: | :----: | :-----------: | :--------------: | :-------------: | :---------: | :---------: | :--------------------: | :-------------------: |
@@ -42,9 +47,9 @@
 |  **Soldier**   |  135   |     100%      |       45%        |       20%       |     10%     |     5%      |           5%           |          15%          |
 |  **Stinger**   |  135   |     115%      |       20%        |       25%       |     45%     |     5%      |           5%           |          15%          |
 
-## 2. Supreme Units
+## Supreme Units
 
-### 2.1 Attack
+**_Attack_**
 
 |      Unit       | Health | Attack Total | Attack Infantry | Attack Armored | Attack Air | Attack Sea | Critical Damage Type | Percent Critical Chance |
 | :-------------: | :----: | :----------: | :-------------: | :------------: | :--------: | :--------: | :------------------: | :---------------------: |
@@ -65,7 +70,7 @@
 |    **ZU-23**    |  3500  |     4250     |       800       |      300       |    3000    |    150     |       Airforce       |           30%           |
 |   **Zumwalt**   |  4000  |     3925     |       800       |      2750      |    300     |     75     |       Armored        |           30%           |
 
-### 2.2 Defense
+**Defense**
 
 |      Unit       | Health | Defense Total | Defense Infantry | Defense Armored | Defense Air | Defense Sea | Defense Weapon Supreme | Defense Weapon Normal |
 | :-------------: | :----: | :-----------: | :--------------: | :-------------: | :---------: | :---------: | :--------------------: | :-------------------: |

@@ -1,6 +1,6 @@
 # Create an Account
 
-![How to create an account](images/header_profile.webp "Create an Account")
+![How to create an account](../assets/images/header_profile.webp "Create an Account")
 
 ## Creating a World War Online Account
 
@@ -18,7 +18,7 @@ These are the currently available options:
 If you forget your login password, you can select the option "Recover Password" in Login/Register
 section. Then, you just have to insert your email, click in "Submit" and you will receive an email
 to change your password. If this doesn't work, please contact us on one of our
-[Support channels](/support) ..md
+[Support channels](/support).
 
 ## Selecting a Country
 
@@ -60,7 +60,7 @@ In this section you can see all stats related to your performance in the game, n
 
 ## Awards
 
-![Profile Awards](images/profile_awards.webp "Profile Awards")
+![Profile Awards](../assets/images/profile_awards.webp "Profile Awards")
 
 In this section you can find some unlockable achievements, that will grant you some experience
 points. Everytime you achieve one you have the ability of collecting the reward and respective
@@ -68,7 +68,7 @@ medal.
 
 ## Edit Profile
 
-![How to edit your profile](images/profile_tools.webp "Profile Tools")
+![How to edit your profile](../assets/images/profile_tools.webp "Profile Tools")
 
 **Here you can edit:**
 

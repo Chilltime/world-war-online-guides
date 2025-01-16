@@ -1,6 +1,6 @@
 # Player Ranks
 
-![Player Ranks](images/header_ranking.webp "Player Ranks")
+![Player Ranks](../assets/images/header_ranking.webp "Player Ranks")
 
 Military Ranks are the level up system in World War Online. You increase your Military Rank by
 gaining Experience through winning Battles and completing Missions, building and upgrading Bases or

@@ -8,7 +8,7 @@
 	"remoteUser": "vscode",
 	"waitFor": "updateContentCommand",
 	"updateContentCommand": {
-		"install": "bash scripts/requirements.sh"
+		"install": "bash .devcontainer/requirements.sh"
 	},
 	// ---------------------------------------------------------------------------------------------
 	"forwardPorts": [8000],
@@ -116,7 +116,7 @@
 			"extensions": [
 				"aaron-bond.better-comments", // For better comment formatting and readability
 				"DavidAnson.vscode-markdownlint", // For linting Markdown documentation
-				"esbenp.prettier-vscode", // Optional for formatting Markdown, JSON, or other non-Python files
+				"esbenp.prettier-vscode", // For formatting Markdown, JSON, or other non-Python files
 				"formulahendry.auto-rename-tag", // Optional if working with HTML/XML in Python projects
 				"GitHub.copilot", // AI code suggestions
 				"github.vscode-github-actions", // Optional if working with CI/CD pipelines (YAML-based GitHub Actions)
@@ -131,8 +131,4 @@
 	// ---------------------------------------------------------------------------------------------
 	"workspaceMount": "source=${localWorkspaceFolder},target=/workspaces,type=bind,consistency=cached",
 	"workspaceFolder": "/workspaces"
-	// ---------------------------------------------------------------------------------------------
-	// "mounts": [
-	// 	"source=${localWorkspaceFolder}/.vscode,target=/workspaces/${localWorkspaceFolderBasename}/src/.vscode,type=bind,consistency=delegated"
-	// ]
 }

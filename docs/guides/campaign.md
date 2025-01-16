@@ -1,6 +1,6 @@
 # Campaign Mode
 
-![What is Campaign mode](images/header_campaign.webp "Campaign Mode")
+![What is Campaign mode](../assets/images/header_campaign.webp "Campaign Mode")
 
 The Campaign is a Single Player mode in World War Online, where players battle against NPC (Non
 Playable Character) Units. There are currently 50 Campaign levels, each getting progressively more

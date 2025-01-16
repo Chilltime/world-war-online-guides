@@ -1,6 +1,6 @@
 # Capital Warfare
 
-![Learn more about Capital Warfare](images/header_capital.webp "Capital Warfare")
+![Learn more about Capital Warfare](../assets/images/header_capital.webp "Capital Warfare")
 
 Capital Warfare is a in the heart of World War Online strategic gameplay. During each Capital
 Warfare 5 Squads are put into battle for 3 Country capital's, engaging in epic battles and strategic
@@ -9,7 +9,7 @@ Season.
 
 ## How it works
 
-![Capital Warfare Matchmaking](images/capital_warfare_panels.webp "Matchmaking")
+![Capital Warfare Matchmaking](../assets/images/capital_warfare_panels.webp "Matchmaking")
 
 The [Squad Leaderboard](leaderboard-squad.md) is composed of Squads that are currently competing by
 participating in Capital Warfare, and conquering Capital Bases to gain points.
@@ -29,7 +29,7 @@ Capital Warfare is open and the cooldown periods are between cycles.
 
 ### We are updating this section for the updates of Season 4 / Championship 2021
 
-![Capital Warfare - Timings](images/squad_wars_schedule.webp "Capital Warfare - Timings")
+![Capital Warfare - Timings](../assets/images/squad_wars_schedule.webp "Capital Warfare - Timings")
 
 ## Squad Matchmaking
 
@@ -38,7 +38,7 @@ Matchmaking will occur before each new Capital Warfare cycle.
 
 ## Conquering a Capital Base
 
-![Capital Bases](images/capital_bases.webp "Capital Bases")
+![Capital Bases](../assets/images/capital_bases.webp "Capital Bases")
 
 In Capital Districts, when you attack and win the base you immediatly Conquer them. When you click
 on Conquer on a Capital Base, you will automatically generate a General which is a Tactical Infantry
@@ -52,4 +52,4 @@ Wave of the Battle.
 -   The battle must be a Decisive Victory, i.e. it cannot be settled as a Tie Breaker.
 -   If the General dies, but you win the battle, you will not Conquer the base.
 
-![Battle Reports for Capital Warfare](images/warfare_report.webp "Capital Warfare Report")
+![Battle Reports for Capital Warfare](../assets/images/warfare_report.webp "Capital Warfare Report")

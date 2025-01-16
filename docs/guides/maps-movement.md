@@ -1,8 +1,6 @@
-# World War Online Map
+# The Map
 
-![Map](images/header_map.webp "World War Online Map")
-
-## Map
+![Map](../assets/images/header_map.webp "The Map")
 
 The Map is divided into 3 main views:
 
@@ -36,7 +34,7 @@ to earn points in the Leaderboard through Squad Wars.
 
 ## Actions Available in Districts
 
-![Map Districts](images/map_district.webp "Map Districts")
+![Map Districts](../assets/images/map_district.webp "Map Districts")
 
 When a player opens a district they will also open with it a sidebar that contains all the necessary
 info about this district including:
@@ -61,7 +59,7 @@ that are occurring in the district in real time.
 
 ## Movement
 
-![Moving in the map](images/map_movement.webp "Map Movements")
+![Moving in the map](../assets/images/map_movement.webp "Map Movements")
 
 To get around in the world, players need to understand movement. There are 2 ways that players can
 move around the map:

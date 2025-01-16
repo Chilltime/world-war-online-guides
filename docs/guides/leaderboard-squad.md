@@ -1,6 +1,6 @@
 # Squad Leaderboard
 
-![Squad Leaderboard](images/header_capital_warfare.webp "Squad Leaderboard")
+![Squad Leaderboard](../assets/images/header_capital_warfare.webp "Squad Leaderboard")
 
 The Squad Leaderboard is composed of the Squads that are currently competing by participating in
 Squad Wars against other Squads and conquering Capital Bases to get points. Each Squad starts out as
