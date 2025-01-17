@@ -53,7 +53,7 @@ extra:
   generator: false
   analytics:
     provider: google
-    property: G-XXXXXXXXXX
+    property: G-P1RJWYY3T2
     feedback:
       title: Was this page helpful?
       ratings:
