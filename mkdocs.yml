@@ -5,9 +5,7 @@ site_description: >-
   World War Online is a PvP MMO Strategy Game
 
 # Repository
-#repo_name: chilltime/mkdocs-worldwaronline
-#repo_url: https://github.com/Chilltime/mkdocs-worldwaronline
-edit_uri: https://github.com/Chilltime/mkdocs-worldwaronline/edit/main/docs/
+edit_uri: https://github.com/Chilltime/world-war-online-guides/edit/main/docs/
 
 # Copyright
 copyright: Copyright &copy; 2025 Chilltime, Lda.
