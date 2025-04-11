@@ -1,13 +1,11 @@
 # Project information
-site_name: WWOv3 Documentation and Guides
+site_name: World War Online - Documentation and Guides
 site_url: https://guides.worldwaronline.com/
 site_description: >-
   World War Online is a PvP MMO Strategy Game
 
 # Repository
-#repo_name: chilltime/mkdocs-worldwaronline
-#repo_url: https://github.com/Chilltime/mkdocs-worldwaronline
-edit_uri: https://github.com/Chilltime/mkdocs-worldwaronline/edit/main/docs/
+edit_uri: https://github.com/Chilltime/world-war-online-guides/edit/main/docs/
 
 # Copyright
 copyright: Copyright &copy; 2025 Chilltime, Lda.
@@ -32,17 +30,21 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: indigo
+      accent: blue
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
+      primary: blue
+      accent: indigo
       toggle:
         icon: material/toggle-switch-off
         name: Switch to dark mode
   font:
-    text: Roboto
+    text: Inter
     code: Roboto Mono
   favicon: favicon.ico
   icon:
@@ -67,12 +69,12 @@ extra:
           data: 0
           note: >-
             Thanks for your feedback! Help us improve this page by
-            using our <a href="..." target="_blank" rel="noopener">feedback form</a>.
+            using our <a href="https://github.com/Chilltime/world-war-online-guides/issues/new" target="_blank" rel="noopener">creating a Issue</a>.
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/Chilltime
     - icon: fontawesome/brands/discord
-      link: https://discordapp.com/invite/AEcggZh
+      link: https://discord.gg/7JgMjwE6
     - icon: fontawesome/brands/x-twitter
       link: https://x.com/worldwaronline
 plugins:
@@ -86,7 +88,7 @@ plugins:
       enable_creation_date: true
   - git-committers:
       enabled: !ENV [CI, false]
-      repository: chilltime/mkdocs-worldwaronline
+      repository: chilltime/world-war-online-guides
       branch: main
   - minify:
       minify_html: true
@@ -96,18 +98,16 @@ not_in_nav: |
 
 # Page tree
 nav:
-  - 🏠 Home: index.md
-  - ▶️ Beginner's Guide:
+  - Home: index.md
+  - Beginner's Guide:
     - Introduction: guides/index.md
     - Create an Account: guides/player-intro.md
+  - Gameplay:
     - Resources: guides/resources.md
-    - 🛒 Store:
+    - Store:
       - Introduction: guides/store.md
       - Rules: legal/store-rules.md
     - Map: guides/maps-movement.md
-    - Chat:
-      - Ingame: guides/chat.md
-      - Discord: legal/discord-chat.md
     - Bases: guides/bases.md
     - Units:
       - Introduction: guides/unit-intro.md
@@ -117,14 +117,17 @@ nav:
       - Statistics:
         - Combat: guides/unit-stats.md
         - Training: guides/unit-train.md
-
     - Campaign: guides/campaign.md
     - Capital warfare: guides/capital-warfare.md
-
     - Player ranks: guides/player-rank.md
     - Player Squads: guides/squads.md
-    - Leaderboards:
-      - Player: guides/leaderboard-player.md
-      - Squad: guides/leaderboard-squad.md
-  - 🛟 FAQ: faq/index.md
-  - 🛑 Cheating: legal/reports-bans-suspensions.md
+  - Leaderboard:
+    - Player: guides/leaderboard-player.md
+    - Squad: guides/leaderboard-squad.md
+  - Community:
+    - Ingame Chat: guides/chat.md
+    - Discord: legal/discord-chat.md
+  - Support:
+    - FAQ: faq/index.md
+    - Cheating: legal/reports-bans-suspensions.md
+  - 🐛 Report Bug: https://github.com/Chilltime/world-war-online-guides/issues/new
