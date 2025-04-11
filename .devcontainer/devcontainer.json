@@ -2,8 +2,13 @@
 	// https://containers.dev/implementors/json_reference/
 	// https://code.visualstudio.com/docs/editor/variables-reference
 	// ---------------------------------------------------------------------------------------------
-	"name": "MkDocs",
+	"name": "WWO Docs",
 	"image": "mcr.microsoft.com/devcontainers/python:3.13-bookworm",
+	"features": {
+		"ghcr.io/devcontainers/features/node:1": {
+			"version": "22"
+		}
+	},
 	// ---------------------------------------------------------------------------------------------
 	"remoteUser": "vscode",
 	"waitFor": "updateContentCommand",
