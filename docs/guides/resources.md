@@ -72,14 +72,6 @@ Iron is primarily used for:
 
 The higher the level of your Headquarters Base, the higher the amount of Iron you generate.
 
-### Army Upkeep
-
-![Army Upkeep](../assets/images/resources_upkeep.webp "Army Upkeep Resources")
-
-**Army Upkeep** is a small amount of Resources that is subtracted from your Resource Production every 10 minutes based on how many Units you have.
-
-If your Resource Production is equal to your Army Upkeep, you will no longer be able to produce any more units until your resource production is positive.
-
 ## Food
 
 Food is an essential resource needed to sustain your military forces. It's produced by specialized Food Resource Bases.
@@ -102,6 +94,22 @@ Brick is primarily used for:
 - Building specialized military installations
 
 Brick Resource Bases can be constructed to ensure a steady supply of this construction material. As with other resource bases, the production rate increases as you upgrade the base level.
+
+## Army Upkeep
+
+![Army Upkeep](../assets/images/resources_upkeep.webp "Army Upkeep Resources")
+
+**Army Upkeep** is a small amount of Resources that is subtracted from your Resource Production every 10 minutes based on how many Units you have.
+
+If your Resource Production is equal to your Army Upkeep, you will no longer be able to produce any more units until your resource production is positive.
+
+Each unit type requires different resources for upkeep:
+- Infantry units consume Food
+- Armored and Sea units consume Iron
+- Air units consume Money
+- Supreme units and Special Forces consume a small amount of Premium resources
+
+Managing your Army Upkeep is crucial for maintaining a sustainable military force. As your army grows, you'll need to ensure that your resource production keeps pace with your upkeep requirements.
 
 ## Resource Management Tips
 
