@@ -31,8 +31,7 @@ WWO-Influence can be used to:
 - Purchase Special Deals in Store
 - Construct new bases (Resource, Military, and Mine bases)
 
-WWO-Influence can also be collected daily, for free, through Supply Crates, but once you get **500
-WWO or more** in your account, you stop receiving the bonuses until getting below this value again.
+WWO-Influence can also be collected daily, for free, through Supply Crates, but once you get **500 WWO or more** in your account, you stop receiving the bonuses until getting below this value again.
 
 Also, you can only collect up to **15.000 WWO-Influence per week**.
 

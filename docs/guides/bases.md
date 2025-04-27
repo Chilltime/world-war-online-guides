@@ -121,6 +121,11 @@ Key features of Capital Bases:
 - Cannot be constructed; they must be conquered from other players or NPCs
 - Located only in specific coordinates in each district (central areas)
 - Cost 0 WWO-Influence to acquire (through conquest)
+- Do not award experience points when acquired
+
+Capital Bases support the following actions:
+- Defend (station units to protect the base)
+- Train (train units for your army)
 
 Capital Bases provide modest resource production while offering strategic territorial control. As your capital base level increases, its production also increases according to the following progression:
 
@@ -149,6 +154,12 @@ Key features of Military Bases:
 - Provide higher unit production capacity compared to other base types
 - Grant 250 experience points when constructed
 - Can be upgraded to increase their effectiveness
+- Must be placed at valid locations on the map
+
+Military Bases support the following actions:
+- Defend (station units to protect the base)
+- Train (train units for your army)
+- Destroy (can be destroyed by enemy Special Forces)
 
 Military Bases' production rates increase significantly with each level:
 
@@ -170,9 +181,9 @@ Strategically placing Military Bases near your frontlines can provide significan
 ## Resource Bases
 
 Resource Bases generate various resources needed for your war effort. They can be specialized in one of the following resources:
-- **Money** - Used for purchasing and upgrading various assets
-- **Food** - Required for sustaining units
-- **Brick** - Used for construction and fortification
+- **Money** - Used for training Air units and purchasing various assets
+- **Food** - Required for training Infantry units
+- **Brick** - Used for upgrading bases and fortifications
 
 Key features of Resource Bases:
 - Limited to 10 per player
@@ -180,6 +191,13 @@ Key features of Resource Bases:
 - Grant 500 experience points when constructed
 - Can be specialized to focus on a specific resource type
 - Production improves with each level upgrade
+- Must be placed at valid locations on the map
+
+Resource Bases support the following actions:
+- Upgrade (increase production capacity)
+- Defend (station units to protect the base)
+- Train (train units for your army)
+- Destroy (can be destroyed by enemy Special Forces)
 
 Resource Bases' production rates increase with each level:
 
@@ -196,11 +214,14 @@ Resource Bases' production rates increase with each level:
 |     9      |       220       |
 |     10     |       240       |
 
-Balancing your resource production based on your current strategic needs is essential for efficient progress.
+Balancing your resource production based on your current strategic needs is essential for efficient progress. Different resource types support different aspects of your war effort:
+- Money Resource Bases support Air unit training
+- Food Resource Bases support Infantry unit training
+- Brick Resource Bases support base upgrades
 
 ## Mine Bases
 
-Mine Bases are specialized in Iron production, which is the primary resource used for unit training and base upgrades. These bases provide the highest Iron production rates in the game.
+Mine Bases are specialized in Iron production, which is the primary resource used for Armored and Sea unit training and Headquarters Base upgrades. These bases provide the highest Iron production rates in the game.
 
 Key features of Mine Bases:
 - Limited to 4 per player
@@ -208,6 +229,13 @@ Key features of Mine Bases:
 - Grant 500 experience points when constructed
 - Provide double the Iron production compared to standard Resource Bases
 - Can be targeted by enemies seeking to disrupt your resource production
+- Must be placed at valid locations on the map
+
+Mine Bases support the following actions:
+- Upgrade (increase production capacity)
+- Defend (station units to protect the base)
+- Train (train units for your army)
+- Destroy (can be destroyed by enemy Special Forces)
 
 Mine Bases' production rates increase with each level:
 
@@ -224,27 +252,46 @@ Mine Bases' production rates increase with each level:
 |     9      |       440       |
 |     10     |       480       |
 
-Protecting your Mine Bases should be a priority, as they provide essential resources for your war effort.
+Protecting your Mine Bases should be a priority, as they provide essential resources for your Armored and Sea units, which form the backbone of many military strategies.
 
 ## Base Limits and Costs
 
-Each type of base has a limit to how many you can own and a cost to construct:
+Each type of base has a limit to how many you can own, a cost to construct, and provides experience points when built:
 
-| Base Type | Maximum Allowed | Cost (WWO-Influence) |
-| :-------: | :-------------: | :------------------: |
-| Headquarters |        1        |          20         |
-| Capital     |        5        |           0         |
-| Military    |        5        |           2         |
-| Resource    |       10        |           4         |
-| Mine        |        4        |           8         |
+| Base Type    | Maximum Allowed | Cost (WWO-Influence) | Experience Points |
+| :-------:    | :-------------: | :------------------: | :---------------: |
+| Headquarters |        1        |          20          |       2000        |
+| Capital      |        5        |           0          |         0         |
+| Military     |        5        |           2          |        250        |
+| Resource     |       10        |           4          |        500        |
+| Mine         |        4        |           8          |        500        |
 
 Strategically diversifying your base portfolio is essential for balanced gameplay. As you progress in military rank, consider expanding your network of bases to maximize resource production and military capabilities.
+
+## Base Upgrades and Resource Requirements
+
+All bases except Capital Bases can be upgraded using Brick resources. The upgrade costs increase with each level and provide increased production rates.
+
+Upgrading bases requires:
+- Sufficient Brick resources 
+- Meeting the military rank requirement for the upgrade
+- Waiting for the upgrade timer to complete (can be accelerated with WWO-Influence)
+
+As you upgrade your bases, you'll receive experience points and increased resource production rates, enhancing your overall military capabilities.
+
+## Base Placement Rules
+
+When placing bases on the map, you must follow certain rules:
+- Bases must be placed at valid coordinates within districts
+- Different base types have different placement restrictions
+- Capital Bases have special placement coordinates in central district areas
+- Your base network should be strategically planned to maximize territorial control and resource efficiency
 
 ## Base Protection and Conquest
 
 All bases except for your Headquarters can be conquered or destroyed:
 - Capital Bases can be conquered using General units (see [Capital Warfare](capital-warfare.md))
-- Any base can be destroyed using Special Forces units (see [Tactical Units](unit-intro.md))
+- Resource, Mine, and Military bases can be destroyed using Special Forces units (see [Tactical Units](unit-intro.md))
 
 To protect your bases, consider:
 - Stationing defensive units at vulnerable bases
