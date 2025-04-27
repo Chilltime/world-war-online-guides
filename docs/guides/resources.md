@@ -2,10 +2,51 @@
 
 ![World War Online Resources](../assets/images/header_resources.webp "Game Resources")
 
-Resources are the currencies used to train [Units](unit-intro.md) and to upgrade your
-[Headquarters Base](bases.md).
+Resources are the currencies used to train [Units](unit-intro.md), upgrade your
+[Headquarters Base](bases.md), and maintain your military infrastructure.
 
-World War Online has two different resources: **Iron** and **WWO-Influence**.
+World War Online has five different resources:
+- **WWO-Influence** (Premium Currency)
+- **Money**
+- **Iron**
+- **Food**
+- **Brick**
+
+## WWO-Influence (Premium)
+
+![World War Online Resources](../assets/images/resources_wwo.webp "Game Resources")
+
+WWO-Influence is the premium resource in World War Online, primarily gained through in-game purchases in the [Store](store.md).
+
+Players who end a Season in Gold and Silver Leagues for [Squad Leaderboard](leaderboard-squad.md)
+also receive WWO-Influence that transfers to the next Season of World War Online.
+
+WWO-Influence can be used to:
+
+-   Train Supreme Units;
+-   Train Normal Units (if a player is out of Iron);
+-   Accelerate units movement on the map;
+-   Accelerate units training;
+-   Accelerate Headquarters Base upgrades;
+-   Purchase Special Deals in Store;
+-   Construct new bases (Resource, Military, and Mine bases).
+
+WWO-Influence can also be collected daily, for free, through Supply Crates, but once you get **500
+WWO or more** in your account, you stop receiving the bonuses until getting below this value again.
+
+Also, you can only collect up to **15.000 WWO-Influence per week**.
+
+## Money
+
+Money is a basic resource used for various economic activities in World War Online. It's primarily generated from dedicated Money Resource Bases.
+
+Money can be used for:
+- Purchasing common supplies
+- Paying for certain unit training costs
+- Supporting base construction and maintenance
+- Trading with other players
+
+Money Resource Bases can be constructed to increase your production rate. As your Money Resource Bases level up, they will produce more Money per hour.
 
 ## Iron
 
@@ -27,25 +68,42 @@ every 10 minutes based on how many Units you have.
 If your Resource Production is equal to your Army Upkeep, you will no longer be able to produce any
 more units until your resource production is positive.
 
-## WWO-Influence
+## Food
 
-![World War Online Resources](../assets/images/resources_wwo.webp "Game Resources")
+Food is an essential resource needed to sustain your military forces. It's produced by specialized Food Resource Bases.
 
-WWO-Influence is a resource primarily gained through an in-game purchase in the [Store](store.md).
+Food is primarily used for:
+- Sustaining your army's upkeep
+- Training and maintaining certain unit types, particularly Infantry units
+- Special operations and missions
+- Supporting base operations in challenging environments
 
-Players who end a Season in Gold and Silver Leagues for [Squad Leaderboard](leaderboard-squad.md)
-also receive WWO-Influence that transfers to the next Season of World War Online.
+Food Resource Bases can be constructed using WWO-Influence and upgraded to increase their production rate. Strategic placement of Food Resource Bases near your military operations can minimize transportation costs and ensure a steady supply.
 
-WWO-Influence can be used to:
+## Brick
 
--   Train Supreme Units;
--   Train Normal Units (if a player is out of Iron);
--   Accelerate units movement in the map;
--   Accelerate units training;
--   Accelerate Headquarters Base upgrades;
--   Purchase Special Deals in Store.
+Brick is a construction material resource used for fortification and building projects. It's produced by dedicated Brick Resource Bases.
 
-WWO-Influence can also be collected daily, for free, through Supply Crates, but, once you get **500
-WWO or more** in your account, you stop receiving the Bonuses until getting below this value again.
+Brick is primarily used for:
+- Constructing defensive fortifications
+- Reinforcing existing structures
+- Building specialized military installations
+- Upgrading base defenses
 
-Also, you can only collect up to **15.000 WWO-Influence per week**.
+Brick Resource Bases can be constructed to ensure a steady supply of this construction material. As with other resource bases, the production rate increases as you upgrade the base level.
+
+## Resource Management Tips
+
+Effective resource management is crucial for success in World War Online:
+
+1. **Diversify your resource production** - Build a mix of different resource bases to ensure you have all necessary materials.
+
+2. **Balance your economy** - Make sure your resource production exceeds your army's upkeep.
+
+3. **Prioritize critical resources** - Focus on resources that align with your strategy (e.g., Iron for unit production).
+
+4. **Protect your resource bases** - Station units to defend valuable resource production facilities.
+
+5. **Upgrade strategically** - Invest in upgrading bases that produce resources you use most frequently.
+
+6. **Maintain reserves** - Keep a buffer of resources to respond to unexpected opportunities or threats.
