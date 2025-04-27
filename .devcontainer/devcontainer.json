@@ -13,7 +13,8 @@
 	"remoteUser": "vscode",
 	"waitFor": "updateContentCommand",
 	"updateContentCommand": {
-		"install": "bash .devcontainer/requirements.sh"
+		"requirements": "bash .devcontainer/requirements.sh",
+		"claude": "npm install -g @anthropic-ai/claude-code"
 	},
 	// ---------------------------------------------------------------------------------------------
 	"forwardPorts": [8000],
