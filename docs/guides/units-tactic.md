@@ -7,6 +7,7 @@ The General is a Tactical Unit. It is used to conquer enemy Bases.
 -   Unlocked at Military Rank: 25;
 -   Must belong to a Squad.
 -   Enters Battle on Wave: 11.
+-   Resource cost: 5 WWO-Influence
 
 ## Special Forces
 
