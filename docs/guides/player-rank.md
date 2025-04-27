@@ -116,3 +116,48 @@ Below you can find the rewards for each military rank.
 | Level  |     XP     | Unlocked Units | WWO-Influence |  Iron  | Units Received |
 | :----: | :--------: | :------------: | :-----------: | :----: | :------------: |
 | **50** | 20.000.000 |       -        |      20       | 20.000 |       -        |
+
+## Unit Military Rank Requirements
+
+Below is a complete list of all active units and the military rank required to unlock them, sorted by rank:
+
+| Unit           | Military Rank |
+| :------------- | :-----------: |
+| Infantry       |       1       |
+| Bradley        |       2       |
+| Bazooka        |       3       |
+| Stinger        |       4       |
+| Bakhcha        |       5       |
+| Blackhawk      |       6       |
+| Akula          |       7       |
+| LG1            |       8       |
+| Reaper         |       9       |
+| Chengdu        |      10       |
+| Sniper         |      11       |
+| Arleigh Burke  |      12       |
+| Christy        |      13       |
+| Mortar         |      14       |
+| Gepard         |      15       |
+| Lynx           |      16       |
+| Abrams         |      17       |
+| Chinook        |      17       |
+| Dongfeng       |      18       |
+| Pomornik       |      19       |
+| ZU23           |      20       |
+| Leopard        |      22       |
+| General        |      25       |
+| Apache         |      26       |
+| Los Angeles    |      28       |
+| Charles Gaulle |      30       |
+| General Boxer  |      32       |
+| Marine         |      32       |
+| F35            |      34       |
+| F22            |      36       |
+| Daring         |      38       |
+| Panther        |      40       |
+| Special Forces |      40       |
+| Bastion P      |      42       |
+| Mobile SAM     |      44       |
+| C17            |      46       |
+| Zumwalt        |      46       |
+| B2             |      48       |

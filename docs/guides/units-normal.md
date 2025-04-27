@@ -14,7 +14,7 @@ sections.
 The Black Hawk is a Normal Airforce Unit. It is a fast-moving helicopter with anti-Infantry attack
 capabilities.
 
-It's unlocked when you reach Rank 6.
+It's unlocked when you reach Military Rank 6.
 
 -   **Strong against:** Infantry.
 -   **Weak against:** Airforce & Navy.

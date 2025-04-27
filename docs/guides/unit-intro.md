@@ -11,8 +11,7 @@ There are 4 different types of Units within World War Online:
 -   Airforce Units;
 -   Navy Units.
 
-Commanders unlock Units as their [Military Rank](player-rank.md) increases. There are also three
-different classes of Units:
+Commanders unlock Units as their [Military Rank](player-rank.md) increases. You can find a complete list of all units and their required military ranks [here](player-rank.md#unit-military-rank-requirements). There are also three different classes of Units:
 
 -   [Normal Units](units-normal.md), which only cost Iron. They'll constitute the bulk of your Army;
 -   [Supreme Units](units-supreme.md), which cost WWO-Influence or Money. They're much stronger than
