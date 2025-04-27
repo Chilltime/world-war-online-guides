@@ -8,6 +8,17 @@ The General is a Tactical Unit. It is used to conquer enemy Bases.
 -   Must belong to a Squad.
 -   Enters Battle on Wave: 11.
 
+## Special Forces
+
+The Special Forces is a Tactical Unit that allows you to destroy enemy bases if your attack is successful.
+
+-   Unlocked at Military Rank: 40;
+-   Strong against: Infantry, Armored
+-   Weak against: Air, Sea
+-   Resource cost: 2 WWO-Influence
+
+Special Forces units are elite tactical units with high defense capabilities across all categories. They excel at taking out infantry units, but are also effective against armored units. They have excellent dodge capabilities, making them difficult to hit in battle.
+
 ## Conquering a Base
 
 The General will automatically appear when you choose to conquer a Capital Base. When you conquer a
@@ -16,6 +27,16 @@ you must meet a few requirements:
 
 -   The Battle must be a Decisive Victory;
 -   The General must survive the Battle.
+
+## Destroying a Base
+
+To destroy an enemy base, you must use Special Forces units in your attack. When attacking with Special Forces:
+
+-   The Battle must be a Decisive Victory
+-   At least one Special Forces unit must survive the battle
+-   Base destruction is permanent and cannot be undone
+
+Destroying a base can be strategically important when denying resources or territory to enemy players.
 
 ## Tips for Killing a General
 
