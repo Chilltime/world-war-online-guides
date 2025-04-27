@@ -1,11 +1,14 @@
-# Your Headquarters Base
+# Bases in World War Online
 
 ![What is the HQ base?](../assets/images/beginner_headquarters.webp "Your Headquarters Base")
 
-There are 2 types of Bases in World War Online:
+World War Online features several types of bases, each with its own purpose and strategic importance:
 
--   **Headquarters Base**;
--   **Capital Bases** (see more in [Capital Warfare](capital-warfare.md)).
+-   **Headquarters Base** - Your primary base that provides Iron production
+-   **Capital Bases** - Strategic conquest points (see more in [Capital Warfare](capital-warfare.md))
+-   **Military Bases** - Enhance unit training capabilities
+-   **Resource Bases** - Generate various resources (Money, Food, Brick)
+-   **Mine Bases** - Specialized in Iron production
 
 ## Headquarters Base
 
@@ -104,3 +107,147 @@ your army, as units have [Upkeep](unit-stats.md).
 |   **48**   |   72 hours   | 115.000 |         23.625          |           48           |       126.000       |
 |   **49**   |   72 hours   | 126.000 |         24.000          |           49           |       144.000       |
 |   **50**   |   72 hours   |    0    |         24.375          |           50           |       162.500       |
+
+## Capital Bases
+
+![Capital Bases](../assets/images/capital_bases.webp "Capital Bases")
+
+Capital Bases are strategic conquest points that are essential for [Capital Warfare](capital-warfare.md). These bases serve as the backbone for territorial control and are instrumental in securing dominance in the game.
+
+Key features of Capital Bases:
+- Limited to 5 per player
+- Can be conquered by enemy players using General units
+- Provide production benefits at a rate of 50% compared to similar level Headquarters Base
+- Cannot be constructed; they must be conquered from other players or NPCs
+- Located only in specific coordinates in each district (central areas)
+- Cost 0 WWO-Influence to acquire (through conquest)
+
+Capital Bases provide modest resource production while offering strategic territorial control. As your capital base level increases, its production also increases according to the following progression:
+
+| Base Level | Production Rate |
+| :--------: | :-------------: |
+|     1      |       100       |
+|     2      |       125       |
+|     3      |       150       |
+|     4      |       200       |
+|     5      |       250       |
+|     6      |       375       |
+|     7      |       500       |
+|     8      |       750       |
+|     9      |      1000       |
+|     10     |      1250       |
+
+For more information on Capital Warfare mechanics, see the [Capital Warfare guide](capital-warfare.md).
+
+## Military Bases
+
+Military Bases enhance your unit training capabilities by providing additional unit capacity and faster training times. These bases are essential for players who focus on military strength and conquest.
+
+Key features of Military Bases:
+- Limited to 5 per player
+- Cost 2 WWO-Influence to construct
+- Provide higher unit production capacity compared to other base types
+- Grant 250 experience points when constructed
+- Can be upgraded to increase their effectiveness
+
+Military Bases' production rates increase significantly with each level:
+
+| Base Level | Production Rate |
+| :--------: | :-------------: |
+|     1      |       200       |
+|     2      |       250       |
+|     3      |       300       |
+|     4      |       400       |
+|     5      |       500       |
+|     6      |       750       |
+|     7      |      1000       |
+|     8      |      1500       |
+|     9      |      2000       |
+|     10     |      2500       |
+
+Strategically placing Military Bases near your frontlines can provide significant advantages during conflicts.
+
+## Resource Bases
+
+Resource Bases generate various resources needed for your war effort. They can be specialized in one of the following resources:
+- **Money** - Used for purchasing and upgrading various assets
+- **Food** - Required for sustaining units
+- **Brick** - Used for construction and fortification
+
+Key features of Resource Bases:
+- Limited to 10 per player
+- Cost 4 WWO-Influence to construct
+- Grant 500 experience points when constructed
+- Can be specialized to focus on a specific resource type
+- Production improves with each level upgrade
+
+Resource Bases' production rates increase with each level:
+
+| Base Level | Production Rate |
+| :--------: | :-------------: |
+|     1      |        60       |
+|     2      |        80       |
+|     3      |       100       |
+|     4      |       120       |
+|     5      |       140       |
+|     6      |       160       |
+|     7      |       180       |
+|     8      |       200       |
+|     9      |       220       |
+|     10     |       240       |
+
+Balancing your resource production based on your current strategic needs is essential for efficient progress.
+
+## Mine Bases
+
+Mine Bases are specialized in Iron production, which is the primary resource used for unit training and base upgrades. These bases provide the highest Iron production rates in the game.
+
+Key features of Mine Bases:
+- Limited to 4 per player
+- Cost 8 WWO-Influence to construct
+- Grant 500 experience points when constructed
+- Provide double the Iron production compared to standard Resource Bases
+- Can be targeted by enemies seeking to disrupt your resource production
+
+Mine Bases' production rates increase with each level:
+
+| Base Level | Production Rate |
+| :--------: | :-------------: |
+|     1      |       120       |
+|     2      |       160       |
+|     3      |       200       |
+|     4      |       240       |
+|     5      |       280       |
+|     6      |       320       |
+|     7      |       360       |
+|     8      |       400       |
+|     9      |       440       |
+|     10     |       480       |
+
+Protecting your Mine Bases should be a priority, as they provide essential resources for your war effort.
+
+## Base Limits and Costs
+
+Each type of base has a limit to how many you can own and a cost to construct:
+
+| Base Type | Maximum Allowed | Cost (WWO-Influence) |
+| :-------: | :-------------: | :------------------: |
+| Headquarters |        1        |          20         |
+| Capital     |        5        |           0         |
+| Military    |        5        |           2         |
+| Resource    |       10        |           4         |
+| Mine        |        4        |           8         |
+
+Strategically diversifying your base portfolio is essential for balanced gameplay. As you progress in military rank, consider expanding your network of bases to maximize resource production and military capabilities.
+
+## Base Protection and Conquest
+
+All bases except for your Headquarters can be conquered or destroyed:
+- Capital Bases can be conquered using General units (see [Capital Warfare](capital-warfare.md))
+- Any base can be destroyed using Special Forces units (see [Tactical Units](unit-intro.md))
+
+To protect your bases, consider:
+- Stationing defensive units at vulnerable bases
+- Creating a network of bases that can support each other
+- Upgrading bases to increase their defensive capabilities
+- Joining a squad for mutual protection and support

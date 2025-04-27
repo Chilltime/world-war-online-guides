@@ -14,7 +14,7 @@ sections.
 The Black Hawk is a Normal Airforce Unit. It is a fast-moving helicopter with anti-Infantry attack
 capabilities.
 
-It's unlocked when you reach Rank 6.
+It's unlocked when you reach Military Rank 6.
 
 -   **Strong against:** Infantry.
 -   **Weak against:** Airforce & Navy.
@@ -27,7 +27,7 @@ It's unlocked when you reach Rank 6.
 The Chengdu is a Normal Airforce Unit. It is a powerful Air-to-Air fighter and one of the fastest
 travelling units.
 
-It's unlocked when reaching Level 28.
+It's unlocked when you reach Military Rank 10.
 
 -   **Strong against:** Airforce.
 -   **Weak against:** Armored.
@@ -39,7 +39,7 @@ It's unlocked when reaching Level 28.
 
 The Lynx is a Normal Airforce Unit. It is a multipurpose helicopter specialized in anti-sea combat.
 
-It's unlocked when reaching Level 24.
+It's unlocked when you reach Military Rank 16.
 
 -   **Strong against:** Navy.
 -   **Weak against:** Armored.
@@ -52,7 +52,7 @@ It's unlocked when reaching Level 24.
 The Reaper is a Normal Airforce Unit. It is a a low-cost combat drone designed to take down Land
 (Infantry or Armored) Units.
 
-It's unlocked when reaching Level 21.
+It's unlocked when you reach Military Rank 9.
 
 -   **Strong against:** Armored.
 -   **Weak against:** Airforce & Navy.
@@ -67,7 +67,7 @@ It's unlocked when reaching Level 21.
 The BMD-3 Bakhcha is a Normal Armored Unit. It is an Infantry fighting vehicle capable of
 transporting and battling Infantry Units.
 
-It's unlocked when reaching Level 16.
+It's unlocked when you reach Military Rank 5.
 
 -   **Strong against:** Infantry.
 -   **Weak against:** Airforce & Navy.
@@ -79,7 +79,7 @@ It's unlocked when reaching Level 16.
 
 The Bradley is a Normal Armored Unit. It is a light tank focused on taking down other Armored Units.
 
-It's one of the units you start the game with.
+It's unlocked when you reach Military Rank 2.
 
 -   **Strong against:** Armored.
 -   **Weak against:** Airforce & Navy.
@@ -92,7 +92,7 @@ It's one of the units you start the game with.
 The Dongfeng is a Normal Armored Unit. It is a medium range anti-naval platform best suited for
 coastal defenses.
 
-It's unlocked when reaching Level 26.
+It's unlocked when you reach Military Rank 18.
 
 -   **Strong against:** Navy.
 -   **Weak against:** Airforce.
@@ -105,7 +105,7 @@ It's unlocked when reaching Level 26.
 The Gepard is a Normal Armored Unit. It is a low-cost, autonomous and mobile Anti-Airforce defense
 system.
 
-It's unlocked when reaching Level 20.
+It's unlocked when you reach Military Rank 15.
 
 -   **Strong against:** Airforce.
 -   **Weak against:** Armored.
@@ -120,7 +120,7 @@ It's unlocked when reaching Level 20.
 The Bazooka is a Infantry Unit. It consists of an Infantry Unit equipped with a man-portable rocket
 launcher used to destroy Armored Units.
 
-It's one of the units you start with.
+It's unlocked when you reach Military Rank 3.
 
 -   **Strong against:** Armored.
 -   **Weak against:** Airforce & Navy.
@@ -133,7 +133,7 @@ It's one of the units you start with.
 The Soldiers are a Infantry Unit. They're a rifle-wielding battalion that excels at battling other
 Infantry Units.
 
-It's unlocked when reaching Level 10.
+It's unlocked when you reach Military Rank 1.
 
 -   **Strong against:** Infantry.
 -   **Weak against:** Airforce.
@@ -146,7 +146,7 @@ It's unlocked when reaching Level 10.
 The Stinger is a Infantry Unit. It consists of an Infantry Unit equipped with a man-portable
 air-defense system used to destroy Airforce Units.
 
-It's unlocked when reaching Level 11.
+It's unlocked when you reach Military Rank 4.
 
 -   **Strong against:** Airforce.
 -   **Weak against:** Armored & Navy.
@@ -159,7 +159,7 @@ It's unlocked when reaching Level 11.
 The LG 1 is a Infantry Unit. It consists of an Infantry Unit equipped with anti-navy system, with a
 range of 20 km.
 
-It's unlocked when reaching Level 11.
+It's unlocked when you reach Military Rank 8.
 
 -   **Strong against:** Sea.
 -   **Weak against:** Air & Infantry.
@@ -173,7 +173,7 @@ It's unlocked when reaching Level 11.
 
 The Akula is a Navy Unit. It is a submarine which is best when taking down surface combatants.
 
-It's unlocked when reaching Level 8.
+It's unlocked when you reach Military Rank 7.
 
 -   **Strong against:** Navy.
 -   **Weak against:** Armored.
@@ -185,7 +185,7 @@ It's unlocked when reaching Level 8.
 
 The Arleigh is a Navy Unit. It is a combat unit capable of attacking Airforce Units.
 
-It's unlocked when reaching Level 18.
+It's unlocked when you reach Military Rank 12.
 
 -   **Strong against:** Airforce.
 -   **Weak against:** Navy.
@@ -197,7 +197,7 @@ It's unlocked when reaching Level 18.
 
 The Pomornik is a Navy Unit. It is a anti-tank hovercraft.
 
-It's unlocked when reaching Level 14.
+It's unlocked when you reach Military Rank 19.
 
 -   **Strong against:** Armored.
 -   **Weak against:** Navy.
@@ -209,7 +209,7 @@ It's unlocked when reaching Level 14.
 
 The Christy is a Navy Unit. It is a anti-infantry attack boat.
 
-It's unlocked when reaching Level 19.
+It's unlocked when you reach Military Rank 13.
 
 -   **Strong against:** Infantry.
 -   **Weak against:** Navy.
