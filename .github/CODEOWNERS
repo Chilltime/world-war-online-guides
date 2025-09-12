@@ -1,0 +1,13 @@
+# CODEOWNERS for World War Online Guides
+# These users will be automatically requested for review when someone opens a pull request
+
+# Global owners for all files
+* @jbrazio @danielvilaboa
+
+# Documentation files
+/docs/ @jbrazio @danielvilaboa
+*.md @jbrazio @danielvilaboa
+
+# Configuration files
+/mkdocs.yml @jbrazio @danielvilaboa
+/.github/ @jbrazio @danielvilaboa

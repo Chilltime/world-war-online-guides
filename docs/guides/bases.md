@@ -10,6 +10,35 @@ World War Online features several types of bases, each with its own purpose and 
 -   **Resource Bases** - Generate various resources (Money, Food, Brick)
 -   **Mine Bases** - Specialized in Iron production
 
+## Base Construction Costs
+
+Building bases requires [WWO-Influence](resources.md), with the cost varying by type:
+
+- **Military Base**: 2 WWO-Influence (fixed cost)
+- **Resource Base**: 4 WWO-Influence (base cost)
+- **Mine Base**: 8 WWO-Influence (base cost)
+
+**Important**: The cost of Resource and Mine bases increases based on how many resource bases you already have. For every 2 resource/mine bases you own, the cost increases by 1 WWO-Influence:
+
+| Number of Resource/Mine Bases | Resource Base Cost | Mine Base Cost |
+|:----------------------------:|:------------------:|:--------------:|
+| 1                            | 4                  | 8              |
+| 2                            | 4                  | 10             |
+| 3                            | 5                  | 12             |
+| 4                            | 5                  | 14             |
+| 5                            | 6                  | -              |
+| 6                            | 6                  | -              |
+| 7                            | 7                  | -              |
+| 8                            | 7                  | -              |
+| 9                            | 8                  | -              |
+| 10                           | 8                  | -              |
+
+**Cost Calculation:**
+- Resource Bases: +1 WWO cost for every 2 resource bases
+- Mine Bases: +2 WWO cost for each additional mine base
+
+Note: You are limited to a maximum of 10 Resource bases and 4 Mine bases per player.
+
 ## Headquarters Base
 
 Upon creating an account in World War Online, you will receive a **Headquarters Base** placed
@@ -33,6 +62,83 @@ The production rate depends on the level of the Headquarters Base, where a highe
 produces more resources. Your production rate also dictates the amount of units that you can have in
 your army, as units have [Upkeep](unit-stats.md).
 
+<<<<<<< HEAD
+**Note:** Experience (XP) values shown are approximate and increase exponentially with each level.
+
+### Headquarters Base Levels
+
+| Base Level | Upgrade Time | XP Gained | Iron Production p/ hour | Upgrade Cost (Iron) |
+| :--------: | :----------: | :-------: | :---------------------: | :-----------------: |
+|   **1**    |      -       |     -     |          1,650          |          -          |
+|   **2**    |  2 minutes   |    500    |          1,800          |       1,000         |
+|   **3**    |  5 minutes   |    625    |          1,950          |       2,000         |
+|   **4**    |  10 minutes  |    900    |          2,100          |       4,000         |
+|   **5**    |  30 minutes  |   1,350   |          2,250          |       8,000         |
+|   **6**    |   1 hour     |   2,000   |          2,400          |      16,000         |
+|   **7**    |   2 hours    |   2,900   |          2,550          |      32,000         |
+|   **8**    |   4 hours    |   4,000   |          2,700          |      50,000         |
+|   **9**    |   8 hours    |   5,350   |          2,850          |      75,000         |
+|   **10**   |  12 hours    |   7,000   |          3,000          |     100,000         |
+
+## Resource Bases
+
+Resource Bases produce Iron continuously and can be upgraded to increase production. You can build up to 10 Resource bases per player.
+
+### Resource Base Levels
+
+| Base Level | Upgrade Time | XP Gained | Iron Production p/ hour | Upgrade Cost (Iron) |
+| :--------: | :----------: | :-------: | :---------------------: | :-----------------: |
+|   **1**    |      -       |     -     |           640           |          -          |
+|   **2**    |  2 minutes   |    125    |           680           |       1,000         |
+|   **3**    |  5 minutes   |    156    |           720           |       2,000         |
+|   **4**    |  10 minutes  |    225    |           760           |       4,000         |
+|   **5**    |  30 minutes  |    337    |           800           |       8,000         |
+|   **6**    |   1 hour     |    500    |           840           |      16,000         |
+|   **7**    |   2 hours    |    725    |           880           |      32,000         |
+|   **8**    |   4 hours    |   1,000   |           920           |      50,000         |
+|   **9**    |   8 hours    |   1,337   |           960           |      75,000         |
+|   **10**   |  12 hours    |   1,750   |          1,000          |     100,000         |
+
+## Mine Bases
+
+Mine Bases produce significantly more Iron than Resource bases but are limited to 4 per player. They have the highest resource production rate among all base types.
+
+### Mine Base Levels
+
+| Base Level | Upgrade Time | XP Gained | Iron Production p/ hour | Upgrade Cost (Iron) |
+| :--------: | :----------: | :-------: | :---------------------: | :-----------------: |
+|   **1**    |      -       |     -     |           875           |          -          |
+|   **2**    |  2 minutes   |    125    |          1,000          |       1,000         |
+|   **3**    |  5 minutes   |    156    |          1,125          |       2,000         |
+|   **4**    |  10 minutes  |    225    |          1,250          |       4,000         |
+|   **5**    |  30 minutes  |    337    |          1,375          |       8,000         |
+|   **6**    |   1 hour     |    500    |          1,500          |      16,000         |
+|   **7**    |   2 hours    |    725    |          1,625          |      32,000         |
+|   **8**    |   4 hours    |   1,000   |          1,750          |      50,000         |
+|   **9**    |   8 hours    |   1,337   |          1,875          |      75,000         |
+|   **10**   |  12 hours    |   1,750   |          2,000          |     100,000         |
+
+## Military Bases
+
+Military Bases are used to train units and defend strategic positions. You can build up to 5 Military bases per player. Unlike resource-producing bases, Military bases generate defensive power rather than Iron.
+
+### Military Base Levels
+
+| Base Level | Upgrade Time | XP Gained | Defense Power | Upgrade Cost (Iron) |
+| :--------: | :----------: | :-------: | :-----------: | :-----------------: |
+|   **1**    |      -       |     -     |      200      |          -          |
+|   **2**    |  2 minutes   |     62    |      250      |       1,000         |
+|   **3**    |  5 minutes   |     78    |      300      |       2,000         |
+|   **4**    |  10 minutes  |    112    |      400      |       4,000         |
+|   **5**    |  30 minutes  |    168    |      500      |       8,000         |
+|   **6**    |   1 hour     |    250    |      750      |      16,000         |
+|   **7**    |   2 hours    |    362    |     1,000     |      32,000         |
+|   **8**    |   4 hours    |    500    |     1,500     |      50,000         |
+|   **9**    |   8 hours    |    668    |     2,000     |      75,000         |
+|   **10**   |  12 hours    |    875    |     2,500     |     100,000         |
+
+**Note:** The "Defense Power" value represents the base's contribution to defensive capabilities when units are stationed there.
+=======
 ### Level 1-10
 
 | Base Level | Upgrade Time |  XP   | Iron Production p/ hour | Military Rank Required | Upgrade Cost (Iron) |
@@ -298,3 +404,4 @@ To protect your bases, consider:
 - Creating a network of bases that can support each other
 - Upgrading bases to increase their defensive capabilities
 - Joining a squad for mutual protection and support
+>>>>>>> bbe3dc83e97198face79d2753aae235fa8a23acd
