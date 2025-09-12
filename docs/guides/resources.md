@@ -40,6 +40,7 @@ WWO-Influence can be used to:
 
 -   Train Supreme Units;
 -   Train Normal Units (if a player is out of Iron);
+-   Build new bases (cost increases with number of resource bases);
 -   Accelerate units movement in the map;
 -   Accelerate units training;
 -   Accelerate Headquarters Base upgrades;
