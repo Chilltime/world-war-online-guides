@@ -74,7 +74,11 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/Chilltime
     - icon: fontawesome/brands/discord
+<<<<<<< HEAD
       link: https://discord.gg/AEcggZh
+=======
+      link: https://discord.gg/7JgMjwE6
+>>>>>>> bbe3dc83e97198face79d2753aae235fa8a23acd
     - icon: fontawesome/brands/x-twitter
       link: https://x.com/worldwaronline
 plugins:
