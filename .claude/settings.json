@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "projectName": "World War Online Guides",
+  "description": "MkDocs documentation site for World War Online game guides",
+  "permissions": {
+    "allow": [
+      "Bash(mkdocs serve:*)",
+      "Bash(git *)",
+      "Read(//usr/bin/**)"
+    ]
+  },
+  "enableAllProjectMcpServers": false,
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "if grep -qE '^(<<<<<<<|=======|>>>>>>>)' mkdocs.yml docs/guides/*.md 2>/dev/null; then echo ''; echo '⚠️  WARNING: Merge conflict markers detected!'; echo '   This will cause GitHub Actions build to fail.'; echo '   Run: grep -n \"^<<<<<<<\\|^=======\\|^>>>>>>>\" mkdocs.yml docs/guides/*.md'; echo ''; fi",
+            "timeout": 3
+          }
+        ]
+      }
+    ]
+  },
+  "projectContext": {
+    "structure": "MkDocs static site generator with Material theme",
+    "deployment": "GitHub Pages",
+    "mainBranch": "main",
+    "contentLocation": "docs/",
+    "configuration": "mkdocs.yml"
+  },
+  "availableCommands": {
+    "serve": "mkdocs serve (if Python/MkDocs installed locally)",
+    "build": "mkdocs build (generates site/ directory)",
+    "deploy": "mkdocs gh-deploy (deploys to GitHub Pages)"
+  },
+  "notes": {
+    "videoEmbedding": "Uses mkdocs-video plugin with ![type:video](youtube_url) syntax",
+    "mergeConflicts": "Check for <<<<<<, ======, >>>>>> markers before committing",
+    "githubPages": "Site automatically builds and deploys on push to main branch"
+  }
+}
