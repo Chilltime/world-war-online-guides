@@ -117,7 +117,6 @@ Effective resource management is crucial for success in World War Online:
 
 1. **Understand unit resource requirements** - Different unit types require different resources, so plan your resource production based on your army composition strategy.
 
-<<<<<<< HEAD
 -   Train Supreme Units;
 -   Train Normal Units (if a player is out of Iron);
 -   Build new bases (cost increases with number of resource bases);
@@ -125,9 +124,6 @@ Effective resource management is crucial for success in World War Online:
 -   Accelerate units training;
 -   Accelerate Headquarters Base upgrades;
 -   Purchase Special Deals in Store.
-=======
-2. **Diversify your resource production** - Build a mix of different resource bases to ensure you have all necessary materials.
->>>>>>> bbe3dc83e97198face79d2753aae235fa8a23acd
 
 3. **Balance your economy** - Make sure your resource production exceeds your army's upkeep.
 

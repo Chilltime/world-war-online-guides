@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 World War Online Discord
+    url: https://discord.gg/AEcggZh
+    about: Join our Discord community for general discussions and quick help
+  - name: 🎮 Play World War Online
+    url: https://www.worldwaronline.com
+    about: Visit the official World War Online website
+  - name: 📖 Game Documentation
+    url: https://guides.worldwaronline.com
+    about: View the complete game guides and documentation
+  - name: ❓ General Questions
+    url: https://github.com/Chilltime/world-war-online-guides/discussions
+    about: Ask questions and discuss with other players in GitHub Discussions

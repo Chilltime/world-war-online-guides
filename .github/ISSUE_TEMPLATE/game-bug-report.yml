@@ -1,0 +1,131 @@
+name: 🐛 Game Bug Report
+description: Report a bug or issue in World War Online game
+title: "[Game Bug]: "
+labels: ["bug", "game-issue", "needs-triage"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug in World War Online! 
+        Please fill out the information below to help us understand and address the issue.
+        
+        **Note**: This is for reporting bugs in the game itself, not the documentation.
+        
+  - type: dropdown
+    id: bug-category
+    attributes:
+      label: Bug Category
+      description: What area of the game is affected?
+      options:
+        - Units/Combat
+        - Bases/Resources
+        - Maps/Movement
+        - Store/Purchases
+        - Squads/Multiplayer
+        - Campaign
+        - Capital Warfare
+        - Chat/Communication
+        - Account/Login
+        - Other
+    validations:
+      required: true
+      
+  - type: textarea
+    id: description
+    attributes:
+      label: Bug Description
+      description: Provide a clear and concise description of the bug
+      placeholder: "Example: When training Supreme Units, the resource cost shows as 0 instead of the actual WWO-Influence cost"
+    validations:
+      required: true
+      
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: List the steps to reproduce the bug
+      placeholder: |
+        1. Go to Military Base
+        2. Select Supreme Units tab
+        3. Click on any Supreme Unit
+        4. Notice the resource cost displays incorrectly
+    validations:
+      required: true
+      
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What should happen instead?
+      placeholder: "The Supreme Unit should show the correct WWO-Influence cost"
+    validations:
+      required: true
+      
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual Behavior
+      description: What actually happens?
+      placeholder: "The cost shows as 0 WWO-Influence"
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      description: What platform are you playing on?
+      options:
+        - iOS
+        - Android
+        - Web Browser
+      multiple: true
+    validations:
+      required: true
+      
+  - type: input
+    id: device
+    attributes:
+      label: Device Information
+      description: Device model and OS version (if applicable)
+      placeholder: "iPhone 14 Pro, iOS 17.2"
+      
+  - type: input
+    id: game-version
+    attributes:
+      label: Game Version
+      description: What version of World War Online are you playing?
+      placeholder: "v2.1.5"
+      
+  - type: input
+    id: username
+    attributes:
+      label: In-Game Username
+      description: Your World War Online username (optional, for follow-up)
+      placeholder: "Commander123"
+      
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots/Videos
+      description: Add any screenshots or video links that help explain the issue
+      placeholder: "Drag and drop images here or paste links"
+      
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Any other information that might be helpful
+      placeholder: "This started happening after the last update..."
+      
+  - type: checkboxes
+    id: severity
+    attributes:
+      label: Impact
+      description: How does this bug affect gameplay?
+      options:
+        - label: Game-breaking (cannot play)
+        - label: Major impact (significantly affects gameplay)
+        - label: Minor impact (annoying but playable)
+        - label: Visual/cosmetic only
