@@ -1,0 +1,99 @@
+name: 📚 Documentation Issue
+description: Report an issue with the World War Online guides/documentation
+title: "[Docs]: "
+labels: ["documentation", "guides", "needs-triage"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve the World War Online documentation!
+        Please provide details about the issue you've found in the guides.
+        
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: Issue Type
+      description: What kind of documentation issue is this?
+      options:
+        - Incorrect information
+        - Missing information
+        - Outdated content
+        - Broken links/images
+        - YouTube videos not displaying
+        - Typos/grammar
+        - Unclear instructions
+        - Other
+    validations:
+      required: true
+      
+  - type: input
+    id: page-url
+    attributes:
+      label: Page URL
+      description: Link to the documentation page with the issue
+      placeholder: "https://guides.worldwaronline.com/guides/units-normal/"
+    validations:
+      required: true
+      
+  - type: input
+    id: section
+    attributes:
+      label: Section/Heading
+      description: Which section of the page has the issue?
+      placeholder: "Example: Infantry Units > Soldier"
+      
+  - type: textarea
+    id: description
+    attributes:
+      label: Issue Description
+      description: Describe the documentation issue in detail
+      placeholder: "The Soldier unit stats show 100 HP but in-game it has 120 HP"
+    validations:
+      required: true
+      
+  - type: textarea
+    id: current-content
+    attributes:
+      label: Current Content
+      description: What does the documentation currently say? (if applicable)
+      placeholder: "Current text: 'Soldier has 100 HP and costs 500 Food'"
+      
+  - type: textarea
+    id: suggested-content
+    attributes:
+      label: Suggested Correction
+      description: What should the documentation say instead?
+      placeholder: "Should be: 'Soldier has 120 HP and costs 500 Food'"
+    validations:
+      required: true
+      
+  - type: textarea
+    id: source
+    attributes:
+      label: Information Source
+      description: How do you know this information is incorrect/missing?
+      placeholder: "Verified in-game on version 2.1.5, checked unit stats in Military Base"
+      
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Add screenshots from the game or documentation to support your report
+      placeholder: "Drag and drop images here"
+      
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Notes
+      description: Any other information that might be helpful
+      placeholder: "This changed in the last game update..."
+      
+  - type: checkboxes
+    id: contribution
+    attributes:
+      label: Contribution
+      description: Would you like to help fix this?
+      options:
+        - label: I can submit a pull request to fix this issue
+        - label: I can provide more information if needed

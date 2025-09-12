@@ -1,0 +1,121 @@
+name: 💡 Feature Request
+description: Suggest a new feature or improvement for World War Online
+title: "[Feature Request]: "
+labels: ["enhancement", "feature-request", "needs-triage"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your feature suggestion for World War Online!
+        Please provide as much detail as possible to help us understand your idea.
+        
+  - type: dropdown
+    id: feature-area
+    attributes:
+      label: Feature Area
+      description: What part of the game would this feature affect?
+      options:
+        - New Units
+        - Base Improvements
+        - Combat Mechanics
+        - Resource Management
+        - Maps/Territories
+        - Squad Features
+        - Campaign Mode
+        - Capital Warfare
+        - Store/Economy
+        - Social Features
+        - UI/UX Improvements
+        - Quality of Life
+        - Other
+    validations:
+      required: true
+      
+  - type: textarea
+    id: description
+    attributes:
+      label: Feature Description
+      description: Describe your feature idea in detail
+      placeholder: |
+        Example: Add a "Unit Queue" feature that allows players to queue multiple units for training.
+        When one unit finishes training, the next one automatically starts.
+    validations:
+      required: true
+      
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem It Solves
+      description: What problem or frustration does this feature address?
+      placeholder: |
+        Currently, players have to manually start training each unit, which requires
+        constant checking and can be tedious, especially during long play sessions.
+    validations:
+      required: true
+      
+  - type: textarea
+    id: implementation
+    attributes:
+      label: Suggested Implementation
+      description: How do you envision this feature working?
+      placeholder: |
+        1. Add a "Queue" button next to each unit in the training interface
+        2. Allow players to add up to 5 units to the queue
+        3. Display queue status and estimated completion times
+        4. Allow cancellation of queued units with resource refund
+      
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternative Solutions
+      description: Have you considered any alternative approaches?
+      placeholder: "Another option could be to allow batch training of multiple units at once..."
+      
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      description: How important is this feature to you?
+      options:
+        - Critical - Game is frustrating without it
+        - High - Would significantly improve gameplay
+        - Medium - Nice to have
+        - Low - Minor improvement
+    validations:
+      required: true
+      
+  - type: textarea
+    id: examples
+    attributes:
+      label: Examples from Other Games
+      description: Have you seen this feature work well in other games?
+      placeholder: "Clash of Clans has a similar training queue system that works really well..."
+      
+  - type: textarea
+    id: mockups
+    attributes:
+      label: Mockups/Visualizations
+      description: Add any mockups, sketches, or visual representations of your idea
+      placeholder: "Drag and drop images here"
+      
+  - type: checkboxes
+    id: impact
+    attributes:
+      label: Expected Impact
+      description: What aspects of the game would this improve?
+      options:
+        - label: Reduce repetitive tasks
+        - label: Improve game balance
+        - label: Enhance strategic depth
+        - label: Better user experience
+        - label: Increase engagement
+        - label: Help new players
+        - label: Competitive gameplay
+        
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Any other information about your feature request
+      placeholder: "This would be especially helpful for players who can only check the game a few times per day..."

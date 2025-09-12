@@ -43,6 +43,13 @@ battle in Capital Warfare. You can learn more about this in the
 
 **6. Who can I contact to report a bug or an issue in-game?**
 
-You can [submit a ticket](https://forms.gle/LN6CvFTAZ95gXF3W9) in our customer support form. After
-reporting a bug using our Customer Support form, the team will verify all the details and situations
-you described.
+You have two options to report bugs:
+
+- **[Report a Game Bug on GitHub](https://github.com/Chilltime/world-war-online-guides/issues/new?template=game-bug-report.yml&title=%5BGame+Bug%5D%3A+)** - Use our structured bug report form to help us track and fix issues
+- **[Submit a Support Ticket](https://forms.gle/LN6CvFTAZ95gXF3W9)** - Contact customer support directly
+
+For documentation issues or feature requests:
+- **[Report Documentation Issues](https://github.com/Chilltime/world-war-online-guides/issues/new?template=documentation-issue.yml&title=%5BDocs%5D%3A+)** - Help us improve these guides
+- **[Request New Features](https://github.com/Chilltime/world-war-online-guides/issues/new?template=feature-request.yml&title=%5BFeature+Request%5D%3A+)** - Suggest improvements for World War Online
+
+After reporting a bug, the team will verify all the details and situations you described.
