@@ -126,12 +126,10 @@ nav:
     - Leaderboard:
       - Player: guides/leaderboard-player.md
       - Squad: guides/leaderboard-squad.md
-  - Community:
-    - Ingame Chat: guides/chat.md
-    - Discord: legal/discord-chat.md
+    - Community:
+      - Ingame Chat: guides/chat.md
+      - Discord: legal/discord-chat.md
   - Support:
     - FAQ: faq/index.md
     - Cheating: legal/reports-bans-suspensions.md
-  - 🐛 Report Game Bug: https://github.com/Chilltime/world-war-online-guides/issues/new/choose
-  - 📚 Report Docs Issue: https://github.com/Chilltime/world-war-online-guides/issues/new/choose
-  - 💡 Request Feature: https://github.com/Chilltime/world-war-online-guides/issues/new/choose
+  - 🐛 Report an Issue: https://github.com/Chilltime/world-war-online-guides/issues/new/choose
