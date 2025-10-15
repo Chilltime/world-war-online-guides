@@ -24,12 +24,18 @@ host their respective country's flags in the podium.
 
 ## Capital Warfare cycles
 
-Capital Warfare cycles are as described in the image below. The green zones indicate when the
-Capital Warfare is open and the cooldown periods are between cycles.
+Capital Warfare operates on a consistent two-week cycle system with predictable timing:
 
-### We are updating this section for the updates of Season 4 / Championship 2021
+### Cycle Schedule
 
-![Capital Warfare - Timings](../assets/images/squad_wars_schedule.webp "Capital Warfare - Timings")
+- **Start Time**: Every Wednesday at 12:00 UTC (midday Portugal time)
+- **Combat Duration**: 13 days and 12 hours
+- **End Time**: Tuesday at 24:00 UTC / Wednesday at 00:00 UTC (two weeks after start)
+- **Preparation Window**: 12 hours between cycles (00:00-12:00 UTC on Wednesday)
+  - Cleanup phase: 00:00-02:00 UTC
+  - Preparation phase: 02:00-12:00 UTC
+
+This means Capital Warfare starts every Wednesday at noon UTC and runs continuously for nearly two weeks, giving squads ample time to strategize and compete for control of the capital bases.
 
 ## Squad Matchmaking
 
