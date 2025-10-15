@@ -71,7 +71,7 @@ extra:
           data: 0
           note: >-
             Thanks for your feedback! Help us improve this page by
-            using our <a href="https://github.com/Chilltime/world-war-online-guides/issues/new" target="_blank" rel="noopener">creating a Issue</a>.
+            using our <a href="https://github.com/Chilltime/world-war-online-guides/issues/new/choose" target="_blank" rel="noopener">creating a Issue</a>.
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/Chilltime
@@ -123,15 +123,13 @@ nav:
     - Capital warfare: guides/capital-warfare.md
     - Player ranks: guides/player-rank.md
     - Player Squads: guides/squads.md
-  - Leaderboard:
-    - Player: guides/leaderboard-player.md
-    - Squad: guides/leaderboard-squad.md
-  - Community:
-    - Ingame Chat: guides/chat.md
-    - Discord: legal/discord-chat.md
+    - Leaderboard:
+      - Player: guides/leaderboard-player.md
+      - Squad: guides/leaderboard-squad.md
+    - Community:
+      - Ingame Chat: guides/chat.md
+      - Discord: legal/discord-chat.md
   - Support:
     - FAQ: faq/index.md
     - Cheating: legal/reports-bans-suspensions.md
-  - 🐛 Report Game Bug: https://github.com/Chilltime/world-war-online-guides/issues/new?template=game-bug-report.yml&title=%5BGame+Bug%5D%3A+
-  - 📚 Report Docs Issue: https://github.com/Chilltime/world-war-online-guides/issues/new?template=documentation-issue.yml&title=%5BDocs%5D%3A+
-  - 💡 Request Feature: https://github.com/Chilltime/world-war-online-guides/issues/new?template=feature-request.yml&title=%5BFeature+Request%5D%3A+
+  - 🐛 Report an Issue: https://github.com/Chilltime/world-war-online-guides/issues/new/choose

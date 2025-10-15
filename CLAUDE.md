@@ -4,14 +4,26 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Security Guidelines
 
-**IMPORTANT**: This is a public repository. 
+**IMPORTANT**: This is a public repository.
 - Keep all sensitive settings (API keys, personal preferences, auth tokens) in `.claude/settings.local.json`
 - The `.claude/settings.json` file is committed to the repository and should only contain non-sensitive project configuration
 - Always review changes to `.claude/settings.json` before committing to ensure no sensitive data is exposed
+- **Content Guidelines**: Only include player-facing, public game information in documentation. Never expose internal game mechanics, private systems, or confidential information
 
 ## Project Overview
 
 This is a MkDocs documentation site for World War Online game guides, deployed via GitHub Pages. The site uses the Material theme and includes embedded YouTube videos for game unit demonstrations.
+
+## Claude Code Slash Commands
+
+### `/push` - Create Pull Request
+Pushes your changes and creates a pull request with proper formatting:
+- Reviews all changes since branch diverged from main
+- Generates comprehensive PR description using the repository's template
+- Includes security reminders about public repository guidelines
+- Automatically fills in changelog with AI-generated summary
+
+Usage: Simply type `/push` when you're ready to create a PR
 
 ## Build and Development Commands
 
