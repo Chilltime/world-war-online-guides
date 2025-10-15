@@ -123,9 +123,9 @@ nav:
     - Capital warfare: guides/capital-warfare.md
     - Player ranks: guides/player-rank.md
     - Player Squads: guides/squads.md
-  - Leaderboard:
-    - Player: guides/leaderboard-player.md
-    - Squad: guides/leaderboard-squad.md
+    - Leaderboard:
+      - Player: guides/leaderboard-player.md
+      - Squad: guides/leaderboard-squad.md
   - Community:
     - Ingame Chat: guides/chat.md
     - Discord: legal/discord-chat.md

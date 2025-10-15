@@ -24,18 +24,18 @@ host their respective country's flags in the podium.
 
 ## Capital Warfare cycles
 
-Capital Warfare operates on a consistent two-week cycle system with predictable timing:
+Capital Warfare operates on a consistent one-week cycle system with predictable timing:
 
 ### Cycle Schedule
 
 - **Start Time**: Every Wednesday at 12:00 UTC (midday Portugal time)
-- **Combat Duration**: 13 days and 12 hours
-- **End Time**: Tuesday at 24:00 UTC / Wednesday at 00:00 UTC (two weeks after start)
+- **Combat Duration**: 6 days and 12 hours (6.5 days)
+- **End Time**: Tuesday at 24:00 UTC / Wednesday at 00:00 UTC (one week after start)
 - **Preparation Window**: 12 hours between cycles (00:00-12:00 UTC on Wednesday)
-  - Cleanup phase: 00:00-02:00 UTC
-  - Preparation phase: 02:00-12:00 UTC
+  - Cleanup phase: 00:00-02:00 UTC (warfare ends, units return, promotions/demotions processed)
+  - Preparation phase: 02:00-12:00 UTC (new cycles created, matchmaking occurs)
 
-This means Capital Warfare starts every Wednesday at noon UTC and runs continuously for nearly two weeks, giving squads ample time to strategize and compete for control of the capital bases.
+This means Capital Warfare starts every Wednesday at noon UTC and runs for one week, providing a predictable weekly schedule for squads to compete for control of the capital bases.
 
 ## Squad Matchmaking
 
