@@ -7,6 +7,14 @@ amounts.
 You can know more about their stats in [Unit Stats](unit-stats.md) and [Unit Train](unit-train.md)
 sections.
 
+## Video Overview
+
+Watch all Normal Units in action:
+
+![type:video](https://www.youtube.com/embed/PRqvAr9XBAE?list=PLRQ5jyWDvu9MGT0UBC1Aj_8_tEC1_Kj3k)
+
+[View Full Playlist on YouTube :fontawesome-brands-youtube:](https://www.youtube.com/playlist?list=PLRQ5jyWDvu9MGT0UBC1Aj_8_tEC1_Kj3k){ .md-button .md-button--primary target="_blank" }
+
 ## Airforce
 
 ### Black Hawk
