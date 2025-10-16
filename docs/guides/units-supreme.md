@@ -7,6 +7,14 @@ this.
 You can know more about their stats in [Unit Stats](unit-stats.md) and [Unit Train](unit-train.md)
 sections.
 
+## Video Overview
+
+Watch all Supreme Units in action:
+
+![type:video](https://www.youtube.com/embed/ZaDTCF64vq4?list=PLRQ5jyWDvu9MPLizQL3EXxNcsdckzH8hR)
+
+[View Full Playlist on YouTube :fontawesome-brands-youtube:](https://www.youtube.com/playlist?list=PLRQ5jyWDvu9MPLizQL3EXxNcsdckzH8hR){ .md-button .md-button--primary target="_blank" }
+
 ## Airforce
 
 ### Apache

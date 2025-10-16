@@ -7,18 +7,13 @@
 In order to join World War Online and start planning your battles, you need to create an account
 either on Browser or App.
 
-These are the currently available options:
+These are the currently available login options:
 
--   Email and Password;
 -   Facebook Login;
--   Google Login.
+-   Google Login;
+-   Discord Login.
 
-### Forgetting your password
-
-If you forget your login password, you can select the option "Recover Password" in Login/Register
-section. Then, you just have to insert your email, click in "Submit" and you will receive an email
-to change your password. If this doesn't work, please contact us on one of our
-[Support channels](/support).
+All login methods use OAuth authentication for secure access to your account.
 
 ## Selecting a Country
 

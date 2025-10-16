@@ -1,5 +1,13 @@
 # Tactical Units
 
+## Video Overview
+
+Watch all Tactical Units in action:
+
+![type:video](https://www.youtube.com/embed/KEDrPPKfwnk?list=PLRQ5jyWDvu9M-_VXCjuQer9SERVtavr-R)
+
+[View Full Playlist on YouTube :fontawesome-brands-youtube:](https://www.youtube.com/playlist?list=PLRQ5jyWDvu9M-_VXCjuQer9SERVtavr-R){ .md-button .md-button--primary target="_blank" }
+
 ## General
 
 The General is a Tactical Unit. It is used to conquer enemy Bases.
