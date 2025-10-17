@@ -48,15 +48,22 @@ mkdocs build --site-dir _site/
 Always check for conflict markers (`<<<<<<<`, `=======`, `>>>>>>>`) before committing. These prevent the site from building properly on GitHub Pages.
 
 ### YouTube Video Embedding
-Videos are embedded using the mkdocs-video plugin with this syntax:
-```markdown
-![type:video](https://www.youtube.com/embed/VIDEO_ID)
+Videos are embedded using standard HTML iframe elements:
+```html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID"
+        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
+```
+
+For buttons linking to YouTube playlists, use standard HTML anchor tags with Material theme classes:
+```html
+<a href="https://www.youtube.com/playlist?list=PLAYLIST_ID" target="_blank" class="md-button md-button--primary">View Full Playlist on YouTube</a>
 ```
 
 If videos aren't appearing on the deployed site, verify:
 1. No merge conflicts exist (they prevent GitHub Actions from building)
-2. The mkdocs-video plugin is installed
-3. The video URL uses the `/embed/` format
+2. The video URL uses the `/embed/` format
+3. The iframe HTML is properly formatted
 
 ## Architecture and Structure
 
@@ -84,11 +91,12 @@ docs/
 4. Deploys to GitHub Pages at https://guides.worldwaronline.com/
 
 ### MkDocs Plugins Used
-- `mkdocs-video` - YouTube video embedding
 - `mkdocs-minify-plugin` - HTML minification
 - `git-revision-date-localized` - Shows last update dates
 - `git-committers` - Shows contributors
 - `search` - Site search functionality
+
+Note: YouTube videos are embedded using standard HTML iframes, not a plugin.
 
 ## Working with Game Guide Content
 

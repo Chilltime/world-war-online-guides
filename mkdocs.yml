@@ -68,10 +68,6 @@ extra:
 plugins:
   - search:
     #
-  - mkdocs-video:
-      is_video: true
-      video_muted: true
-      video_controls: true
   - git-revision-date-localized:
       enable_creation_date: true
   - git-committers:
