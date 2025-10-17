@@ -7,6 +7,19 @@ points you get for each unit built and the max number of units you can build per
 more about the different types in the [Normal](units-normal.md) and [Supreme](units-supreme.md)
 Units sections.
 
+## Unit Capacity System
+
+Your total army size is limited by a **Unit Cap** based on the number of bases you own. Each non-capital base (Headquarters, Military Bases, Resource Bases, and Mine Bases) provides capacity for **10,000 Normal Units**.
+
+**Key Points:**
+- **Normal Units** count toward your unit cap (all Infantry, Armored, Airforce, and Navy units listed below)
+- **Supreme Units** do NOT count toward your unit cap
+- **Tactical Units** (Generals and Special Forces) do NOT count toward your unit cap
+- Capital bases do NOT provide unit capacity
+- You cannot train additional Normal Units if it would exceed your unit cap
+
+**Example:** If you have 5 bases (1 Headquarters + 2 Military Bases + 2 Resource Bases), your unit cap is 50,000 Normal Units.
+
 ## Normal Units
 
 |      Unit      | Iron Cost per Unit | Min Military Rank | XP per Unit Built | Max Units | Health Points | Steal Capacity |

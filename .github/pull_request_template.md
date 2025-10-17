@@ -1,14 +1,24 @@
-## Task:
+# Pull Request Template
 
-Resolves #
+## Github Issue
 
-## Changelog (AI Generated):
+Resolves: #<!-- Add issue number here, generally first numbers of the branch name -->
 
+## Summary
 
+<!-- Provide a brief description of the changes in this PR -->
 
-## Screenshots / Videos:
+## Changes Made
 
+<!-- List the specific changes made in this PR -->
 
-## Follow up tasks:
+-
+-
 
+## Next Steps
+
+<!-- List 1-3 bullet points of what needs to be done after this PR is merged -->
+
+-
+-
 -
