@@ -11,9 +11,9 @@ sections.
 
 Watch all Normal Units in action:
 
-![type:video](https://www.youtube.com/embed/PRqvAr9XBAE?list=PLRQ5jyWDvu9MGT0UBC1Aj_8_tEC1_Kj3k)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PRqvAr9XBAE?list=PLRQ5jyWDvu9MGT0UBC1Aj_8_tEC1_Kj3k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[View Full Playlist on YouTube :fontawesome-brands-youtube:](https://www.youtube.com/playlist?list=PLRQ5jyWDvu9MGT0UBC1Aj_8_tEC1_Kj3k){ .md-button .md-button--primary target="_blank" }
+<a href="https://www.youtube.com/playlist?list=PLRQ5jyWDvu9MGT0UBC1Aj_8_tEC1_Kj3k" target="_blank" class="md-button md-button--primary">View Full Playlist on YouTube</a>
 
 ## Airforce
 
@@ -28,7 +28,7 @@ It's unlocked when you reach Military Rank 6.
 -   **Weak against:** Airforce & Navy.
 -   **Resource cost:** 28 Iron.
 
-![type:video](https://www.youtube.com/embed/8P0d0YyQqiI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8P0d0YyQqiI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Chengdu
 
@@ -41,7 +41,7 @@ It's unlocked when you reach Military Rank 10.
 -   **Weak against:** Armored.
 -   **Resource cost:** 28 Iron.
 
-![type:video](https://www.youtube.com/embed/CLmyIRJ9qRc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CLmyIRJ9qRc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Lynx
 
@@ -53,7 +53,7 @@ It's unlocked when you reach Military Rank 16.
 -   **Weak against:** Armored.
 -   **Resource cost:** 28 Iron.
 
-![type:video](https://www.youtube.com/embed/IsDAv96ieI8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IsDAv96ieI8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Reaper
 
@@ -66,7 +66,7 @@ It's unlocked when you reach Military Rank 9.
 -   **Weak against:** Airforce & Navy.
 -   **Resource cost:** 35 Iron.
 
-![type:video](https://www.youtube.com/embed/3iAKG_K0ZeE)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3iAKG_K0ZeE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Armored
 
@@ -81,7 +81,7 @@ It's unlocked when you reach Military Rank 5.
 -   **Weak against:** Airforce & Navy.
 -   **Resource cost:** 30 Iron.
 
-![type:video](https://www.youtube.com/embed/1D5Ky4Feekw)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1D5Ky4Feekw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Bradley
 
@@ -93,7 +93,7 @@ It's unlocked when you reach Military Rank 2.
 -   **Weak against:** Airforce & Navy.
 -   **Resource cost:** 30 Iron.
 
-![type:video](https://www.youtube.com/embed/pwAlNZuN1y8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pwAlNZuN1y8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Dongfeng
 
@@ -106,7 +106,7 @@ It's unlocked when you reach Military Rank 18.
 -   **Weak against:** Airforce.
 -   **Resource cost:** 30 Iron.
 
-![type:video](https://www.youtube.com/embed/fXodron58JE)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fXodron58JE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Gepard
 
@@ -119,7 +119,7 @@ It's unlocked when you reach Military Rank 15.
 -   **Weak against:** Armored.
 -   **Resource cost:** 30 Iron.
 
-![type:video](https://www.youtube.com/embed/rO-ADji8QxQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rO-ADji8QxQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Infantry
 
@@ -134,7 +134,7 @@ It's unlocked when you reach Military Rank 3.
 -   **Weak against:** Airforce & Navy.
 -   **Resource cost:** 25 Iron.
 
-![type:video](https://www.youtube.com/embed/d3uSmq7p1aw)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d3uSmq7p1aw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Soldier
 
@@ -147,7 +147,7 @@ It's unlocked when you reach Military Rank 1.
 -   **Weak against:** Airforce.
 -   **Resource cost:** 25 Iron.
 
-![type:video](https://www.youtube.com/embed/llKLJpm3ZHE)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/llKLJpm3ZHE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Stinger
 
@@ -160,7 +160,7 @@ It's unlocked when you reach Military Rank 4.
 -   **Weak against:** Armored & Navy.
 -   **Resource cost:** 25 Iron.
 
-![type:video](https://www.youtube.com/embed/PRqvAr9XBAE)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PRqvAr9XBAE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### LG 1
 
@@ -173,7 +173,7 @@ It's unlocked when you reach Military Rank 8.
 -   **Weak against:** Air & Infantry.
 -   **Resource cost:** 22 Iron.
 
-![type:video](https://www.youtube.com/embed/W08jJK7SpFY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W08jJK7SpFY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Navy
 
@@ -187,7 +187,7 @@ It's unlocked when you reach Military Rank 7.
 -   **Weak against:** Armored.
 -   **Resource cost:** 28 Iron.
 
-![type:video](https://www.youtube.com/embed/q7JOcM78Rx0)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q7JOcM78Rx0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Arleigh
 
@@ -199,7 +199,7 @@ It's unlocked when you reach Military Rank 12.
 -   **Weak against:** Navy.
 -   **Resource cost:** 25 Iron.
 
-![type:video](https://www.youtube.com/embed/mPYYhe3wMMw)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mPYYhe3wMMw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Pomornik
 
@@ -211,7 +211,7 @@ It's unlocked when you reach Military Rank 19.
 -   **Weak against:** Navy.
 -   **Resource cost:** 25 Iron.
 
-![type:video](https://www.youtube.com/embed/scVWpKlykWE)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/scVWpKlykWE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Christy
 
@@ -223,9 +223,9 @@ It's unlocked when you reach Military Rank 13.
 -   **Weak against:** Navy.
 -   **Resource cost:** 15 Iron.
 
-![type:video](https://www.youtube.com/embed/rsN8qrs9Sj4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rsN8qrs9Sj4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![type:video](https://www.youtube.com/embed/LXb3EKWsInQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LXb3EKWsInQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _If you find any inconsistencies or outdated information in our guides, please let us know by
 submitting your feedback [here](https://www.worldwaronline.com/t/support_guides)._.md
