@@ -59,3 +59,10 @@ Wave of the Battle.
 -   If the General dies, but you win the battle, you will not Conquer the base.
 
 ![Battle Reports for Capital Warfare](../assets/images/warfare_report.webp "Capital Warfare Report")
+
+## Related Guides
+
+- [Squads](squads.md) - Join or create a squad to participate in Capital Warfare
+- [Battle Rules](battle-rules.md#capital-specific-rules) - Capital-specific battle requirements
+- [Tactical Units](units-tactic.md) - Using Generals to conquer capitals
+- [Squad Leaderboard](leaderboard-squad.md) - League system and rewards

@@ -117,22 +117,23 @@ Effective resource management is crucial for success in World War Online:
 
 1. **Understand unit resource requirements** - Different unit types require different resources, so plan your resource production based on your army composition strategy.
 
--   Train Supreme Units;
--   Train Normal Units (if a player is out of Iron);
--   Build new bases (cost increases with number of resource bases);
--   Accelerate units movement in the map;
--   Accelerate units training;
--   Accelerate Headquarters Base upgrades;
--   Purchase Special Deals in Store.
+2. **Balance your economy** - Make sure your resource production exceeds your army's upkeep to maintain positive resource growth.
 
-3. **Balance your economy** - Make sure your resource production exceeds your army's upkeep.
+3. **Prioritize critical resources** - Focus on resources that align with your strategy (e.g., Food for infantry-focused armies, Iron for armored/sea units, Money for air units).
 
-4. **Prioritize critical resources** - Focus on resources that align with your strategy (e.g., Food for infantry-focused armies, Iron for armored/sea units, Money for air units).
+4. **Protect your resource bases** - Station units to defend valuable resource production facilities from enemy raids.
 
-5. **Protect your resource bases** - Station units to defend valuable resource production facilities.
+5. **Upgrade strategically** - Invest in upgrading bases that produce resources you use most frequently.
 
-6. **Upgrade strategically** - Invest in upgrading bases that produce resources you use most frequently.
+6. **Maintain reserves** - Keep a buffer of resources to respond to unexpected opportunities or threats.
 
-7. **Maintain reserves** - Keep a buffer of resources to respond to unexpected opportunities or threats.
+7. **Use Brick efficiently** - Since Brick is primarily used for base upgrades, focus on collecting it when planning infrastructure improvements.
 
-8. **Use Brick efficiently** - Since Brick is primarily used for base upgrades, focus on collecting it when planning infrastructure improvements.
+8. **Maximize WWO-Influence value** - Use premium currency strategically for critical advantages like Supreme Units, base construction, or time acceleration during important battles.
+
+## Related Guides
+
+- [Bases](bases.md) - Learn about building and upgrading resource-producing bases
+- [Unit Training](unit-train.md) - Understand resource costs for training units
+- [Store](store.md) - Purchase WWO-Influence and special deals
+- [Squad Leaderboard](leaderboard-squad.md) - Earn WWO-Influence rewards through squad competition

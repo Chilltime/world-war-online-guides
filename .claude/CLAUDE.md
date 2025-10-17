@@ -85,23 +85,53 @@ docs/
 - `.devcontainer/requirements.sh` - Python package installation script
 
 ### Deployment Pipeline
-1. Push to `main` branch triggers GitHub Actions workflow
-2. Workflow installs dependencies via `.devcontainer/requirements.sh`
-3. Builds site with `mkdocs build --site-dir _site/`
-4. Deploys to GitHub Pages at https://guides.worldwaronline.com/
+1. Push to `main` branch triggers GitHub Actions workflow (`.github/workflows/release-main.yml`)
+2. Workflow uses weekly cache (`mkdocs-material-{week_number}`) for faster builds
+3. Installs dependencies via `.devcontainer/requirements.sh`
+4. Builds site with `mkdocs build --site-dir _site/`
+5. Deploys to GitHub Pages at https://guides.worldwaronline.com/
+
+Note: The workflow can also be triggered manually via `workflow_dispatch`.
 
 ### MkDocs Plugins Used
 - `mkdocs-minify-plugin` - HTML minification
 - `git-revision-date-localized` - Shows last update dates
-- `git-committers` - Shows contributors
+- `git-committers` - Shows contributors (only enabled in CI)
 - `search` - Site search functionality
 
 Note: YouTube videos are embedded using standard HTML iframes, not a plugin.
 
+### Theme Customization
+The site uses Material for MkDocs with custom overrides in `material/overrides/`:
+- `main.html` - Extends base template to add PostHog analytics
+- `partials/copyright.html` - Custom copyright footer
+- `_home.html` - Custom homepage layout
+
+Analytics configuration:
+- Google Analytics: Property G-P1RJWYY3T2 (configured in mkdocs.yml)
+- PostHog Analytics: Integrated via custom override template (EU instance)
+
 ## Working with Game Guide Content
 
+### Navigation Structure
+The site navigation is defined in `mkdocs.yml` under the `nav:` section:
+- **Home** - Landing page
+- **Beginner's Guide** - Introduction and account creation
+- **Gameplay** - Main section covering resources, bases, units, battles, squads, leaderboards, store
+- **Support** - FAQ and cheating/ban reports
+
+Reports and issues link to GitHub issue chooser: `https://github.com/Chilltime/world-war-online-guides/issues/new/choose`
+
 ### Adding New Units
-Unit guides follow a consistent pattern with embedded demonstration videos. See `docs/guides/units-normal.md` for examples.
+Unit guides follow a consistent pattern with embedded demonstration videos. See `docs/guides/units-normal.md` for examples:
+1. Overview paragraph describing the unit type
+2. Embedded YouTube playlist iframe with full unit demonstrations
+3. Individual unit sections with:
+   - Unit name as heading
+   - Description and unlock requirements
+   - Combat strengths/weaknesses
+   - Resource cost
+   - Embedded individual unit video
 
 ### Resource and Base Documentation
 Game mechanics documentation is in `docs/guides/` with interconnected pages for resources, bases, units, and gameplay features.

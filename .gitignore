@@ -1,3 +1,6 @@
 /_site/**
 /.cache/**
 /site/**
+
+# Claude Code local settings (contains personal preferences)
+.claude/settings.local.json

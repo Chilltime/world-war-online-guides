@@ -88,26 +88,29 @@ nav:
     - Create an Account: guides/player-intro.md
   - Gameplay:
     - Resources: guides/resources.md
-    - Store:
-      - Introduction: guides/store.md
-      - Rules: legal/store-rules.md
-    - Map: guides/maps-movement.md
+    - Map & Movement: guides/maps-movement.md
     - Bases: guides/bases.md
+    - Player Ranks: guides/player-rank.md
     - Units:
       - Introduction: guides/unit-intro.md
       - Normal Units: guides/units-normal.md
       - Supreme Units: guides/units-supreme.md
       - Tactical Units: guides/units-tactic.md
-      - Statistics:
-        - Combat: guides/unit-stats.md
-        - Training: guides/unit-train.md
+      - Training Guide: guides/unit-train.md
+      - Combat Stats: guides/unit-stats.md
+    - Battles:
+      - Rules: guides/battle-rules.md
     - Campaign: guides/campaign.md
-    - Capital warfare: guides/capital-warfare.md
-    - Player ranks: guides/player-rank.md
-    - Player Squads: guides/squads.md
-    - Leaderboard:
+    - Squads:
+      - Overview: guides/squads.md
+      - Capital Warfare: guides/capital-warfare.md
+      - Squad Leaderboard: guides/leaderboard-squad.md
+    - Leaderboards:
       - Player: guides/leaderboard-player.md
       - Squad: guides/leaderboard-squad.md
+    - Store:
+      - Introduction: guides/store.md
+      - Rules: legal/store-rules.md
     - Community:
       - Ingame Chat: guides/chat.md
       - Discord: legal/discord-chat.md
