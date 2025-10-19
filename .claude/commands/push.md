@@ -30,7 +30,7 @@ You are about to create a pull request for a **public repository** (World War On
    - Push the current branch to remote with `git push -u origin [branch-name]`
    - Use `gh pr create` with the PR template format below
    - Include a clear title summarizing the changes
-   - Fill in the changelog with AI-generated summary of all commits
+   - Fill in the changelog with a clear summary of all commits
 
 ## PR Template Format
 
@@ -41,7 +41,7 @@ Use this format when creating the PR:
 
 Resolves #[issue-number if applicable, otherwise remove this line]
 
-## Changelog (AI Generated):
+## Changelog:
 
 [Provide a clear, structured summary of all changes:
 - Documentation updates
@@ -68,7 +68,7 @@ gh pr create --title "Your PR Title Here" --body "$(cat <<'EOF'
 
 Brief description of what this PR accomplishes
 
-## Changelog (AI Generated):
+## Changelog:
 
 - Updated FAQ with browser-only access information
 - Added Progressive Web App installation instructions
