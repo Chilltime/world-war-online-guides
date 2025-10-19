@@ -34,6 +34,41 @@ WWO-Influence.
 This amount of WWO-Influence is divided between 8 Squad Members at the End of the Season. Also, all
 the remaining Squads in Gold League receive 2.500 WWO and all squads in Silver receive 1.000 WWO.
 
-## How to get Points
+## How to get Points {#points-system}
 
 To learn how to gain points for your Squad, check [**Capital Warfare**](capital-warfare.md) section.
+
+### Point Multiplier System {#point-multiplier-system}
+
+Capital Warfare features a **progressive point multiplier system** that makes the final weeks of the season significantly more impactful and competitive. Points earned from Capital Warfare scale based on when the warfare was created relative to the season end:
+
+#### Multiplier Timeline
+
+-   **4x points** - Final week (warfare created ≤8 days before season end)
+-   **3x points** - Penultimate week (warfare created ≤15 days before season end)
+-   **2x points** - Third-to-last week (warfare created ≤22 days before season end)
+-   **1x points** - All other times (>22 days before season end)
+
+#### How It Works
+
+When a Capital Warfare is created, the system calculates how many days remain until the season ends and assigns a permanent multiplier to that warfare. **This multiplier never changes**, even if the season end date is adjusted.
+
+All points earned during that specific Capital Warfare—from controlling capital bases, dealing damage, and individual player contributions—are multiplied by this value.
+
+#### Strategic Impact
+
+The final 3 weeks (with 2x, 3x, and 4x multipliers) are equivalent in impact to the previous 9 weeks of regular season play. This creates:
+
+-   **Increased competition** as the season progresses
+-   **More engaging end-of-season gameplay**
+-   **Greater rewards for consistent participation** throughout the season
+
+#### Visibility
+
+The active multiplier is displayed prominently in the Capital Warfare interface with a colored chip:
+
+-   **Green** - 1x (normal season)
+-   **Orange** - 2x (moderate urgency)
+-   **Red** - 3x-4x (high urgency/final weeks)
+
+Click on the multiplier chip to view this guide section for more details.
