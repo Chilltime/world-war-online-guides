@@ -1,4 +1,4 @@
-# Leaderboard
+# Player Leaderboard
 
 ![Single Player Leaderboard](../assets/images/header_player_leaderboard.webp "Player Leaderboard")
 

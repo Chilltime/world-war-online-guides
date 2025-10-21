@@ -4,11 +4,25 @@
 
 World War Online features several types of bases, each with its own purpose and strategic importance:
 
--   **Headquarters Base** - Your primary base that provides Iron production
+-   **Headquarters Base** - Your primary base that provides Iron production and unit capacity
 -   **Capital Bases** - Strategic conquest points (see more in [Capital Warfare](capital-warfare.md))
--   **Military Bases** - Enhance unit training capabilities
--   **Resource Bases** - Generate various resources (Money, Food, Brick)
--   **Mine Bases** - Specialized in Iron production
+-   **Military Bases** - Enhance unit training capabilities and provide unit capacity
+-   **Resource Bases** - Generate various resources (Money, Food, Brick) and provide unit capacity
+-   **Mine Bases** - Specialized in Iron production and provide unit capacity
+
+## Unit Capacity
+
+Each non-capital base you own provides capacity for **10,000 Normal Units**. This means:
+
+- **Headquarters Base**: +10,000 unit capacity
+- **Military Base**: +10,000 unit capacity (per base, max 5 bases)
+- **Resource Base**: +10,000 unit capacity (per base, max 10 bases)
+- **Mine Base**: +10,000 unit capacity (per base, max 4 bases)
+- **Capital Bases**: No unit capacity
+
+**Important:** Only [Normal Units](units-normal.md) count toward your unit cap. [Supreme Units](units-supreme.md) and [Tactical Units](units-tactic.md) do not consume unit capacity.
+
+**Example:** A player with 1 Headquarters + 5 Military Bases + 10 Resource Bases + 4 Mine Bases = 20 bases × 10,000 = **200,000 maximum Normal Units**.
 
 ## Automatic Base Defense
 
@@ -141,7 +155,7 @@ Mine Bases produce significantly more Iron than Resource bases but are limited t
 
 ## Military Bases
 
-Military Bases are used to train units and defend strategic positions. You can build up to 5 Military bases per player. Unlike resource-producing bases, Military bases generate defensive power rather than Iron.
+Military Bases are used to train units and defend strategic positions. You can build up to 5 Military bases per player. Unlike resource-producing bases, Military bases generate defensive power rather than Iron. Each Military Base also provides capacity for 10,000 Normal Units.
 
 ### Military Base Levels
 
@@ -159,3 +173,11 @@ Military Bases are used to train units and defend strategic positions. You can b
 |   **10**   |  12 hours    |    875    |     2,500     |     100,000         |
 
 **Note:** The "Defense Power" value represents the base's contribution to defensive capabilities when units are stationed there.
+
+## Related Guides
+
+- [Unit Capacity System](unit-train.md#unit-capacity-system) - How bases provide unit capacity
+- [Resources](resources.md) - Resource production and base upgrades
+- [Battle Rules](battle-rules.md) - Conquest and destruction rules
+- [Tactical Units](units-tactic.md) - Conquering and destroying bases
+- [Capital Warfare](capital-warfare.md) - Attacking capital bases

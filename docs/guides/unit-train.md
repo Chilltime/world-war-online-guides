@@ -7,17 +7,20 @@ points you get for each unit built and the max number of units you can build per
 more about the different types in the [Normal](units-normal.md) and [Supreme](units-supreme.md)
 Units sections.
 
-## Unit Cap System
+## Unit Capacity System
 
-Your maximum trainable units are now based on the number of bases you own:
+Your maximum trainable units are based on the number of bases you own. Each non-capital base (Headquarters, Military Bases, Resource Bases, and Mine Bases) provides capacity for **10,000 Normal Units**.
 
--   **Unit Capacity**: Each non-capital base you control provides capacity for **10,000 normal units**
--   **Supreme Units Exempt**: Supreme units don't count toward this cap, allowing you to build elite forces alongside your regular armies
--   **Territory Expansion**: More territory means you can maintain larger armies and project more power across the map
--   **Strategic Planning**: Consider base ownership when planning your military expansion
--   **Base Types**: All base types (Headquarters, Military, Resource, Mine) contribute to your unit capacity
+**Key Points:**
+- **Unit Capacity**: Each non-capital base you control provides capacity for **10,000 Normal Units**
+- **Normal Units** count toward your unit cap (all Infantry, Armored, Airforce, and Navy units listed below)
+- **Supreme Units** do NOT count toward your unit cap, allowing you to build elite forces alongside your regular armies
+- **Tactical Units** (Generals and Special Forces) do NOT count toward your unit cap
+- **Territory Expansion**: More territory means you can maintain larger armies and project more power across the map
+- **Capital bases** do NOT provide unit capacity
+- You cannot train additional Normal Units if it would exceed your unit cap
 
-For example, if you control 5 bases (1 Headquarters + 4 other bases), you can train up to 50,000 normal units total, plus up to 30 of each Supreme unit type. This system encourages territorial expansion as a core strategic element while allowing you to invest in elite Supreme units without restriction.
+**Example:** If you control 5 bases (1 Headquarters + 2 Military Bases + 2 Resource Bases), you can train up to 50,000 Normal Units total, plus up to 30 of each Supreme unit type. This system encourages territorial expansion as a core strategic element while allowing you to invest in elite Supreme units without restriction.
 
 ## Normal Units
 

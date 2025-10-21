@@ -17,3 +17,13 @@ Commanders unlock Units as their [Military Rank](player-rank.md) increases. You 
 -   [Supreme Units](units-supreme.md), which cost WWO-Influence or Money. They're much stronger than
     Normal Units but they fight in lower numbers;
 -   [Tactical Units](units-tactic.md), which have the special role of Conquering Bases.
+
+## Unit Capacity Limits
+
+Your army size is limited by the number of [bases](bases.md) you own. Each non-capital base provides capacity for **10,000 Normal Units**:
+
+- **Normal Units** (Infantry, Armored, Airforce, Navy) count toward your unit cap
+- **Supreme Units** do NOT count toward your unit cap
+- **Tactical Units** (Generals, Special Forces) do NOT count toward your unit cap
+
+Building more bases increases your unit capacity, allowing you to field larger armies. Learn more about bases and unit capacity in the [Bases guide](bases.md) and [Training Units guide](unit-train.md).

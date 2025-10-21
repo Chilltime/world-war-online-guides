@@ -116,3 +116,11 @@ the squad. Squads can be closed at any time, except during the final 14 days of 
 -   Allies can help each other during Squad Wars, by attacking armies in Capitals they otherwise
     couldn't. Players can attack the armies of their Ally's enemies on the Capital Bases contested
     by the Ally.
+
+## Related Guides
+
+- [Capital Warfare](capital-warfare.md) - Main squad competition mode
+- [Squad Leaderboard](leaderboard-squad.md) - Rankings, leagues, and rewards
+- [Battle Rules](battle-rules.md#capital-specific-rules) - Rules for attacking capitals
+- [Tactical Units](units-tactic.md) - Using Generals to conquer bases
+- [Chat](chat.md) - Communicate with squad members

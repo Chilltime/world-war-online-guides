@@ -14,11 +14,13 @@ You always start the game as a level 5 Recruit, with access to Bradley and Bazoo
 from there. The miltary ranks are Private, Sergeant, Captain, Major, Lieutenant, General and Elite
 General.
 
+**Note:** The "Army Budget" shown below refers to the maximum individual unit type limits per rank, not your total army size. Your total [Normal Unit capacity](unit-train.md#unit-capacity-system) is determined by the number of [bases](bases.md#unit-capacity) you own (10,000 units per base).
+
 Below you can find the rewards for each military rank.
 
 ## Recruit
 
-**Army Budget:** 750 Normal Units and 15 Supreme Units.
+**Army Budget:** 750 per Normal Unit type and 15 per Supreme Unit type.
 
 | Level  |   XP   | Unlocked Units | WWO-Influence | Iron  | Units Received  |
 | :----: | :----: | :------------: | :-----------: | :---: | :-------------: |
@@ -37,7 +39,7 @@ Below you can find the rewards for each military rank.
 
 ## Private
 
-**Army Budget:** 1.500 Normal Units and 20 Supreme Units.
+**Army Budget:** 1,500 per Normal Unit type and 20 per Supreme Unit type.
 
 | Level  |   XP    | Unlocked Units | WWO-Influence | Iron  | Units Received |
 | :----: | :-----: | :------------: | :-----------: | :---: | :------------: |
@@ -51,7 +53,7 @@ Below you can find the rewards for each military rank.
 
 ## Sergeant
 
-**Army Budget:** 2.250 Normal Units and 25 Supreme Units.
+**Army Budget:** 2,250 per Normal Unit type and 25 per Supreme Unit type.
 
 | Level  |   XP    | Unlocked Units | WWO-Influence | Iron  | Units Received |
 | :----: | :-----: | :------------: | :-----------: | :---: | :------------: |
@@ -63,7 +65,7 @@ Below you can find the rewards for each military rank.
 
 ## Captain
 
-**Army Budget:** 3.000 Normal Units and 30 Supreme Units.
+**Army Budget:** 3,000 per Normal Unit type and 30 per Supreme Unit type.
 
 | Level  |    XP     | Unlocked Units | WWO-Influence | Iron  | Units Received |
 | :----: | :-------: | :------------: | :-----------: | :---: | :------------: |
@@ -75,7 +77,7 @@ Below you can find the rewards for each military rank.
 
 ## Major
 
-**Army Budget:** 3.750 Normal Units and 35 Supreme Units.
+**Army Budget:** 3,750 per Normal Unit type and 35 per Supreme Unit type.
 
 | Level  |    XP     | Unlocked Units | WWO-Influence | Iron  | Units Received |
 | :----: | :-------: | :------------: | :-----------: | :---: | :------------: |
@@ -87,7 +89,7 @@ Below you can find the rewards for each military rank.
 
 ## Lieutenant
 
-**Army Budget:** 4.500 Normal Units and 40 Supreme Units.
+**Army Budget:** 4,500 per Normal Unit type and 40 per Supreme Unit type.
 
 | Level  |    XP     | Unlocked Units | WWO-Influence | Iron  | Units Received |
 | :----: | :-------: | :------------: | :-----------: | :---: | :------------: |
@@ -99,7 +101,7 @@ Below you can find the rewards for each military rank.
 
 ## General
 
-**Army Budget:** 5.250 Normal Units and 45 Supreme Units.
+**Army Budget:** 5,250 per Normal Unit type and 45 per Supreme Unit type.
 
 | Level  |     XP     | Unlocked Units | WWO-Influence |  Iron  | Units Received |
 | :----: | :--------: | :------------: | :-----------: | :----: | :------------: |
@@ -111,7 +113,7 @@ Below you can find the rewards for each military rank.
 
 ## Elite General
 
-**Army Budget:** 6.000 Normal Units and 50 Supreme Units.
+**Army Budget:** 6,000 per Normal Unit type and 50 per Supreme Unit type.
 
 | Level  |     XP     | Unlocked Units | WWO-Influence |  Iron  | Units Received |
 | :----: | :--------: | :------------: | :-----------: | :----: | :------------: |

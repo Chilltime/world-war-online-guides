@@ -11,9 +11,9 @@ sections.
 
 Watch all Supreme Units in action:
 
-![type:video](https://www.youtube.com/embed/ZaDTCF64vq4?list=PLRQ5jyWDvu9MPLizQL3EXxNcsdckzH8hR)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZaDTCF64vq4?list=PLRQ5jyWDvu9MPLizQL3EXxNcsdckzH8hR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[View Full Playlist on YouTube :fontawesome-brands-youtube:](https://www.youtube.com/playlist?list=PLRQ5jyWDvu9MPLizQL3EXxNcsdckzH8hR){ .md-button .md-button--primary target="_blank" }
+<a href="https://www.youtube.com/playlist?list=PLRQ5jyWDvu9MPLizQL3EXxNcsdckzH8hR" target="_blank" class="md-button md-button--primary">View Full Playlist on YouTube</a>
 
 ## Airforce
 
@@ -27,7 +27,7 @@ It's unlocked when you reach Military Rank 26.
 -   **Weak against:** Airforce.
 -   **Resource cost:** 7 WWO-Influence.
 
-![type:video](https://www.youtube.com/embed/5_MrzMsk9eA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5_MrzMsk9eA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### B-2 Bomber
 
@@ -40,7 +40,7 @@ It's unlocked when you reach Military Rank 48.
 -   **Weak against:** Airforce.
 -   **Resource cost:** 10 WWO-Influence.
 
-![type:video](https://www.youtube.com/embed/_B4OYrTo7wA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_B4OYrTo7wA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### F-22
 
@@ -53,7 +53,7 @@ It's unlocked when you reach Military Rank 36.
 -   **Weak against:** Airforce.
 -   **Resource cost:** 8 WWO-Influence.
 
-![type:video](https://www.youtube.com/embed/UYvQbDu9UdI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UYvQbDu9UdI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### F-35
 
@@ -66,7 +66,7 @@ It's unlocked when you reach Military Rank 34.
 -   **Weak against:** Airforce.
 -   **Resource cost:** 8 WWO-Influence.
 
-![type:video](https://www.youtube.com/embed/Xki7-wP0fIU)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xki7-wP0fIU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Panther
 
@@ -79,7 +79,7 @@ It's unlocked when you reach Military Rank 40.
 -   **Weak against:** Airforce.
 -   **Resource cost:** 7 WWO-Influence.
 
-![type:video](https://www.youtube.com/embed/eMDEsb8WlGs)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMDEsb8WlGs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Armored
 
@@ -94,7 +94,7 @@ It's unlocked when you reach Military Rank 17.
 -   **Weak against:** Navy.
 -   **Resource cost:** 8 WWO-Influence.
 
-![type:video](https://www.youtube.com/embed/qNg8jXYjKNc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNg8jXYjKNc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Bastion
 
@@ -107,7 +107,7 @@ It's unlocked when you reach Military Rank 42.
 -   **Weak against:** Airforce.
 -   **Resource cost:** 6 WWO-Influence.
 
-![type:video](https://www.youtube.com/embed/flwV1KuQ2LU)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/flwV1KuQ2LU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Leopard
 
@@ -120,7 +120,7 @@ It's unlocked when you reach Military Rank 22.
 -   **Weak against:** Airforce.
 -   **Resource cost:** 7 WWO-Influence.
 
-![type:video](https://www.youtube.com/embed/2D8f89g-J8U)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2D8f89g-J8U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### SAM
 
@@ -133,7 +133,7 @@ It's unlocked when you reach Military Rank 44.
 -   **Weak against:** Infantry & Navy.
 -   **Resource cost:** 8 WWO-Influence.
 
-![type:video](https://www.youtube.com/embed/XWkNHqt-51o)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XWkNHqt-51o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Infantry
 
@@ -148,7 +148,7 @@ It's unlocked when you reach Military Rank 32.
 -   **Weak against:** Airforce.
 -   **Resource cost:** 6 WWO-Influence.
 
-![type:video](https://www.youtube.com/embed/OIhkInHnSHU)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OIhkInHnSHU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Mortar
 
@@ -161,7 +161,7 @@ It's unlocked when you reach Military Rank 14.
 -   **Weak against:** Airforce.
 -   **Resource cost:** 6 WWO-Influence.
 
-![type:video](https://www.youtube.com/embed/IxI9zLoEzWQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IxI9zLoEzWQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Sniper
 
@@ -173,7 +173,7 @@ It's unlocked when you reach Military Rank 11.
 -   **Weak against:** Navy.
 -   **Resource cost:** 8 WWO-Influence.
 
-![type:video](https://www.youtube.com/embed/ZaDTCF64vq4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZaDTCF64vq4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### ZU-23
 
@@ -186,7 +186,7 @@ It's unlocked when you reach Military Rank 20.
 -   **Weak against:** Armored.
 -   **Resource cost:** 7 WWO-Influence.
 
-![type:video](https://www.youtube.com/embed/BT1MWVB5aho)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BT1MWVB5aho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Navy
 
@@ -200,7 +200,7 @@ It's unlocked when you reach Military Rank 38.
 -   **Weak against:** Navy.
 -   **Resource cost:** 150 WWO-Influence.
 
-![type:video](https://www.youtube.com/embed/G3Ly1uMZTmA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G3Ly1uMZTmA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Los Angeles
 
@@ -213,7 +213,7 @@ It's unlocked when you reach Military Rank 28.
 -   **Weak against:** Airforce.
 -   **Resource cost:** 10 WWO-Influence.
 
-![type:video](https://www.youtube.com/embed/uwXLOCa1KxM)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uwXLOCa1KxM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Zumwalt
 
@@ -226,4 +226,4 @@ It's unlocked when you reach Military Rank 46.
 -   **Weak against:** Navy.
 -   **Resource cost:** 6 WWO-Influence.
 
-![type:video](https://www.youtube.com/embed/2x1azScIZKo)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2x1azScIZKo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

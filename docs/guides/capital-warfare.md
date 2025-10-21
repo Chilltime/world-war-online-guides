@@ -69,3 +69,10 @@ The General counts as an extra unit and does not count toward your 6-unit group 
 -   The General gives you more tactical flexibility by not consuming one of your standard unit slots.
 
 ![Battle Reports for Capital Warfare](../assets/images/warfare_report.webp "Capital Warfare Report")
+
+## Related Guides
+
+- [Squads](squads.md) - Join or create a squad to participate in Capital Warfare
+- [Battle Rules](battle-rules.md#capital-specific-rules) - Capital-specific battle requirements
+- [Tactical Units](units-tactic.md) - Using Generals to conquer capitals
+- [Squad Leaderboard](leaderboard-squad.md) - League system and rewards

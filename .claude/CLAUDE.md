@@ -89,21 +89,34 @@ docs/
 - `.devcontainer/requirements.sh` - Python package installation script
 
 ### Deployment Pipeline
-1. Push to `main` branch triggers GitHub Actions workflow
-2. Workflow installs dependencies via `.devcontainer/requirements.sh`
-3. Builds site with `mkdocs build --site-dir _site/`
-4. Deploys to GitHub Pages at https://guides.worldwaronline.com/
+1. Push to `main` branch triggers GitHub Actions workflow (`.github/workflows/release-main.yml`)
+2. Workflow uses weekly cache (`mkdocs-material-{week_number}`) for faster builds
+3. Installs dependencies via `.devcontainer/requirements.sh`
+4. Builds site with `mkdocs build --site-dir _site/`
+5. Deploys to GitHub Pages at https://guides.worldwaronline.com/
+
+Note: The workflow can also be triggered manually via `workflow_dispatch`.
 
 ### MkDocs Plugins Used
 - `mkdocs-minify-plugin` - HTML minification
 - `git-revision-date-localized` - Shows last update dates
-- `git-committers` - Shows contributors
+- `git-committers` - Shows contributors (only enabled in CI)
 - `search` - Site search functionality
 
 **Important Notes:**
 - YouTube videos are embedded using standard HTML iframes, **NOT** the mkdocs-video plugin
 - The mkdocs-video plugin does not work correctly with our deployment and should never be used
 - Always use the HTML iframe format shown in the YouTube Video Embedding section above
+
+### Theme Customization
+The site uses Material for MkDocs with custom overrides in `material/overrides/`:
+- `main.html` - Extends base template to add PostHog analytics
+- `partials/copyright.html` - Custom copyright footer
+- `_home.html` - Custom homepage layout
+
+Analytics configuration:
+- Google Analytics: Property G-P1RJWYY3T2 (configured in mkdocs.yml)
+- PostHog Analytics: Integrated via custom override template (EU instance)
 
 ## Working with Game Guide Content
 
