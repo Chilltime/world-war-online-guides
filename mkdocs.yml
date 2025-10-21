@@ -69,7 +69,7 @@ plugins:
   - search:
     #
   - git-revision-date-localized:
-      enable_creation_date: true
+      enable_creation_date: false
   - git-committers:
       enabled: !ENV [CI, false]
       repository: chilltime/world-war-online-guides

@@ -1,0 +1,23 @@
+{#-
+  This file was automatically generated - do not edit
+-#}
+{% import "partials/language.html" as lang with context %}
+{% set git_info = config.plugins.get("git-revision-date-localized") %}
+{% if git_info %}
+  <hr>
+  <div class="md-source-file">
+    <small>
+      {% if page.meta.git_revision_date_localized %}
+        <span class="md-source-file__fact">
+          <span class="md-icon" title="{{ lang.t('source.file.date.updated') }}">
+            {% include ".icons/material/calendar-clock.svg" %}
+          </span>
+          <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">
+            {{ page.meta.git_revision_date_localized }}
+          </span>
+        </span>
+      {% endif %}
+      {# Removed git-committers section to hide contributor information #}
+    </small>
+  </div>
+{% endif %}

@@ -9,55 +9,61 @@ Units sections.
 
 ## Unit Capacity System
 
-Your total army size is limited by a **Unit Cap** based on the number of bases you own. Each non-capital base (Headquarters, Military Bases, Resource Bases, and Mine Bases) provides capacity for **10,000 Normal Units**.
+Your maximum trainable units are based on the number of bases you own. Each non-capital base (Headquarters, Military Bases, Resource Bases, and Mine Bases) provides capacity for **10,000 Normal Units**.
 
 **Key Points:**
+- **Unit Capacity**: Each non-capital base you control provides capacity for **10,000 Normal Units**
 - **Normal Units** count toward your unit cap (all Infantry, Armored, Airforce, and Navy units listed below)
-- **Supreme Units** do NOT count toward your unit cap
+- **Supreme Units** do NOT count toward your unit cap, allowing you to build elite forces alongside your regular armies
 - **Tactical Units** (Generals and Special Forces) do NOT count toward your unit cap
-- Capital bases do NOT provide unit capacity
+- **Territory Expansion**: More territory means you can maintain larger armies and project more power across the map
+- **Capital bases** do NOT provide unit capacity
 - You cannot train additional Normal Units if it would exceed your unit cap
 
-**Example:** If you have 5 bases (1 Headquarters + 2 Military Bases + 2 Resource Bases), your unit cap is 50,000 Normal Units.
+**Example:** If you control 5 bases (1 Headquarters + 2 Military Bases + 2 Resource Bases), you can train up to 50,000 Normal Units total, plus up to 30 of each Supreme unit type. This system encourages territorial expansion as a core strategic element while allowing you to invest in elite Supreme units without restriction.
 
 ## Normal Units
 
+**Note**: Steal Capacity is calculated as 5% of the unit's total health. Heavier units can carry more resources.
+
 |      Unit      | Iron Cost per Unit | Min Military Rank | XP per Unit Built | Max Units | Health Points | Steal Capacity |
 | :------------: | :----------------: | :---------------: | :---------------: | :-------: | :-----------: | :------------: |
-|   **Akula**    |         28         |         8         |         4         |  10.000   |      190      |       25       |
-|  **Arleigh**   |         25         |        18         |         4         |  10.000   |      170      |       25       |
-|  **Bakhcha**   |         30         |        16         |         3         |  10.000   |      160      |       25       |
-|  **Bazooka**   |         25         |         0         |         3         |  10.000   |      135      |       25       |
-| **Black Hawk** |         28         |         6         |         3         |  10.000   |      190      |       25       |
-|  **Bradley**   |         30         |         0         |         4         |  10.000   |      190      |       25       |
-|  **Chengdu**   |         28         |        28         |         4         |  10.000   |      185      |       25       |
-|  **Christy**   |         22         |        11         |         3         |  10.000   |      135      |       25       |
-|  **Dongfeng**  |         30         |        26         |         5         |  10.000   |      225      |       25       |
-|   **Gepard**   |         30         |        20         |         4         |  10.000   |      160      |       25       |
-|    **LG1**     |         22         |        11         |         3         |  10.000   |      135      |       25       |
-|    **Lynx**    |         28         |        24         |         4         |  10.000   |      210      |       25       |
-|  **Pomornik**  |         25         |        14         |         4         |  10.000   |      150      |       25       |
-|   **Reaper**   |         35         |        21         |         3         |  10.000   |      160      |       25       |
-|  **Soldier**   |         25         |        10         |         3         |  10.000   |      135      |       25       |
-|  **Stinger**   |         25         |        11         |         3         |  10.000   |      135      |       25       |
+|   **Akula**    |         28         |         8         |         4         |  10.000   |      190      |      9.5       |
+|  **Arleigh**   |         25         |        18         |         4         |  10.000   |      170      |      8.5       |
+|  **Bakhcha**   |         30         |        16         |         3         |  10.000   |      160      |      8.0       |
+|  **Bazooka**   |         25         |         0         |         3         |  10.000   |      135      |      6.75      |
+| **Black Hawk** |         28         |         6         |         3         |  10.000   |      190      |      9.5       |
+|  **Bradley**   |         30         |         0         |         4         |  10.000   |      190      |      9.5       |
+|  **Chengdu**   |         28         |        28         |         4         |  10.000   |      185      |      9.25      |
+|  **Christy**   |         22         |        11         |         3         |  10.000   |      135      |      6.75      |
+|  **Dongfeng**  |         30         |        26         |         5         |  10.000   |      225      |     11.25      |
+|   **Gepard**   |         30         |        20         |         4         |  10.000   |      160      |      8.0       |
+|    **LG1**     |         22         |        11         |         3         |  10.000   |      135      |      6.75      |
+|    **Lynx**    |         28         |        24         |         4         |  10.000   |      210      |     10.5       |
+|  **Pomornik**  |         25         |        14         |         4         |  10.000   |      150      |      7.5       |
+|   **Reaper**   |         35         |        21         |         3         |  10.000   |      160      |      8.0       |
+|  **Soldier**   |         25         |        10         |         3         |  10.000   |      135      |      6.75      |
+|  **Stinger**   |         25         |        11         |         3         |  10.000   |      135      |      6.75      |
 
 ## Supreme Units
 
+**Note**: Steal Capacity is calculated as 5% of the unit's total health. Supreme units have significantly higher carrying capacity due to their greater health.
+
 |      Unit       | WWO Cost per Unit | Min Military Rank | XP per Unit Built | Max Units | Health Points | Steal Capacity |
 | :-------------: | :---------------: | :---------------: | :---------------: | :-------: | :-----------: | :------------: |
-|   **Abrams**    |         8         |        42         |        400        |    30     |     4.000     |       25       |
-|   **Apache**    |         7         |        35         |        350        |    30     |     4.000     |       25       |
-|  **B2-Bomber**  |        10         |        45         |        450        |    30     |     4.000     |       25       |
-|   **Bastion**   |         6         |        32         |        300        |    30     |     3.800     |       25       |
-|   **Daring**    |         6         |        33         |        350        |    30     |     3.500     |       25       |
-|    **F-22**     |         8         |        44         |        450        |    30     |     3.500     |       25       |
-|    **F-35**     |         8         |        29         |        300        |    30     |     4.000     |       25       |
-|   **Leopard**   |         7         |        30         |        300        |    30     |     3.500     |       25       |
-| **Los Angeles** |        10         |        43         |        450        |    30     |     4.000     |       25       |
-|   **Marine**    |         6         |        12         |        150        |    30     |     3.600     |       25       |
-|   **Mortar**    |         6         |        23         |        250        |    30     |     3.300     |       25       |
-|   **Panther**   |         7         |        37         |        350        |    30     |     3.900     |       25       |
-|     **SAM**     |         8         |        41         |        400        |    30     |     3.500     |       25       |
-|   **Sniper**    |         8         |        40         |        400        |    30     |     3.400     |       25       |
-|    **ZU-23**    |         7         |        27         |        250        |    30     |     3.500     |       25       |
-|   **Zumwalt**   |         6         |        39         |        400        |    30     |     4.000     |       25       |
+|   **Abrams**    |         8         |        42         |        400        |    30     |     4.000     |      200       |
+|   **Apache**    |         7         |        35         |        350        |    30     |     4.000     |      200       |
+|  **B2-Bomber**  |        10         |        45         |        450        |    30     |     4.000     |      200       |
+|   **Bastion**   |         6         |        32         |        300        |    30     |     3.800     |      190       |
+|   **Daring**    |         6         |        33         |        350        |    30     |     3.500     |      175       |
+|    **F-22**     |         8         |        44         |        450        |    30     |     3.500     |      175       |
+|    **F-35**     |         8         |        29         |        300        |    30     |     4.000     |      200       |
+|   **Leopard**   |         7         |        30         |        300        |    30     |     3.500     |      175       |
+| **Los Angeles** |        10         |        43         |        450        |    30     |     4.000     |      200       |
+|   **Marine**    |         6         |        12         |        150        |    30     |     3.600     |      180       |
+|   **Mortar**    |         6         |        23         |        250        |    30     |     3.300     |      165       |
+|   **Panther**   |         7         |        37         |        350        |    30     |     3.900     |      195       |
+|     **SAM**     |         8         |        41         |        400        |    30     |     3.500     |      175       |
+|   **Sniper**    |         8         |        40         |        400        |    30     |     3.400     |      170       |
+|    **ZU-23**    |         7         |        27         |        250        |    30     |     3.500     |      175       |
+|   **Zumwalt**   |         6         |        39         |        400        |    30     |     4.000     |      200       |

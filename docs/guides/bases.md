@@ -24,6 +24,19 @@ Each non-capital base you own provides capacity for **10,000 Normal Units**. Thi
 
 **Example:** A player with 1 Headquarters + 5 Military Bases + 10 Resource Bases + 4 Mine Bases = 20 bases × 10,000 = **200,000 maximum Normal Units**.
 
+## Automatic Base Defense
+
+Your bases now feature automatic defense setup to ensure they're never left completely undefended:
+
+-   **Auto-Defense System**: When you haven't created a defense setup yet or have insufficient units positioned, the system automatically sets up defenses using your strongest available units
+-   **Smart Prioritization**: The system prioritizes your largest unit groups first and maximizes unit type diversity to create a balanced defense
+-   **Strategic Positioning**: Units are placed strategically to maximize defensive effectiveness
+-   **Fully Customizable**: You can still edit and customize these automatic defenses at any time to match your preferred strategy
+-   **Complete Control**: You maintain full control over your defensive strategy while having a solid baseline defense automatically created
+-   **Peace of Mind**: Never worry about leaving a base undefended - the system has you covered
+
+This feature is particularly useful when managing multiple bases, when you need to quickly set up defenses across your territory, or when enemy units in districts become visible and targetable.
+
 ## Base Construction Costs
 
 Building bases requires [WWO-Influence](resources.md), with the cost varying by type:
@@ -62,6 +75,15 @@ The Headquarters Base is your primary base that provides a steady Iron productio
 Military Base, producing units. **Upgrading your Headquarters allows you to increase your Resource
 Production and Increase your Daily Steal Capacity**. Although your Headquarters can be raided, it
 cannot be Conquered or Destroyed.
+
+### Headquarters Defense Bonus
+
+Districts containing your Headquarters provide enhanced defensive capabilities:
+
+- **8 unit groups** can be positioned for defense (instead of the standard 6)
+- **4,000 normal units** can be deployed (instead of the standard 3,000)
+- This strategic advantage helps protect your command center and surrounding territory
+- The headquarters defense bonus is indicated with a special badge in the district view
 
 ### How to Upgrade your Headquarters Base
 

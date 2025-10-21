@@ -48,22 +48,26 @@ mkdocs build --site-dir _site/
 Always check for conflict markers (`<<<<<<<`, `=======`, `>>>>>>>`) before committing. These prevent the site from building properly on GitHub Pages.
 
 ### YouTube Video Embedding
-Videos are embedded using standard HTML iframe elements:
+
+**IMPORTANT**: Always use standard HTML iframe elements for YouTube videos. **DO NOT use the mkdocs-video plugin** - it does not work correctly with our deployment setup.
+
+**Embed individual videos:**
 ```html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID"
         frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen></iframe>
 ```
 
-For buttons linking to YouTube playlists, use standard HTML anchor tags with Material theme classes:
+**Link to YouTube playlists** using standard HTML anchor tags with Material theme classes:
 ```html
 <a href="https://www.youtube.com/playlist?list=PLAYLIST_ID" target="_blank" class="md-button md-button--primary">View Full Playlist on YouTube</a>
 ```
 
-If videos aren't appearing on the deployed site, verify:
-1. No merge conflicts exist (they prevent GitHub Actions from building)
-2. The video URL uses the `/embed/` format
-3. The iframe HTML is properly formatted
+**Troubleshooting video display issues:**
+1. Verify no merge conflicts exist (they prevent GitHub Actions from building)
+2. Ensure the video URL uses the `/embed/` format (not `/watch?v=`)
+3. Confirm the iframe HTML is properly formatted
+4. Check that you're NOT using the mkdocs-video plugin syntax
 
 ## Architecture and Structure
 
@@ -99,7 +103,10 @@ Note: The workflow can also be triggered manually via `workflow_dispatch`.
 - `git-committers` - Shows contributors (only enabled in CI)
 - `search` - Site search functionality
 
-Note: YouTube videos are embedded using standard HTML iframes, not a plugin.
+**Important Notes:**
+- YouTube videos are embedded using standard HTML iframes, **NOT** the mkdocs-video plugin
+- The mkdocs-video plugin does not work correctly with our deployment and should never be used
+- Always use the HTML iframe format shown in the YouTube Video Embedding section above
 
 ### Theme Customization
 The site uses Material for MkDocs with custom overrides in `material/overrides/`:
@@ -113,28 +120,35 @@ Analytics configuration:
 
 ## Working with Game Guide Content
 
-### Navigation Structure
-The site navigation is defined in `mkdocs.yml` under the `nav:` section:
-- **Home** - Landing page
-- **Beginner's Guide** - Introduction and account creation
-- **Gameplay** - Main section covering resources, bases, units, battles, squads, leaderboards, store
-- **Support** - FAQ and cheating/ban reports
-
-Reports and issues link to GitHub issue chooser: `https://github.com/Chilltime/world-war-online-guides/issues/new/choose`
-
 ### Adding New Units
-Unit guides follow a consistent pattern with embedded demonstration videos. See `docs/guides/units-normal.md` for examples:
-1. Overview paragraph describing the unit type
-2. Embedded YouTube playlist iframe with full unit demonstrations
-3. Individual unit sections with:
-   - Unit name as heading
-   - Description and unlock requirements
-   - Combat strengths/weaknesses
-   - Resource cost
-   - Embedded individual unit video
+Unit guides follow a consistent pattern with embedded demonstration videos. See `docs/guides/units-normal.md` for examples.
 
 ### Resource and Base Documentation
 Game mechanics documentation is in `docs/guides/` with interconnected pages for resources, bases, units, and gameplay features.
 
 ### Image Assets
 Game screenshots and graphics are stored in `docs/assets/images/` using WebP format for optimization.
+
+## Writing Guide for Documentation
+
+**All documentation must follow our established writing standards.** See the comprehensive [Writing Guide](resources/writing-guide.md) for detailed instructions on:
+
+- **Audience and tone**: Writing for our mature, strategic player base (25+ years old)
+- **Player-benefit focused writing**: Always frame features from the player advantage perspective
+- **Writing style**: Voice, structure, formatting, language conventions
+- **Content patterns**: Templates for features, mechanics, and common elements
+- **Real examples**: Good and bad examples from our documentation
+
+### Key Principles (Quick Reference)
+
+**Always Lead with Player Benefits:**
+- ✅ "Enemy units in districts are now visible, allowing you to scout and plan strategic attacks"
+- ❌ "Your units can now be targeted by enemies in districts"
+
+**Use Clear, Mature Communication:**
+- Direct and transparent language
+- Active voice and second person ("you")
+- Specific numbers and values
+- Strategic context and tactical depth
+
+**See [resources/writing-guide.md](resources/writing-guide.md) for complete guidelines.**

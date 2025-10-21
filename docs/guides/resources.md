@@ -111,6 +111,18 @@ Each unit type requires different resources for upkeep:
 
 Managing your Army Upkeep is crucial for maintaining a sustainable military force. As your army grows, you'll need to ensure that your resource production keeps pace with your upkeep requirements.
 
+## Resource Stealing and Carrying Capacity
+
+When you successfully attack enemy bases, you can steal their resources. The amount you can carry is now directly tied to your unit composition:
+
+-   **Carrying Capacity**: Each unit can carry resources equal to **5% of its total health**
+-   **Strategic Unit Selection**: Heavier units (like Dongfeng with 225 HP) can carry more resources (11.25 per unit) than lighter units (like Bazooka with 135 HP carrying 6.75 per unit)
+-   **Supreme Unit Advantage**: Supreme units have significantly higher carrying capacity - for example, an Abrams tank (4,000 HP) can carry 200 resources per unit
+-   **Visual Indicator**: The interface shows your unit carrying capacity versus available resources to help you plan raids
+-   **Tactical Planning**: Choose your attack force based on your objectives - use heavier units when raiding for resources
+
+This mechanic encourages strategic unit selection based on whether you're attacking for destruction or resource acquisition.
+
 ## Resource Management Tips
 
 Effective resource management is crucial for success in World War Online:
@@ -119,17 +131,28 @@ Effective resource management is crucial for success in World War Online:
 
 2. **Balance your economy** - Make sure your resource production exceeds your army's upkeep to maintain positive resource growth.
 
-3. **Prioritize critical resources** - Focus on resources that align with your strategy (e.g., Food for infantry-focused armies, Iron for armored/sea units, Money for air units).
+3. **Use WWO-Influence wisely**:
+   -   Train Supreme Units
+   -   Train Normal Units (if a player is out of Iron)
+   -   Build new bases (cost increases with number of resource bases)
+   -   Accelerate units movement in the map
+   -   Accelerate units training
+   -   Accelerate Headquarters Base upgrades
+   -   Purchase Special Deals in Store
 
-4. **Protect your resource bases** - Station units to defend valuable resource production facilities from enemy raids.
+4. **Prioritize critical resources** - Focus on resources that align with your strategy (e.g., Food for infantry-focused armies, Iron for armored/sea units, Money for air units).
 
-5. **Upgrade strategically** - Invest in upgrading bases that produce resources you use most frequently.
+5. **Protect your resource bases** - Station units to defend valuable resource production facilities from enemy raids.
 
-6. **Maintain reserves** - Keep a buffer of resources to respond to unexpected opportunities or threats.
+6. **Upgrade strategically** - Invest in upgrading bases that produce resources you use most frequently.
 
-7. **Use Brick efficiently** - Since Brick is primarily used for base upgrades, focus on collecting it when planning infrastructure improvements.
+7. **Maintain reserves** - Keep a buffer of resources to respond to unexpected opportunities or threats.
 
-8. **Maximize WWO-Influence value** - Use premium currency strategically for critical advantages like Supreme Units, base construction, or time acceleration during important battles.
+8. **Use Brick efficiently** - Since Brick is primarily used for base upgrades, focus on collecting it when planning infrastructure improvements.
+
+9. **Optimize raiding forces** - Select units with higher health when your primary goal is resource stealing rather than just destruction.
+
+10. **Maximize WWO-Influence value** - Use premium currency strategically for critical advantages like Supreme Units, base construction, or time acceleration during important battles.
 
 ## Related Guides
 
