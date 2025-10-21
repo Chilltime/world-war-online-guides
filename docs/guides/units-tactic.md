@@ -10,12 +10,16 @@ Watch all Tactical Units in action:
 
 ## General
 
-The General is a Tactical Unit. It is used to conquer enemy Bases.
+The General is a Tactical Unit used to conquer enemy Bases. Generals provide unique tactical flexibility in combat.
 
--   Unlocked at Military Rank: 25;
--   Must belong to a Squad.
--   Enters Battle on Wave: 11.
--   Resource cost: 5 WWO-Influence
+-   **Unlocked at Military Rank**: 25
+-   **Must belong to a Squad**
+-   **Enters Battle on Wave**: 11
+-   **Resource cost**: 5 WWO-Influence
+-   **Extra Unit Slot**: Generals do not count toward your 6-unit group limit, allowing you to bring a General alongside your full complement of troops
+-   **Star Indicator**: When a General is present in your attack formation, a star icon appears in the interface
+
+This extra unit flexibility gives you more tactical options when leading your forces into battle, making Generals valuable for both conquest operations and general combat scenarios.
 
 ## Special Forces
 

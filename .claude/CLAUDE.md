@@ -48,15 +48,26 @@ mkdocs build --site-dir _site/
 Always check for conflict markers (`<<<<<<<`, `=======`, `>>>>>>>`) before committing. These prevent the site from building properly on GitHub Pages.
 
 ### YouTube Video Embedding
-Videos are embedded using the mkdocs-video plugin with this syntax:
-```markdown
-![type:video](https://www.youtube.com/embed/VIDEO_ID)
+
+**IMPORTANT**: Always use standard HTML iframe elements for YouTube videos. **DO NOT use the mkdocs-video plugin** - it does not work correctly with our deployment setup.
+
+**Embed individual videos:**
+```html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID"
+        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
 ```
 
-If videos aren't appearing on the deployed site, verify:
-1. No merge conflicts exist (they prevent GitHub Actions from building)
-2. The mkdocs-video plugin is installed
-3. The video URL uses the `/embed/` format
+**Link to YouTube playlists** using standard HTML anchor tags with Material theme classes:
+```html
+<a href="https://www.youtube.com/playlist?list=PLAYLIST_ID" target="_blank" class="md-button md-button--primary">View Full Playlist on YouTube</a>
+```
+
+**Troubleshooting video display issues:**
+1. Verify no merge conflicts exist (they prevent GitHub Actions from building)
+2. Ensure the video URL uses the `/embed/` format (not `/watch?v=`)
+3. Confirm the iframe HTML is properly formatted
+4. Check that you're NOT using the mkdocs-video plugin syntax
 
 ## Architecture and Structure
 
@@ -84,11 +95,15 @@ docs/
 4. Deploys to GitHub Pages at https://guides.worldwaronline.com/
 
 ### MkDocs Plugins Used
-- `mkdocs-video` - YouTube video embedding
 - `mkdocs-minify-plugin` - HTML minification
 - `git-revision-date-localized` - Shows last update dates
 - `git-committers` - Shows contributors
 - `search` - Site search functionality
+
+**Important Notes:**
+- YouTube videos are embedded using standard HTML iframes, **NOT** the mkdocs-video plugin
+- The mkdocs-video plugin does not work correctly with our deployment and should never be used
+- Always use the HTML iframe format shown in the YouTube Video Embedding section above
 
 ## Working with Game Guide Content
 
@@ -100,3 +115,27 @@ Game mechanics documentation is in `docs/guides/` with interconnected pages for 
 
 ### Image Assets
 Game screenshots and graphics are stored in `docs/assets/images/` using WebP format for optimization.
+
+## Writing Guide for Documentation
+
+**All documentation must follow our established writing standards.** See the comprehensive [Writing Guide](resources/writing-guide.md) for detailed instructions on:
+
+- **Audience and tone**: Writing for our mature, strategic player base (25+ years old)
+- **Player-benefit focused writing**: Always frame features from the player advantage perspective
+- **Writing style**: Voice, structure, formatting, language conventions
+- **Content patterns**: Templates for features, mechanics, and common elements
+- **Real examples**: Good and bad examples from our documentation
+
+### Key Principles (Quick Reference)
+
+**Always Lead with Player Benefits:**
+- ✅ "Enemy units in districts are now visible, allowing you to scout and plan strategic attacks"
+- ❌ "Your units can now be targeted by enemies in districts"
+
+**Use Clear, Mature Communication:**
+- Direct and transparent language
+- Active voice and second person ("you")
+- Specific numbers and values
+- Strategic context and tactical depth
+
+**See [resources/writing-guide.md](resources/writing-guide.md) for complete guidelines.**

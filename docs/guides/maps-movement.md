@@ -51,11 +51,32 @@ It also shows:
 
 -   Your current Defense Setup;
 -   Your Army in the District;
+-   **Enemy Units**: Enemy units positioned in districts are now visible and targetable, allowing you to scout and plan your attacks strategically;
 -   Armies in the district belonging to other Squads or Guerilla Armies (Not belonging to a Squad);
+-   **Base Information**: Hover over bases to see tooltips showing the base type and subtype (Headquarters, Resource bases like oil fields, Military installations, etc.);
 -   The 5 latest battles in the last 2 Hours.
+
+### Scouting Enemy Positions
+
+When you scout enemy districts, you'll see their positioned units, allowing you to:
+
+-   **Plan Strategic Attacks**: Identify weaknesses in enemy defenses
+-   **Choose Appropriate Forces**: Match your attack composition to counter their defensive setup
+-   **Target High-Value Bases**: Use base type tooltips to identify resource-rich targets like Headquarters, Mine bases, or Resource bases
 
 Keeping the District Sidebar open (By not leaving the district, you can watch all the latest battles
 that are occurring in the district in real time.
+
+### Attack Rate Limiting
+
+District attacks use a strategic timing system that rewards careful planning:
+
+-   **Attack Limit**: You can attack each player in a specific district up to **3 times per 12 hours**
+-   **District-Specific**: Attack limits are per district, meaning you can attack the same player in different districts
+-   **Countdown Timer**: When you've reached the limit, the interface displays a countdown showing when you can attack again
+-   **Strategic Planning**: Plan your attacks carefully to maximize their effectiveness within the 12-hour window
+
+This system prevents overwhelming attacks on individual players while still allowing for strategic multi-front conflicts across different districts.
 
 ## Movement
 

@@ -13,6 +13,17 @@ can also collect your Supply Crates and Unit Packs.
 Through the main page of the Store, players can purchase the Premium In-Game Currency for World War
 Online (For more information check WWO-Influence).
 
+### Weekly Purchase Limits
+
+The Store provides a strategic purchasing system that ensures fair competition:
+
+-   **Purchase Limit**: You can purchase up to **10,000 WWO** worth of items every **6 days**
+-   **Fair Progression**: This system helps ensure all players have a balanced experience
+-   **Clear Interface**: The Store interface shows exactly when you can purchase again
+-   **Reset Timer**: A countdown displays when your purchase window will refresh
+
+Plan your Store purchases strategically to make the most of your weekly allowance.
+
 ## WWO Packs
 
 ![Available Store Packs](../assets/images/store_packs.webp "Store Packs")
