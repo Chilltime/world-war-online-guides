@@ -13,10 +13,9 @@ There are 4 different types of Units within World War Online:
 
 Commanders unlock Units as their [Military Rank](player-rank.md) increases. You can find a complete list of all units and their required military ranks [here](player-rank.md#unit-military-rank-requirements). There are also three different classes of Units:
 
--   [Normal Units](units-normal.md), which only cost Iron. They'll constitute the bulk of your Army;
--   [Supreme Units](units-supreme.md), which cost WWO-Influence or Money. They're much stronger than
-    Normal Units but they fight in lower numbers;
--   [Tactical Units](units-tactic.md), which have the special role of Conquering Bases.
+-   [Normal Units](units-normal.md) cost different types of [resources](resources.md) - Money, Food, or Iron - depending on the unit type. They constitute the bulk of your army.
+-   [Supreme Units](units-supreme.md) cost WWO-Influence. They are much stronger than Normal Units but fight in lower numbers.
+-   [Tactical Units](units-tactic.md) are units with special roles, like the General for conquering bases and the Special Forces for destroying enemy bases.
 
 ## Unit Capacity Limits
 

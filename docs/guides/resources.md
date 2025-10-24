@@ -2,8 +2,7 @@
 
 ![World War Online Resources](../assets/images/header_resources.webp "Game Resources")
 
-Resources are the currencies used to train [Units](unit-intro.md), upgrade your
-[Headquarters Base](bases.md), and maintain your military infrastructure.
+Resources are essential currencies used to train [Units](unit-intro.md) and upgrade your [bases](bases.md), including your Headquarters and various specialized facilities.
 
 World War Online has five different resources:
 - **WWO-Influence** (Premium Currency)
@@ -11,6 +10,48 @@ World War Online has five different resources:
 - **Iron**
 - **Food**
 - **Brick**
+
+## Money
+
+Money is a resource primarily used for training [Air units](units-normal.md). It's generated from dedicated [Money Resource Bases](bases.md).
+
+Money is used for:
+- Training all Air category units (UH-60 Black Hawk, MQ-9 Reaper, Chengdu J7, Lynx)
+- Supporting base construction and maintenance
+- Trading with other players
+
+Money Resource Bases can be constructed to increase your production rate. As your Money Resource Bases level up, they will produce more Money per hour.
+
+## Iron
+
+Iron is a resource that is generated in your **Headquarters** and specialized [Iron Resource Bases](bases.md). The amount of Iron you currently have available is displayed at the top of the screen.
+
+Iron is primarily used for:
+- Training [Armored units](units-normal.md) (BMD-3 Bakhcha, M3A3 Bradley, Gepard, Dongfeng)
+- Training [Sea units](units-normal.md) (Christy, Pomornik, Arleigh Burke, Akula II)
+- Upgrading your Headquarters Base
+
+The higher the level of your Headquarters Base, the higher the amount of Iron you generate.
+
+## Food
+
+Food is an essential resource needed to train your [Infantry units](units-normal.md). It's produced by specialized [Food Resource Bases](bases.md).
+
+Food is primarily used for:
+- Training all Infantry category units (Soldier, Bazooka, Stinger, LG1)
+- Supporting base operations
+
+Food Resource Bases can be constructed using WWO-Influence and upgraded to increase their production rate. Strategic placement of Food Resource Bases helps ensure efficient military operations.
+
+## Brick
+
+Brick is a construction material resource used for creating and upgrading bases. It's produced by dedicated [Brick Resource Bases](bases.md).
+
+Brick is used for:
+- Creating new [bases](bases.md)
+- Upgrading all [base types](bases.md) (Headquarters, Resource Bases, Military Bases, and Mine Bases)
+
+Brick Resource Bases can be constructed to ensure a steady supply of this construction material. As with other resource bases, the production rate increases as you upgrade the base level.
 
 ## WWO-Influence (Premium)
 
@@ -31,85 +72,7 @@ WWO-Influence can be used to:
 - Purchase Special Deals in Store
 - Construct new bases (Resource, Military, and Mine bases)
 
-WWO-Influence can also be collected daily, for free, through Supply Crates, but once you get **500 WWO or more** in your account, you stop receiving the bonuses until getting below this value again.
-
-Also, you can only collect up to **15.000 WWO-Influence per week**.
-
-## Resource Usage by Unit Type
-
-Each unit type in World War Online requires a specific resource for training:
-
-| Unit Category | Resource Used | Examples |
-|---------------|--------------|----------|
-| Infantry | Food | Soldier, Bazooka, Stinger, LG1 |
-| Armored | Iron | BMD-3 Bakhcha, M3A3 Bradley, Gepard, Dongfeng |
-| Air | Money | UH-60 Black Hawk, MQ-9 Reaper, Chengdu J7, Lynx |
-| Sea | Iron | Christy, Pomornik, Arleigh Burke, Akula II |
-| Supreme Units | Premium | All supreme versions of regular units |
-| Special Forces | Premium | Special Forces unit |
-| General | Premium | General unit |
-
-## Money
-
-Money is a resource primarily used for training Air units. It's generated from dedicated Money Resource Bases.
-
-Money is used for:
-- Training all Air category units (Black Hawk, Reaper, Chengdu, Lynx)
-- Supporting base construction and maintenance
-- Trading with other players
-
-Money Resource Bases can be constructed to increase your production rate. As your Money Resource Bases level up, they will produce more Money per hour.
-
-## Iron
-
-Iron is a resource that is generated in your **Headquarters** and specialized Iron Resource Bases. The amount of Iron you currently have available is displayed at the top of the screen. A player can only have a maximum of 500,000 Iron in their resource pool at any given time.
-
-Iron is primarily used for:
-- Training Armored units (Bakhcha, Bradley, Gepard, Dongfeng)
-- Training Sea units (Christy, Pomornik, Arleigh Burke, Akula)
-- Upgrading your Headquarters Base
-- Maintaining your Army's upkeep
-
-The higher the level of your Headquarters Base, the higher the amount of Iron you generate.
-
-## Food
-
-Food is an essential resource needed to sustain your military forces. It's produced by specialized Food Resource Bases.
-
-Food is primarily used for:
-- Training all Infantry category units (Soldier, Bazooka, Stinger, LG1)
-- Sustaining your army's upkeep
-- Supporting base operations in challenging environments
-
-Food Resource Bases can be constructed using WWO-Influence and upgraded to increase their production rate. Strategic placement of Food Resource Bases near your military operations can minimize transportation costs and ensure a steady supply.
-
-## Brick
-
-Brick is a construction material resource used for fortification and building projects. It's produced by dedicated Brick Resource Bases.
-
-Brick is primarily used for:
-- Upgrading bases and facilities
-- Constructing defensive fortifications
-- Reinforcing existing structures
-- Building specialized military installations
-
-Brick Resource Bases can be constructed to ensure a steady supply of this construction material. As with other resource bases, the production rate increases as you upgrade the base level.
-
-## Army Upkeep
-
-![Army Upkeep](../assets/images/resources_upkeep.webp "Army Upkeep Resources")
-
-**Army Upkeep** is a small amount of Resources that is subtracted from your Resource Production every 10 minutes based on how many Units you have.
-
-If your Resource Production is equal to your Army Upkeep, you will no longer be able to produce any more units until your resource production is positive.
-
-Each unit type requires different resources for upkeep:
-- Infantry units consume Food
-- Armored and Sea units consume Iron
-- Air units consume Money
-- Supreme units and Special Forces consume a small amount of Premium resources
-
-Managing your Army Upkeep is crucial for maintaining a sustainable military force. As your army grows, you'll need to ensure that your resource production keeps pace with your upkeep requirements.
+WWO-Influence can also be collected daily, for free, through Supply Crates.
 
 ## Resource Stealing and Carrying Capacity
 
@@ -127,18 +90,24 @@ This mechanic encourages strategic unit selection based on whether you're attack
 
 Effective resource management is crucial for success in World War Online:
 
-1. **Understand unit resource requirements** - Different unit types require different resources, so plan your resource production based on your army composition strategy.
+1. **Understand unit resource requirements** - Different unit types require different resources. Plan your resource production based on your army composition strategy:
+   - Infantry units require Food
+   - Armored and Sea units require Iron
+   - Air units require Money
+   - Supreme units require WWO-Influence
 
-2. **Balance your economy** - Make sure your resource production exceeds your army's upkeep to maintain positive resource growth.
+2. **Balance your base portfolio strategically** - You have a maximum number of bases you can construct, so choose wisely based on your warfare strategy and current game phase:
+   - **Early game**: Prioritize Brick production to rapidly build new bases and upgrade existing ones, establishing your economic foundation
+   - **Mid to late game**: Shift focus to resource bases that support your preferred unit composition (Food for Infantry, Iron for Armored/Sea, Money for Air)
+   - **Geographic considerations**: Balance your base types based on where you're conducting military operations and which territories you control
 
 3. **Use WWO-Influence wisely**:
-   -   Train Supreme Units
-   -   Train Normal Units (if a player is out of Iron)
-   -   Build new bases (cost increases with number of resource bases)
-   -   Accelerate units movement in the map
-   -   Accelerate units training
-   -   Accelerate Headquarters Base upgrades
-   -   Purchase Special Deals in Store
+   -   Train Supreme Units for maximum combat effectiveness
+   -   Build new bases strategically (remember the maximum base limit)
+   -   Accelerate unit movement during critical operations
+   -   Accelerate unit training when time is essential
+   -   Accelerate Headquarters Base upgrades for long-term advantages
+   -   Purchase Special Deals in Store for value
 
 4. **Prioritize critical resources** - Focus on resources that align with your strategy (e.g., Food for infantry-focused armies, Iron for armored/sea units, Money for air units).
 
@@ -148,11 +117,13 @@ Effective resource management is crucial for success in World War Online:
 
 7. **Maintain reserves** - Keep a buffer of resources to respond to unexpected opportunities or threats.
 
-8. **Use Brick efficiently** - Since Brick is primarily used for base upgrades, focus on collecting it when planning infrastructure improvements.
+8. **Use Brick efficiently** - Brick is essential for base creation and upgrades. In the early game, Brick production is particularly valuable as it enables rapid expansion of your infrastructure.
 
 9. **Optimize raiding forces** - Select units with higher health when your primary goal is resource stealing rather than just destruction.
 
 10. **Maximize WWO-Influence value** - Use premium currency strategically for critical advantages like Supreme Units, base construction, or time acceleration during important battles.
+
+11. **Adapt your economy to your strategy** - Your base composition should reflect your military doctrine. A balanced approach works for versatile play, while specialized economies support focused strategies.
 
 ## Related Guides
 

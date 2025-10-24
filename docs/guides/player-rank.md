@@ -14,7 +14,7 @@ You always start the game as a level 5 Recruit, with access to Bradley and Bazoo
 from there. The miltary ranks are Private, Sergeant, Captain, Major, Lieutenant, General and Elite
 General.
 
-**Note:** The "Army Budget" shown below refers to the maximum individual unit type limits per rank, not your total army size. Your total [Normal Unit capacity](unit-train.md#unit-capacity-system) is determined by the number of [bases](bases.md#unit-capacity) you own (10,000 units per base).
+**Note:** The "Army Budget" shown below refers to the maximum individual unit type limits per rank, not your total army size. Your total [Normal Unit capacity](unit-train.md#unit-capacity-system) is determined by the number of [bases](bases.md) you own (10,000 units per base).
 
 Below you can find the rewards for each military rank.
 

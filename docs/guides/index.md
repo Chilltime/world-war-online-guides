@@ -18,10 +18,7 @@ rewards for the next Season and the glory of carrying their country flag to the 
 
 ## Starting
 
-When you [create an account](player-intro.md) in World War Online, and login for the first time in a
-Season, you will be presented with a short Tutorial Video. This Tutorial serves to show you some of
-the basic mechanics of the game, and the User Interface (UI). Once it finishes you will be dropped
-into the [World Map](maps-movement.md) and told that your Mission Center is on the top left corner.
+When you create an account and login for the first time in a Season, you will be presented with a short Tutorial Video. This Tutorial serves to show you some of the basic mechanics of the game, and the User Interface (UI). Once it finishes you will be dropped into the [World Map](maps-movement.md) and told that your Mission Center is on the top left corner.
 
 ## Mission Center
 
