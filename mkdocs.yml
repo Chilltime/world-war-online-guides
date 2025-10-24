@@ -1,13 +1,10 @@
 # Project information
-site_name: World War Online - Documentation and Guides
+site_name: Official Guides for World War Online
 site_url: https://guides.worldwaronline.com/
 site_description: >-
-  World War Online is a PvP MMO Strategy Game
-
-# Repository
-repo_url: https://github.com/Chilltime/world-war-online-guides
-repo_name: Chilltime/world-war-online-guides
-edit_uri: edit/main/docs/
+  Official guides for World War Online - A real-time PvP MMO Strategy Game.
+  Learn unit tactics, resource management, squad warfare, and competitive strategies.
+site_author: World War Online
 
 # Copyright
 copyright: Copyright &copy; 2025 Chilltime, Lda.
@@ -17,7 +14,6 @@ theme:
   name: material
   custom_dir: material/overrides
   features:
-    - content.action.edit
     - navigation.footer
     - navigation.instant
     - navigation.instant.prefetch
@@ -51,7 +47,9 @@ theme:
   favicon: favicon.ico
   icon:
     logo: material/book
-    repo: fontawesome/brands/github
+
+extra_css:
+  - stylesheets/extra.css
 
 extra:
   generator: false
@@ -59,12 +57,35 @@ extra:
     provider: google
     property: G-P1RJWYY3T2
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/Chilltime
     - icon: fontawesome/brands/discord
       link: https://discord.gg/AEcggZh
     - icon: fontawesome/brands/x-twitter
       link: https://x.com/worldwaronline
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/world_war_online
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/WorldWarOnline/
+  meta:
+    - name: keywords
+      content: World War Online, WWO, strategy game, MMO, PvP game, military strategy, tactical warfare, mobile strategy game, squad warfare, capital warfare, game guides, unit guides, strategy guides
+    - name: author
+      content: World War Online
+    - property: og:type
+      content: website
+    - property: og:title
+      content: Official Guides for World War Online
+    - property: og:description
+      content: Official guides for World War Online - A real-time PvP MMO Strategy Game. Learn unit tactics, resource management, squad warfare, and competitive strategies.
+    - property: og:image
+      content: https://guides.worldwaronline.com/assets/images/header_welcome.webp
+    - name: twitter:card
+      content: summary_large_image
+    - name: twitter:title
+      content: Official Guides for World War Online
+    - name: twitter:description
+      content: Official guides for World War Online - A real-time PvP MMO Strategy Game. Learn unit tactics, resource management, squad warfare, and competitive strategies.
+    - name: twitter:image
+      content: https://guides.worldwaronline.com/assets/images/header_welcome.webp
 plugins:
   - search:
     #
@@ -83,14 +104,9 @@ not_in_nav: |
 # Page tree
 nav:
   - Home: index.md
-  - Beginner's Guide:
-    - Introduction: guides/index.md
-    - Create an Account: guides/player-intro.md
-  - Gameplay:
-    - Resources: guides/resources.md
-    - Map & Movement: guides/maps-movement.md
+  - Guides:
+    - Beginner's Guide: guides/index.md
     - Bases: guides/bases.md
-    - Player Ranks: guides/player-rank.md
     - Units:
       - Introduction: guides/unit-intro.md
       - Normal Units: guides/units-normal.md
@@ -98,16 +114,19 @@ nav:
       - Tactical Units: guides/units-tactic.md
       - Training Guide: guides/unit-train.md
       - Combat Stats: guides/unit-stats.md
+    - Resources: guides/resources.md
+    - Player Ranks: guides/player-rank.md
     - Battles:
       - Rules: guides/battle-rules.md
+    - Leaderboards:
+      - Squad: guides/leaderboard-squad.md
+      - Player: guides/leaderboard-player.md
+    - Map & Movement: guides/maps-movement.md
     - Campaign: guides/campaign.md
     - Squads:
       - Overview: guides/squads.md
       - Capital Warfare: guides/capital-warfare.md
       - Squad Leaderboard: guides/leaderboard-squad.md
-    - Leaderboards:
-      - Player: guides/leaderboard-player.md
-      - Squad: guides/leaderboard-squad.md
     - Store:
       - Introduction: guides/store.md
       - Rules: legal/store-rules.md
@@ -117,4 +136,3 @@ nav:
   - Support:
     - FAQ: faq/index.md
     - Cheating: legal/reports-bans-suspensions.md
-  - 🐛 Report an Issue: https://github.com/Chilltime/world-war-online-guides/issues/new/choose

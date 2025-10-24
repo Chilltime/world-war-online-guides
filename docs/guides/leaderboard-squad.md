@@ -10,16 +10,12 @@ Season, the top 5 Squads host their respective country's flags in the podium.
 
 ## Leagues
 
-There are 4 Leagues in World War Online, and at the end of the Season, players from squads in
-different leagues receive varied rewards based on their Ranking. Squads are ranked based on the
-number of Points they have, and in each League there's a maximum number of squads:
+There are 4 Leagues in World War Online, and at the end of the Season, players from squads in different leagues receive varied rewards based on their Ranking. Squads are ranked based on the number of Points they have:
 
-## League Squad Limit
-
--   Gold 10
--   Silver 10
--   Bronze 30
--   White ∞
+-   **Gold League**: Top 10 squads (positions 1-10)
+-   **Silver League**: Positions 11-20
+-   **Bronze League**: Positions 21-30
+-   **Iron League**: Position 31st onwards
 
 ## End of Season Rewards
 
@@ -34,11 +30,11 @@ WWO-Influence.
 This amount of WWO-Influence is divided between 8 Squad Members at the End of the Season. Also, all
 the remaining Squads in Gold League receive 2.500 WWO and all squads in Silver receive 1.000 WWO.
 
-## How to get Points {#points-system}
+## How to get Points
 
 To learn how to gain points for your Squad, check [**Capital Warfare**](capital-warfare.md) section.
 
-### Point Multiplier System {#point-multiplier-system}
+### Point Multiplier System
 
 Capital Warfare features a **progressive point multiplier system** that makes the final weeks of the season significantly more impactful and competitive. Points earned from Capital Warfare scale based on when the warfare was created relative to the season end:
 
@@ -62,13 +58,3 @@ The final 3 weeks (with 2x, 3x, and 4x multipliers) are equivalent in impact to 
 -   **Increased competition** as the season progresses
 -   **More engaging end-of-season gameplay**
 -   **Greater rewards for consistent participation** throughout the season
-
-#### Visibility
-
-The active multiplier is displayed prominently in the Capital Warfare interface with a colored chip:
-
--   **Green** - 1x (normal season)
--   **Orange** - 2x (moderate urgency)
--   **Red** - 3x-4x (high urgency/final weeks)
-
-Click on the multiplier chip to view this guide section for more details.

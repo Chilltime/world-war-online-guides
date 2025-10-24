@@ -1,0 +1,40 @@
+/* World War Online Custom Theme - Game-inspired Blue Gradient */
+
+/* Header gradient matching the game UI */
+.md-header {
+  background: linear-gradient(to bottom, #011E2D 0%, rgba(30, 180, 253, 0.44) 100%) !important;
+  box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2), 0px 4px 5px 0px rgba(0,0,0,0.14), 0px 1px 10px 0px rgba(0,0,0,0.12);
+}
+
+/* Ensure header text is white for contrast */
+.md-header__title,
+.md-header__button,
+.md-tabs__link {
+  color: white !important;
+}
+
+/* Navigation tabs with game theme */
+.md-tabs {
+  background: linear-gradient(to bottom, #011E2D 0%, rgba(30, 180, 253, 0.44) 100%);
+}
+
+/* Active tab styling */
+.md-tabs__link--active {
+  color: white !important;
+  font-weight: 600;
+}
+
+/* Primary color scheme matching game blue */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #1EB4FD;
+  --md-primary-fg-color--light: rgba(30, 180, 253, 0.7);
+  --md-primary-fg-color--dark: #011E2D;
+  --md-accent-fg-color: #1EB4FD;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #1EB4FD;
+  --md-primary-fg-color--light: rgba(30, 180, 253, 0.7);
+  --md-primary-fg-color--dark: #011E2D;
+  --md-accent-fg-color: #1EB4FD;
+}
