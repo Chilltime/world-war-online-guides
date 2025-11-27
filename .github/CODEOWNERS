@@ -2,12 +2,12 @@
 # These users will be automatically requested for review when someone opens a pull request
 
 # Global owners for all files
-* @jbrazio @danielvilaboa
+* @jbrazio @danielvilaboa @claude
 
 # Documentation files
-/docs/ @jbrazio @danielvilaboa
-*.md @jbrazio @danielvilaboa
+/docs/ @jbrazio @danielvilaboa @claude
+*.md @jbrazio @danielvilaboa @claude
 
 # Configuration files
-/mkdocs.yml @jbrazio @danielvilaboa
-/.github/ @jbrazio @danielvilaboa
+/mkdocs.yml @jbrazio @danielvilaboa @claude
+/.github/ @jbrazio @danielvilaboa @claude
