@@ -44,6 +44,15 @@ When defending against conquest attacks, preventing the General from surviving i
 
 Units can use multiple Strategies in Battle. Setting units in Ambush near to where the General will spawn on the 11th wave can give you an advantage in killing the enemy General when being attacked.
 
+**Tactical Flexibility During Active Defense:**
+
+Ambush and Flank strategies provide unique defensive advantages because you can modify them even when your defense is pinned by incoming attacks. While static strategies (Default, Hold, Conquer, Destroy) become locked once enemies launch attacks, dynamic strategies remain fully adjustable:
+
+- **Ambush (Wave 4 entry)**: Add or reposition ambush units to counter incoming attack formations after seeing enemy composition. Ideal for targeting Generals on Wave 11 or adapting to specific threats.
+- **Flank (Wave 8 entry)**: Adjust flanking positions mid-threat to exploit enemy weaknesses in any battle position. Perfect for countering unexpected unit compositions.
+
+This tactical flexibility lets you respond to incoming attacks with precision, setting up counter-measures even after enemies have committed to their assault. For complete details on defense pinning and strategy restrictions, see [Defense During Incoming Attacks](bases.md#defense-during-incoming-attacks).
+
 ## Special Forces
 
 The Special Forces is a Tactical Unit that allows you to destroy enemy bases if your attack is successful.

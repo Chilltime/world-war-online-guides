@@ -13,6 +13,27 @@ You are about to create a pull request for a **public repository** (World War On
 - ✅ Focus on player-facing features and public game information
 - ✅ Review all changes to ensure they don't expose internal game details
 
+## Communication Format
+
+When asking questions or presenting options, use the eye-catching format from CLAUDE.md:
+
+**Questions:**
+```text
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⁉️💡 Questions ⁉️💡⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+
+Your question here?
+```
+
+**Options:**
+```text
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️🔀💡 Options 🔀💡⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+
+1. Option one - Brief description
+2. Option two - Brief description
+```
+
+This ensures questions and options don't get lost in technical output.
+
 ## Steps to Create PR
 
 1. **Review All Changes**:

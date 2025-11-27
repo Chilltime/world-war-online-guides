@@ -14,6 +14,37 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is a MkDocs documentation site for World War Online game guides, deployed via GitHub Pages. The site uses the Material theme and includes embedded YouTube videos for game unit demonstrations.
 
+## Communication Guidelines
+
+When asking the user questions or presenting options that require their decision, use the following
+formats to ensure they are highly visible and don't get lost in technical output:
+
+### Questions
+
+When you need user input or clarification, format questions like this:
+
+```text
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⁉️💡 Questions ⁉️💡⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+
+Should I create a separate page for this feature or add it to the existing guide?
+
+Do you want me to include video demonstrations for this unit type?
+```
+
+### Options
+
+When presenting multiple choices or approaches, format them like this:
+
+```text
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️🔀💡 Options 🔀💡⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+
+1. Add to existing units page - Append new unit info to docs/guides/units-normal.md
+2. Create dedicated page - New file docs/guides/units-advanced.md with full details
+3. Split by category - Reorganize all units into separate files by unit type
+```
+
+This ensures questions and options are easily identifiable and don't get lost in technical output.
+
 ## Claude Code Slash Commands
 
 ### `/push` - Create Pull Request

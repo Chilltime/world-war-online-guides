@@ -157,6 +157,48 @@ Your bases feature automatic defense setup to ensure they're never left complete
 
 This feature is particularly useful when managing multiple bases, when you need to quickly set up defenses across your territory, or when enemy units in districts become visible and targetable.
 
+## Defense During Incoming Attacks
+
+When enemy attacks target your base district, your defense enters a "pinned" state that restricts certain strategy changes. Understanding which strategies you can modify during active attacks gives you crucial tactical flexibility to counter incoming threats. For information on how [Tactical Units](units-tactic.md) interact with these dynamic strategies, see the Tactical Units guide.
+
+### What You Can Change (Dynamic Strategies)
+
+Even when your defense is pinned, you retain control over dynamic positioning strategies. These flexible options allow you to respond tactically to incoming attacks:
+
+| Strategy | Wave Entry | Description | Tactical Advantage |
+|:--------:|:----------:|:------------|:-------------------|
+| **Ambush** | Wave 4 | Units wait in concealed positions before engaging | Position units to counter attack formations after you see enemy composition; ideal for targeting Generals on Wave 11 |
+| **Flank** | Wave 8 | Units maneuver to attack from advantageous positions | Adjust positioning mid-battle to exploit enemy weaknesses; can be set for any battle position |
+
+Dynamic strategies give you the power to adapt your defense even after attacks launch. You can set up ambush positions to target incoming Generals, adjust flanking maneuvers to counter specific unit types, and fine-tune your tactical response based on enemy attack patterns.
+
+### What You Cannot Change (Static Strategies)
+
+When your defense is pinned, these fundamental strategies become locked and cannot be modified:
+
+| Strategy | Description | When to Configure |
+|:--------:|:------------|:------------------|
+| **Default** | Standard unit positioning with normal engagement | Set before attacks arrive; provides balanced all-purpose defense |
+| **Hold** | Units maintain their positions defensively | Configure ahead of time for position-holding tactics |
+| **Conquer** | General-focused strategy for preventing conquest | Establish before enemy conquest attempts begin |
+| **Destroy** | Special Forces-focused strategy for preventing base destruction | Set up proactively when destruction threats are expected |
+
+Static strategies form your defensive foundation. Since you cannot modify them during incoming attacks, plan your base defenses carefully before threats materialize.
+
+### Strategic Tips
+
+Maximize your defensive advantage with these tactical approaches:
+
+- **Set static defenses proactively**: Configure Default, Hold, Conquer, and Destroy strategies before attacks arrive. Once enemies launch attacks, you lose the ability to adjust these foundational defenses.
+
+- **Use dynamic strategies as counter-measures**: Add Ambush or Flank strategies even after attacks have launched. If you see a General in an incoming attack, position Ambush units near the Wave 11 spawn points to eliminate the conquest threat.
+
+- **Position Ambush for General elimination**: When defending against conquest attempts, Ambush units entering on Wave 4 give you seven waves to thin enemy forces before the General arrives on Wave 11. Focus anti-infantry units in ambush positions near likely General spawn locations.
+
+- **Adapt Flank positions to enemy composition**: Since Flank units enter on Wave 8, you can adjust their positioning based on the enemy attack formation you observe. Counter infantry-heavy attacks with anti-infantry flankers, or respond to armored threats with appropriate unit types.
+
+- **Layer your defenses**: Combine static foundational strategies with dynamic tactical responses. Use Default or Hold strategies for your primary defense line, then supplement with Ambush or Flank units to create multi-layered defensive depth.
+
 ## Related Guides
 
 - [Resources](resources.md) - Resource production and base upgrades
