@@ -4,6 +4,57 @@
 
 World War Online has specific rules that govern when and how battles can occur. Understanding these rules is crucial for planning your attacks and defending your bases effectively.
 
+## Types of Attacks
+
+World War Online offers three distinct attack types, each serving different strategic objectives:
+
+### Normal Attack (Raid)
+
+Normal attacks focus on resource acquisition. When you win a battle, your surviving units can steal resources from the enemy base:
+
+- **Headquarters**: Provides various resource types based on the headquarters level
+- **Resource Bases**: Provides the specific resource that base produces (Food, Iron, Money, or Brick)
+- **Mine Bases**: Allows you to steal accumulated resources
+
+**Resource Carrying Capacity**: The amount of resources you can steal depends on your surviving units. Each unit can carry resources equal to **5% of its total health** - sending more units (especially heavier ones) increases your stealing potential. See [Resource Stealing](resources.md#resource-stealing-and-carrying-capacity) for detailed mechanics.
+
+### Conquer Attack
+
+Conquer attacks allow you to take ownership of enemy bases using the **General** tactical unit:
+
+- **How it works**: Include a General in your attack. If the General survives and you achieve a Decisive Victory, the base becomes yours
+- **General is consumed**: After successfully conquering a base, the General unit is removed from your army - plan your conquests strategically
+- **Level preserved**: When you conquer a base, its level is maintained - conquering a Level 10 resource base gives you Level 10 production immediately
+- **Resource Bases**: Become part of your territory and their production counts toward your economy
+- **Capital Bases**: Award points for your [Squad Leaderboard](leaderboard-squad.md) and [Country Leaderboard](leaderboard-player.md) - a central objective in World War Online
+
+**Restrictions:**
+- ❌ You **cannot conquer Headquarters** - only resource bases, military bases, mines, and capitals
+- ❌ You cannot conquer a base if you've reached your [base limit](bases.md) for that type
+
+For detailed information about Generals, see [Tactical Units - General](units-tactic.md#general).
+
+### Destroy Attack
+
+Destroy attacks permanently remove enemy bases from the game using **Special Forces** tactical units:
+
+- **How it works**: Include Special Forces in your attack. If at least one Special Forces unit survives and you achieve a Decisive Victory, the base is destroyed
+- **Special Forces is consumed**: After successfully destroying a base, the Special Forces unit is removed from your army
+- **Permanent destruction**: The base is completely removed and cannot be rebuilt by any player in that location
+
+**Valid Targets:**
+- ✅ Resource Bases (Food, Iron, Money, Brick)
+- ✅ Mine Bases
+- ❌ **Cannot destroy Capital Bases**
+- ❌ **Cannot destroy Headquarters**
+
+**Strategic Uses:**
+- Deny resources to enemy players
+- Remove strategic military positions
+- Counter territorial expansion by eliminating newly built bases
+
+For detailed information about Special Forces, see [Tactical Units - Special Forces](units-tactic.md#special-forces).
+
 ## Common Rules
 
 These rules apply to **all battles**, whether attacking regular bases or capitals:

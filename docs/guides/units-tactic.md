@@ -28,10 +28,20 @@ This extra unit flexibility gives you more tactical options when leading your fo
 
 ### Conquering Bases with the General
 
-The General will automatically appear when you choose to conquer a Capital Base. When you conquer a Capital Base from an enemy, you take full control of it. In order to successfully conquer a Base, you must meet a few requirements:
+The General is a special tactical unit that enables base conquest. When you include a General in your attack and achieve victory, you can take ownership of enemy bases. To successfully conquer a base:
 
 -   The Battle must be a Decisive Victory
 -   The General must survive the Battle
+-   **The General is consumed** after a successful conquest - once the General enters and conquers the base, it is no longer available in your army
+
+**Important**: Plan your General usage strategically, as each General can only conquer one base before being consumed.
+
+**What you can conquer:**
+- ✅ Resource Bases - become part of your territory with their current level preserved
+- ✅ Military Bases - expand your unit capacity
+- ✅ Mine Bases - gain resource storage
+- ✅ Capital Bases - award [Squad Leaderboard](leaderboard-squad.md) points (central to World War Online gameplay)
+- ❌ **Headquarters cannot be conquered**
 
 **Defensive Tips - Killing a General:**
 
@@ -70,12 +80,18 @@ Special Forces units are elite tactical units with high defense capabilities acr
 
 ### Destroying Bases with Special Forces
 
-To destroy an enemy base, you must use Special Forces units in your attack. When attacking with Special Forces:
+Special Forces allow you to permanently destroy enemy bases. When attacking with Special Forces:
 
 -   The Battle must be a Decisive Victory
 -   At least one Special Forces unit must survive the battle
+-   **The Special Forces unit is consumed** after a successful destruction - once it completes its mission, it is no longer available in your army
 -   Base destruction is permanent and cannot be undone
--   **Cannot destroy [Capital bases](capital-warfare.md)**
+
+**Valid Targets:**
+- ✅ Resource Bases (Food, Iron, Money, Brick)
+- ✅ Mine Bases
+- ❌ **Cannot destroy [Capital bases](capital-warfare.md)**
+- ❌ **Cannot destroy Headquarters**
 
 **Strategic Uses:**
 - Deny resources to enemy players by eliminating their resource bases
