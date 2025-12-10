@@ -5,346 +5,102 @@ hide:
 
 # Privacy Policy
 
-Welcome to World War Online, a product operated by Chilltime Lda. (“Chilltime”). This Privacy Policy
-explains how information about you is collected, used and disclosed by Chilltime Lda and our
-affiliates (“Chilltime”, “we” or “us”). We use the terms “member”, “you” and “your” to mean any
-person using our Platform or any applications created by Chilltime and available through networking
-sites (“SNS App”), any software running on Chilltime’s servers, (“Chilltime Software”), content,
-related documentation, information on the Chilltime domain, and information made available by users
-to each other through the Chilltime Software (collectively the “Service”).
+**Effective Date:** June 24, 2018 | **Last Updated:** January 10, 2025
 
-Your privacy is important to us. This Privacy Policy explains how we collect, use and, in certain
-circumstances, share your personally identifying information. Please read this Privacy Policy
-carefully before using our Service, and if you have any questions, feel free to contact us.
+Welcome to World War Online, a game operated by Chilltime Lda. ("Chilltime"). This Privacy Policy explains how information about you is collected, used and disclosed by Chilltime Lda and our affiliates ("Chilltime", "we" or "us"). We use the terms "member", "you" and "your" to mean any person using our Platform or any applications created by Chilltime and available through networking sites ("SNS App"), any software running on Chilltime's servers, ("Chilltime Software"), content, related documentation, information on the Chilltime domain, and information made available by users to each other through the Chilltime Software (collectively the "Service"). Your privacy is important to us and, as described in this Privacy Policy, we have designed the Service to protect information about you from unauthorized disclosure to others. This Privacy Policy explains how we collect, use and, in certain circumstances, share your personally identifying information. Please read this Privacy Policy carefully, and if you have any questions, feel free to contact us.
 
-## 1. Collection of Information and Personal Data
+Collection of Information We collect information about you when: You provide some of it directly (such as by registering for an account). We record some of it automatically (including with technologies like cookies). We receive some of it from third parties (social media companies). We also collect information, such as usage statistics, by using cookies, server logs, and similar technologies. The particular kinds of information we gather are dependent on how you interact with us, like which Chilltime services you use and how you do so.
 
-Personal data in this sense refers to all individual pieces of information regarding the personal or
-material circumstances of an identified or identifiable natural person, such as name, address, or
-email address as well as IP address. If you visit our Game or use the Contact Form, the collection,
-processing, and use of personal data will take place.
+## 1.1. Information you provide to us
 
-We collect information about you when:
+We collect information you choose to provide or give to us in any manner. For example, we collect information that you provide when you create an account or communicate with us. The types of information that we may collect include your name, username, password, email address, payment method data, photos. We collect information you enter or otherwise provide on World War Online, including: Email address; Your username, password, and other details that help us secure and provide access to World War Online (like when you login to our game or websites); Your name, payment method, and other details we collect to help process purchases you make (like when you buy credits at our Store); World War Online also offers social features like forums and chat. When you use these features, the information you share is public information – this means we may collect and use the information you provide, and in some cases it may also be collected or used by others without your knowledge. In addition to information about yourself, you may choose to share information about yourself in other content ("Content"), such as in products. Any action you perform with other users are considered public, and at your own discretion. When you use a product with social network features like ours, note that some information will be publicly accessible to others, such as your game statistics and performance. We may record gameplay and related information (such as Username, Military Rank, and in-game actions), and replay or otherwise make it available to other users without further notice to you.
 
--   You provide some of it directly (such as by registering for an account).
--   We record some of it automatically (including with technologies like cookies).
--   We receive some of it from third parties (social media companies).
+## 1.2. Information we collect automatically
 
-We also collect information, such as usage statistics, by using cookies, server logs, and similar
-technologies. The particular kinds of information we gather are dependent on how you interact with
-World War Online.
+**Log Information:** your use of World War Online (such as timestamps, clicks, scrolling, browsing times, searches, referral/exit pages, and in-game activity and interactions); **Device Information:** your computer or device (such as IP addresses, unique device IDs, processing capabilities, manufacturer and model, language and other regional settings, geographic location, and screen resolution and similar settings); **Information collected by cookies and other tracking technologies:** your connection to World War Online, including details about the network and software you are using (such as browser type and version, operating system name and version, ISP, and your preference settings); **Information on performance:** How World War Online performs, including problems you may encounter (such as loading errors and response times).
 
-### 1.1. Information you provide to us
+## 1.3. Information We Collect From Third Parties
 
-We collect information you choose to provide or give to us in any manner. For example, we collect
-information that you provide when you create an account or communicate with us.
-
-We collect information you enter or otherwise provide on World War Online, including:
-
--   Contact information (such as name, email address, codename and password);
--   Profile information (such as profile photo);
--   Your messages to the Service (such as chat logs and customer support tickets);
--   Your name, payment method, and other details we collect to help process purchases you make;
--   Other data you choose to give us (such as data to identify a lost account).
-
-World War Online also offers social features like forums and chat. When you use these features, the
-information you share is public information – this means we may collect and use the information you
-provide, and in some cases it may also be collected or used by others without your knowledge.
-
-In addition to information about yourself, you may choose to share information about yourself in
-other content ("Content"), such as in products. Any action you perform with other users are
-considered public, and at your own discretion.
-
-When you use a product with social network features like ours, note that some information will be
-publicly accessible to others, such as your game statistics and performance. We may record gameplay
-and related information (such as Username, Military Rank, and in-game actions), and replay or
-otherwise make it available to other users without further notice to you.
-
-### 1.2. Information we collect automatically
-
--   Data about your account and game progress;
--   Your IP address and mobile device identifiers (such as your device ID, advertising ID, MAC
-    address, IMEI);
--   Data about your device, such as device name and operating system, browser type and language;
--   Data we collect with cookies and similar technologies (see more below);
--   General location data;
--   Data about your use of the Service, such as gameplay data and your interactions with other
-    players inside the Service.
-
-### 1.3. Information We Collect From Third Parties
-
--   Data we receive if you link a third party tool with the Service (such as Facebook or Google);
--   Demographic data (such as to determine the coarse location of your IP address);
--   Data to fight fraud (such as refund abuse in games or click fraud in advertising);
--   Data from platforms that the games run on (such as to verify payment);
--   Data for advertising and analytics purposes, so we can provide you a better Service.
+**Social Media Services:** We obtain information from third parties if you use their services in connection with World War Online (such linking your Facebook account with the game). Your privacy settings on the third party's service control what information they share with us. Please make sure you're comfortable with what they might share by reviewing their posted policies, and if applicable, modifying your privacy settings directly on their service. **Information From other Third Party sources:** We may use information about you that we collect from other sources, including but not limited to newspapers and Internet sources such as blogs, instant messaging services, Chilltime products and other users of Chilltime, to supplement your profile.
 
 ## 2. How We Collect Information
 
 ### 2.1. Cookies & Related Technologies
 
-World War Online may contain links to other websites. We are of course not responsible for the
-privacy practices of other websites. We encourage our users to be aware when they leave our site to
-read the privacy statements of each and every web site that collects personally identifiable
-information. This Privacy Policy applies solely to information collected by World War Online. You
-can know more about this in our [Cookie Policy](cookies.md).
+World War Online may contain links to other websites. We are of course not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by World War Online. You should also be aware that most content delivered through Chilltime products originates with another content provider. Such other content providers may place "cookies" on your browser, or otherwise gather information about you, including by asking you to provide information through the site itself. We also use our servers in connection with these technologies to collect information about the ways you interact with World War Online and store it in log files. This may include, for example, information that your device, browser, or operating system sends to us when you access World War Online (like device IDs, IP addresses, and hardware or software specifications) and details about how you use your World War Online account (like the particular features you use, your in-game interactions and statistics, and other similar info). We use information gathered through technologies like cookies for several reasons, including: To monitor, secure, and maintain World War Online (like preventing fraud); To enhance your browsing experience (such as allowing you to log-in to your account); To analyze and improve our operations (like aggregating traffic and usage patterns); To control the display of ads (including providing you with targeted offers); To support and gauge the effectiveness of our communications and marketing campaigns (like letting us know if you've clicked on our ads or opened our emails); To better personalize your visit and store your preferences and settings (for example, displaying content in your local language); To otherwise manage our relationship with users and provide World War Online under the Terms of Use (including help prevent toxicity and ensure a fair gaming environment). Please note that disabling technologies like cookies may prevent you from using the full functionality of World War Online and the game may not work as we intended.
 
 ### 2.2. Analytics & Third Party Advertising Companies
 
-In order to provide the best possible service and to allow us to make certain internal reports and
-make recommendations, we collect aggregate information about the use of World War Online, including
-information about users accessing the Chilltime site or playing World War Online and other Chilltime
-games or using SNS Apps on other sites, such as internet protocol addresses, browser type, browser
-language, referring / exit pages and URLs, other browser history, platform type, number of clicks,
-domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on
-particular pages, and the date and time (“Activity Information”).
-
-Chilltime does not provide any Personally Identifiable Information to third-party advertising
-companies.
-
-#### 2.2.1. Google Analytics
-
-This website uses Google Analytics, a web analysis service of Google Inc. Google Analytics uses
-so-called "Cookies", text files which are stored on your computer or smartphone and which allow an
-analysis of the use of our website by you. The information generated by the Cookie about your use of
-this website (including your IP address) is transferred to a server by Google in the USA and is
-stored there.
-
-Google will use this information to evaluate your use of the website in order to put together a
-report about the website activities for the website operators and to produce linked services with
-the website use and the Internet use.
-
-Also Google will transfer this information if necessary to third parties, provided that this legally
-prescribed or as far as third parties process these data on behalf of Google. Google will associate
-in no circumstances your IP address with the other data that are stored by Google.
-
-By using World War Online, you agree with the treatment of the data upraised about you by Google in
-the before described way and for the before named purpose. You can find more information about
-Google and data protection in their
-[Privacy Policy](https://policies.google.com/privacy?hl=en&gl=en).
+In order to provide the best possible service and to allow us to make certain internal reports and make recommendations, we collect aggregate information about the use of the Service, including information about users accessing the World War Online site or playing World War Online or using SNS Apps on other sites, such as internet protocol addresses, browser type, browser language, referring / exit pages and URLs, other browser history, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, and the date and time ("Activity Information"). We use third-party advertising companies to serve ads on our site and on certain Chilltime products and SNS Apps. Our system and the third-party advertising technology uses information derived from Activity Information, Chilltime's cookies on your hard drive, your visits to our site, the Chilltime products that you view and the SNS Apps you use to target advertising within our site or Chilltime products or SNS Apps. In addition, our advertisers may use other third-party advertising technology to target advertising on our site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed on your computer. Similarly, third-party advertising companies may provide us with pixel tags (also called "clear gifs" or "beacons") to help manage and optimize our online advertising. Beacons enable us to recognize a browser's cookie when a browser visits the site on which the beacon is located, and to learn which banner ads bring users to a given site. Chilltime does not provide any Personally Identifiable Information to third-party advertising companies. Note, however, that if an advertiser asks Chilltime to show an advertisement to users with certain characteristics (for example, women ages 18-24) or a segment of that group (for example, women ages 18-24 who have viewed certain categories of content) and you respond to that advertisement, the third-party advertising company may conclude that you have the characteristics of the audience that they are trying to reach. By using the Service, you consent to our retaining all the above-described information in anonymous form as long as Chilltime sees fit.
 
 ## 3. How We Use Your Information
 
 ### 3.1. Legal Basis
 
-We use and share your information (i) to provide the services under the [Terms](tos.md), (ii) with
-your consent, (iii) in your and our legitimate interests (such as safety and security, and providing
-a tailored service), and (iv) for other legal reasons.
-
-We rely on a number of legal bases to collect, use, share, and otherwise process the information we
-have about you for the purposes described in this Policy. These legal bases include:
-
--   as is necessary to perform the Terms of Use and to provide the Chilltime services and games,
-    such as World War Online;
--   where you have consented to the processing, which you may revoke at any time;
--   for Chilltime to comply with a legal obligation, a court order, or to exercise and defend legal
-    claims;
--   occasionally to protect your vital interests, or those of others;
--   where necessary in the public interest;
--   where necessary for the purposes of Chilltime or a third party’s legitimate interests, such as
-    those of visitors, users or partners.
+We use and share your information (i) to provide the services under the Terms, (ii) with your consent, (iii) in your and our legitimate interests (such as safety and security, and providing a tailored service), and (iv) for other legal reasons. We rely on a number of legal bases to collect, use, share, and otherwise process the information we have about you for the purposes described in this Policy. These legal bases include: as is necessary to perform the Terms of Use and to provide World War Online; where you have consented to the processing, which you may revoke at any time; for Chilltime to comply with a legal obligation, a court order, or to exercise and defend legal claims; occasionally to protect your vital interests, or those of others; where necessary in the public interest; where necessary for the purposes of Chilltime or a third party's legitimate interests, such as those of visitors, users or partners.
 
 ### 3.2. Using Information
 
-We use the information we collect (both individually and in combination with other information
-collected under this policy) to help us operate our business, provide and improve our products and
-services, communicate with you, and advertise effectively. The particular ways we use your
-information often depend on how you choose to use the Chilltime services.
-
-Some of the most common examples of how we use information include:
-
--   To respond to inquiries, fulfil requests, and process transactions (like helping you create an
-    account, and resolve Feedback issues);
--   To deliver and tailor our communications with you, like by sending you important account-related
-    announcements or promotional communications that we believe may interest you;
--   To administer surveys, contests, and similar offerings (such as confirming your eligibility or
-    sending you a prize if you win);
--   To monitor, analyze, protect, test, and improve our services and operations (like measuring how
-    World War Online performs, tracking usage patterns, and fixing bugs or errors);
--   To research and better understand the Chilltime services and how they’re used;
--   To promote products and services and measure the effectiveness of those campaigns;
--   To personalize your World War Online experience, including by presenting content or features
-    better tailored to your interests;
--   To improve and provide updates for World War Online (like patching our game and releasing new
-    features);
--   To operate and expand our business;
--   To facilitate the use of or integration with the Chilltime services, social sharing, and related
-    functionality (such as supporting chat features and forums).
-
-We may also use, disclose, and preserve information to:
-
--   Comply with applicable law or respond to legal process (like requests from law enforcement or
-    other public or government authorities);
--   Securely operate the Chilltime services (like stopping attacks on our systems);
--   Protect users and third parties (such as to help prevent serious injury or crime);
--   Protect our own rights, property, and operations (like enforcing our contracts and terms --
-    including the Terms of Use -- and pursuing available remedies or limit the damages that we may
-    sustain).
+We use the information we collect (both individually and in combination with other information collected under this policy) to help us operate our business, provide and improve our products and services, communicate with you, and advertise effectively. The particular ways we use your information often depend on how you choose to use World War Online. Some of the most common examples of how we use information include: To respond to inquiries, fulfil requests, and process transactions (like helping you create an account, and resolve Feedback issues); To deliver and tailor our communications with you, like by sending you important account-related announcements or promotional communications that we believe may interest you; To administer surveys, contests, and similar offerings (such as confirming your eligibility or sending you a prize if you win); To monitor, analyze, protect, test, and improve our services and operations (like measuring how World War Online performs, tracking usage patterns, and fixing bugs or errors); To research and better understand World War Online and how it's used; To promote products and services and measure the effectiveness of those campaigns; To personalize your World War Online experience, including by presenting content or features better tailored to your interests (see Analytics & Interest-Based Ads); To improve and provide updates for World War Online (like patching our game and releasing new features); To operate and expand our business; To facilitate use of or integration with World War Online, social sharing, and related functionality (such as supporting chat features and forums). We may also use, disclose, and preserve information to: Comply with applicable law or respond to legal process (like requests from law enforcement or other public or government authorities); Securely operate World War Online (like stopping attacks on our systems); Protect users and third parties (such as to help prevent serious injury or crime); Protect our own rights, property, and operations (like enforcing our contracts and terms -- including the Terms of Use -- and pursuing available remedies or limiting the damages we may sustain).
 
 ### 3.3. Sharing Information
 
-We do not share any kind of information about you, including but not limited to name, email address,
-password, payment details, messages sent to us or others using our services, and all other data you
-share with us or that we automatically collect.
+You may decide to provide us with another person's email address so that person may be invited to join World War Online or so that we may facilitate your communication with other people through the Service (such as when you upload an address book). You may also provide us with another person's contact information for purposes of delivering information through SNS Apps. We use this information to contact and, if necessary, remind that person that he or she has been invited to join World War Online or received content through an SNS App. All invitees are provided with the option not to receive further invitations from Chilltime. We may disclose such information if required to do so in order to comply with legal process, as described above. We reserve the right to transfer your personal information in the event of a transfer of ownership of Chilltime or the acquisition of substantially all the assets of Chilltime related to the business which collected such information, such as acquisition by or merger with another company. In such an event, Chilltime will notify users who have provided email addresses when information about those users is transferred and becomes subject to a different privacy policy. Chilltime may disclose information about you to its partners in order to provide the Service, resolve service problems and correct errors in the Service, to communicate with you about the Service, to provide you with advertising and promotional information in connection with the Service, and to enhance your experience on the Service. However, we do not give our partners an independent right to share this information. Due to our contractual obligations with these third parties and the need to share information to deliver and support the Service, we cannot provide you with the opportunity to opt-out of sharing information (whether Personally Identifiable Information or other information) with these third parties. Chilltime, certain of its partners, and each of their contractors and employees may view the Content that you transmit to the service to provide the Service and otherwise perform the tasks set forth in this Privacy Policy.
 
-Chilltime may disclose information about you to our partners in order to provide the Service,
-resolve service problems and correct errors in the Service, to communicate with you about the
-Service, to provide you with advertising and promotional information in connection with the Service,
-and to enhance your experience on the Service. However, we do not give our partners an independent
-right to share this information.
+### 3.4. Public Chat or Forums
 
-Due to our contractual obligations with these third parties and the need to share information to
-deliver and support the Service, we cannot provide you with the opportunity to opt-out of sharing
-information (whether Personally Identifiable Information or other information) with these third
-parties. Chilltime, certain of its partners, and each of their contractors and employees may view
-the Content that you transmit to the service to provide the Service and otherwise perform the tasks
-set forth in this Privacy Policy.
+We've empowered our users to help police compliance with our policies related to certain in-game behavior. Our product users may report each other and submit descriptions of their in-game activity and actions to help us determine if the reported behavior constituted a violation of rules and procedures that apply to user conduct, as well as any potential repercussions (such as temporary or permanent account suspensions or chat restrictions). We also record and store, and reserve the right (but have no obligation) to monitor, chat and similar details about in-game interactions for a period we determine in our sole discretion is appropriate to help us, among other things, detect and prevent toxicity, enforce our rules and policies, and foster a more positive gaming community for our users. We use both manual (like many user Support tickets) and automated (such as machine learning) tools and techniques to support these efforts. Please be kind to other users, observe our policies related to user behavior (including our Terms of Use), and always be careful what you share in chat!
 
-### 3.4. Transfers of Information
+## 4. Children's Online Privacy
 
-By using the Chilltime services and World War Online, you acknowledge and agree that your
-information may be processed outside your country of residence, including in other jurisdictions
-(namely Portugal) that may have different data protection frameworks than your region.
-
-We’ve implemented and maintain a framework consistent with applicable law and this policy for
-transfers of information outside the country of collection. For example, when we transfer personal
-data collected in the European Union to locations outside the European Economic Area, we rely on
-transfer mechanisms adopted by the European Commission to help establish adequate safeguards, like
-Standard Contractual Clauses. We may also need to transfer your information to provide the Chilltime
-services to you in accordance with our existing agreements with you, such as the Terms of Service.
-
-We also reserve the right to transfer your personal information in the event of a transfer of
-ownership of Chilltime or the acquisition of substantially all the assets of Chilltime related to
-the business which collected such information, such as acquisition by or merger with another
-company. In such an event, Chilltime will notify users who have provided email addresses when
-information about those users is transferred and becomes subject to a different privacy policy.
-
-### 3.5. Public Chat or Forums
-
-We’ve empowered our users to help police compliance with our policies related to certain in-game
-behavior. Our product users may report each other and submit descriptions of their in-game activity
-and actions to help us determine if the reported behavior constituted a violation of rules and
-procedures that apply to user conduct, as well as any potential repercussions (such as
-[temporary or permanent account suspensions](reports-bans-suspensions.md) or chat restrictions).
-
-We also record and store, and reserve the right (but have no obligation) to monitor chat and similar
-details about in-game interactions for a period we determine in our sole discretion is appropriate
-to help us, among other things, detect and prevent toxicity, enforce our rules and policies, and
-foster a more positive gaming community for our users. We use both manual (like many user Support
-tickets) and automated (such as machine learning) tools and techniques to support these efforts.
-
-Please be kind to other users, observe our policies related to user behavior (including our
-[Game Rules](rules.md) and [Terms of Use](tos.md)), and always be careful with what you share!
-
-If you choose to use means outside of World War Online to communicate with us, such as social media
-platforms, we recommend you check their respective Privacy Policies. Some examples:
-
--   **Facebook Messenger:** <https://www.messenger.com/privacy>
--   **Discord:** <https://discordapp.com/privacy>
-
-## 4. Age Limits
-
-We do not knowingly collect or solicit personal data about or direct or target interest based
-advertising to anyone under the age of 13 or knowingly allow such persons to use our Services. If
-you are under 13, please do not send any data about yourself to us, including your name, address,
-telephone number, or email address. No one under the age of 13 may provide any personal data.
-
-If we learn that we have collected personal data about a child under age 13, we will delete that
-data as quickly as possible. If you believe that we might have any data from or about a child under
-the age of 13, please contact us through
-[support@worldwaronline.com](mailto:support@worldwaronline.com).
+World War Online does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for World War Online or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on World War Online. In the event that we learn that we have collected personal information from a child under age 13 we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [https://www.worldwaronline.com/support](https://www.worldwaronline.com/support). When applicable, the national minimum age to play is taken to account. If you are under your national minimum age requirements, you are likely to require parental permission to use our products, please contact us through [https://www.worldwaronline.com/support](https://www.worldwaronline.com/support).
 
 ## 5. Security
 
-The security, integrity, and confidentiality of your information are extremely important to us.
-
-In order to help ensure a secure and safe player experience, we are continuously developing and
-implementing administrative, technical and physical security measures to protect your data from
-unauthorized access or against loss, misuse or alteration.
-
-Chilltime takes appropriate precautions to protect users' information. Your account information is
-located on a secure server behind a firewall. When you enter sensitive information (such as credit
-card number or your password), we encrypt that information using secure socket layer technology
-(SSL). (Learn more about SSL, [here](http://en.wikipedia.org/wiki/Secure_Sockets_Layer).
-
-Please be aware that, despite our best efforts, no security measures are perfect or impenetrable. We
-will retain your personal information for the length of time needed to fulfill the purposes outlined
-in this privacy policy unless a longer retention period is required or permitted by law.
-
-### 5.1. Data Retention
-
-We retain your data for as long as your account is active or as needed to provide you the Service.
-We will for example periodically de-identify unused game accounts and we regularly review and
-de-identify unnecessary data.
-
-Note that if you ask us to remove your personal data, we will retain your data as necessary for our
-legitimate business interests, such as to comply with our legal obligations, resolve disputes, and
-enforce our agreements.
+Chilltime takes appropriate precautions to protect our users' information. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as credit card number or your password), we encrypt that information using industry-standard TLS (Transport Layer Security) encryption technology. Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. We implement appropriate technical and organizational measures to protect your personal data against unauthorized or unlawful processing, accidental loss, destruction, or damage.
 
 ## 6. Your Choices
 
-You can review and change information about you or deactivate your account in your account settings,
-but we may retain certain information. You may deactivate your account by editing your account
-settings or by sending an email to [support@worldwaronline.com](mailto:support@worldwaronline.com).
+You can review and change information about you or deactivate your account in your account settings, but we may retain certain information. You may deactivate your account by visiting [https://www.worldwaronline.com/settings/account/disable](https://www.worldwaronline.com/settings/account/disable). If you're concerned with the way we're handling your info, or would like to update or delete the personal info associated with your World War Online account, please contact us at [https://www.worldwaronline.com/support](https://www.worldwaronline.com/support). Note that asking us to remove personal info or refrain from processing it may also result in account suspension or termination, in which case you'll no longer be able to access many of the Chilltime services. We may also retain certain info associated with your account for purposes like complying with our legal obligations, managing internal books and records, preventing fraud, resolving disputes, and enforcing our contracts and terms, such as this policy and the Terms of Use.
 
-If you’re concerned with the way we’re handling your info, or would like to update or delete the
-personal info associated with your Our product account, please [Contact Us](/support). Note that
-asking us to remove personal info or refrain from processing it may also result in account
-suspension or termination, in which case you’ll no longer be able to access many of the Chilltime
-services. We may also retain certain information associated with your account for purposes like
-complying with our legal obligations, managing internal books and records, preventing fraud,
-resolving disputes, and enforcing our contracts and terms, such as this policy and the Terms of Use.
+## 7. Data Rights
 
-## 7. Your Rights and Options
+We respond to all requests that we receive from individuals who wish to exercise their data protection rights in accordance with applicable data protection laws. You can contact us at [https://www.worldwaronline.com/support](https://www.worldwaronline.com/support). Rights that you may have, depending on the country in which you live, include: Accessing, correcting, updating, or requesting deletion of your information. Objecting to processing of your information, asking us to restrict processing of your information, or requesting the portability of your information. Withdrawing your consent at any time if we have collected and processed your information with your consent. Withdrawing your consent will not affect the lawfulness of any processing that we conducted prior to your withdrawal, nor will it affect processing of your information conducted in reliance on lawful processing grounds other than consent. Complaining to a data protection authority about our collection and use of your information. For more information, please contact your local data protection authority. Contact details for data protection authorities in the European Union are available here: [http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).
 
-### 7.1. Opt-out of marketing emails and other direct marketing
+## 8. Data Retention
 
-You may opt-out of receiving promotional communications, such as marketing emails from us by
-following the instructions in such communications.
+We retain your personal information for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law. Specifically: Account information is retained for the duration of your account plus 3 years after account closure for legal compliance; Transaction records are kept for 7 years for accounting and tax purposes; Marketing data is retained until you withdraw consent or for 2 years of inactivity; Chat logs and gameplay data are retained for up to 12 months for moderation and safety purposes; Cookies and similar technologies follow the retention periods specified in our Cookie Policy.
 
-### 7.2. Opt-out of targeted advertising
+## 9. International Data Transfers
 
-You can opt-out of interest-based advertising on mobile applications by checking the privacy
-settings of your Android or iOS device and selecting "limit ad tracking" (Apple iOS) or "opt-out of
-interest based ads" (Android).
+Chilltime is based in Portugal, and we process and store information in the European Economic Area (EEA). If you are accessing our services from outside the EEA, please be aware that your information may be transferred to, stored, and processed in the EEA where our servers are located. We take appropriate safeguards to ensure that your personal information remains protected in accordance with this Privacy Policy and applicable data protection laws, including the use of Standard Contractual Clauses approved by the European Commission where applicable.
 
-### 7.3. Access the personal data we hold about you
+## 10. California Privacy Rights (CCPA/CPRA)
 
-If you request, we will provide you a copy of your personal data in an electronic format. We respond
-to all requests that we receive from individuals who wish to exercise their data protection rights
-in accordance with applicable data protection laws. You can make a data request by
-[submitting a ticket](https://forms.gle/BW7bmZLYrGNed8kEA).
+If you are a California resident, you have specific rights regarding your personal information: **Right to Know:** You can request information about the categories and specific pieces of personal information we have collected about you in the past 12 months. **Right to Delete:** You can request deletion of your personal information, subject to certain exceptions. **Right to Opt-Out:** We do not sell your personal information. If this changes, we will provide you with the right to opt-out. **Right to Non-Discrimination:** We will not discriminate against you for exercising any of these rights. To exercise these rights, please contact us at [https://www.worldwaronline.com/support](https://www.worldwaronline.com/support). We will verify your request using the information associated with your account.
 
-Learn more about GDPR Data Access Requests [here](gdpr.md).
+## 11. UK GDPR Compliance
 
-### 7.4. Other Rights
+For users in the United Kingdom, we comply with the UK General Data Protection Regulation (UK GDPR) and the Data Protection Act 2018. You have the same rights as outlined in Section 7 (Data Rights). The Information Commissioner's Office (ICO) is the UK supervisory authority for data protection issues. You can contact the ICO at [https://ico.org.uk](https://ico.org.uk).
 
-Other rights that you may have, depending on the country in which you live, include:
+## 12. Automated Decision-Making
 
--   Accessing, correcting, updating, or requesting deletion of your information.
--   Objecting to processing of your information, asking us to restrict processing of your
-    information, or requesting the portability of your information.
--   Withdrawing your consent at any time if we have collected and processed your information with
-    your consent. Withdrawing your consent will not affect the lawfulness of any processing that we
-    conducted prior to your withdrawal, nor will it affect processing of your information conducted
-    in reliance on lawful processing grounds other than consent.
--   Complaining to a data protection authority about our collection and use of your information. For
-    more information, please contact your local data protection authority. Contact details for data
-    protection authorities in the European Union are available
-    [here.](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.html)
+We may use automated systems and machine learning tools for the following purposes: Anti-cheat detection in our games; Content moderation and toxic behavior detection; Personalized game recommendations; Marketing campaign optimization. These automated systems do not make decisions that significantly affect your legal rights. If you have concerns about automated processing, you may contact us to request human review.
 
-We will respond to all requests within a reasonable timeframe.
+## 13. Third-Party Service Providers
 
-## 8. Updates to our Privacy Policy
+We work with the following categories of third-party service providers who may process your personal information on our behalf: Payment processors (for secure transaction processing); Cloud hosting providers (for data storage and infrastructure); Analytics services (Google Analytics, PostHog); Communication platforms (for email and customer support); Social media platforms (for authentication and sharing features). All third-party processors are bound by data processing agreements and are required to implement appropriate security measures.
 
-This policy may be updated periodically to reflect changes in our personal information practices or
-relevant laws. We will indicate at the bottom of this policy when this policy was last updated.
-Please review this policy every time you access or use World War Online to make sure that you have
-reviewed the most recent version.
-
-## 9. Contact Us
+## 14. Contact Us
 
 Under European data protection law, the controller of your information is Chilltime, Lda.
 
-If you have any questions or complaints about this Privacy Policy or how we use your information,
-please contact [support@worldwaronline.com](mailto:support@worldwaronline.com).
+**Email:** privacy@chilltime.com
+
+**Data Protection Officer:** privacy@chilltime.com
+
+**Address:** Chilltime Lda, Portugal
+
+**Support:** [https://www.worldwaronline.com/support](https://www.worldwaronline.com/support)
+
+If you have any questions or complaints about this Privacy Policy or how we use your information, please contact us using the information above. We will respond to your request within 30 days.

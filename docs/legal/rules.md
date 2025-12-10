@@ -20,7 +20,7 @@ take the following rules into consideration:
 -   Don't use your avatar and/or codename to offend or insult any other player or country;
 -   Don't use your avatar and/or codename to protest against other players, countries or the game;
 -   Don't use your avatar and/or codename to report bugs or situations in the game, use the
-    [Contact Form](https://www.worldwaronline.com/t/support_guides);
+    [Support Form](https://www.worldwaronline.com/support/create);
 -   Don't use your avatar and/or codename to provide contact information.
 -   No inappropriate profiles (usernames and avatars): avoid special characters, emoji, obscenities,
     impersonation and/or any controversial or offensive content, which includes (but it is not
@@ -48,7 +48,7 @@ permanent ban from the game.
 ## 3. Bugs and Errors
 
 Bugs and errors may not be exploited by players. If a bug is found, the player must report it
-immediately using our [Contact Form](https://www.worldwaronline.com/t/support_guides).
+immediately using our [Support Form](https://www.worldwaronline.com/support/create).
 
 ## 4. Fake Accounts
 
@@ -75,7 +75,7 @@ will not be returned.
 No player has the right to claim payment for WWO-Influence lost due to suspension. There is no
 special treatment for WWO-Influence users regarding game rules neither in the time we take to deal
 with the case nor the actions taken. Players that have been suspended can contact World War Online
-support using our [Contact Form](https://www.worldwaronline.com/t/support_guides).
+support using our [Support Form](https://www.worldwaronline.com/support/create).
 
 Bans or account reset may not be discussed in public (Chat, social media and forums). Appeals must
 be in English and must not be offensive or contain threats of any sort. We only consider e-mails
@@ -106,4 +106,4 @@ The following are not permitted:
 You can read more about this in our [Chat and Discord Rules](discord-chat.md)
 
 If you feel you are being the target of one of these behaviors, please file a feedback report using
-our [Contact Form](https://www.worldwaronline.com/t/support_guides).
+our [Support Form](https://www.worldwaronline.com/support/create).

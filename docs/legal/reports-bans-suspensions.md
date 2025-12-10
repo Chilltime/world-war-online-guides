@@ -3,7 +3,7 @@
 If you encounter offensive, negative, or disruptive experiences within World War Online then you can
 report the offending player right after the situation happens, **using the "Report Player" button**,
 in the offender's profile, or by
-[submiting a ticket](https://www.worldwaronline.com/t/support_guides). Once a report is made our
+[submitting a support ticket](https://www.worldwaronline.com/support/create). Once a report is made our
 team will look into it to determine whether a penalty will be placed.
 
 **We can not discuss other players’ actions with others, as we look into each situation individually

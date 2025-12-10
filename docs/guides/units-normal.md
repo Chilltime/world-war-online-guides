@@ -219,4 +219,4 @@ It's unlocked when you reach Military Rank 13.
 
 
 _If you find any inconsistencies or outdated information in our guides, please let us know by
-submitting your feedback [here](https://www.worldwaronline.com/t/support_guides)._.md
+submitting your feedback [here](https://www.worldwaronline.com/support/create)._

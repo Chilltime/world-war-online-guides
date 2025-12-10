@@ -116,7 +116,7 @@ Game.
 
 In case you made a purchase through World War Online Store, but didn't receive the purchased goods
 in your Store section or the received goods don't match the purchase you made, please reach out to
-us using our [Google Forms](https://www.worldwaronline.com/t/support_guides) or our email
+us using our [Support Form](https://www.worldwaronline.com/support/create) or our email
 [support@worldwaronline.com.](mailto:support@worldwaronline.com)
 
 ## 6. Availability
@@ -157,5 +157,5 @@ notice, and that the revised terms will apply to all subsequent purchases.
 
 You agree that you will review the Store Rules before you proceed with any purchase. If you have any
 questions, comments, or concerns about our Store Rules, please reach out to us using our
-[Google Forms](https://www.worldwaronline.com/t/support_guides) or our email
+[Support Form](https://www.worldwaronline.com/support/create) or our email
 [support@worldwaronline.com.](mailto:support@worldwaronline.com)

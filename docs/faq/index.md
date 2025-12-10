@@ -16,11 +16,11 @@ No, you can play the game for free.
 
 **3. How do I access World War Online?**
 
-World War Online is available as a browser-based game at [www.worldwaronline.com](https://www.worldwaronline.com/t/guides_gameredirect). We no longer have App Store or Google Play versions, but the game features a fully responsive design that works perfectly on both desktop and mobile devices.
+World War Online is available as a browser-based game at [www.worldwaronline.com](https://www.worldwaronline.com/?t=guides_gameredirect). We no longer have App Store or Google Play versions, but the game features a fully responsive design that works perfectly on both desktop and mobile devices.
 
 **To get started:**
 
--   Visit [www.worldwaronline.com](https://www.worldwaronline.com/t/guides_gameredirect) on any browser
+-   Visit [www.worldwaronline.com](https://www.worldwaronline.com/?t=guides_gameredirect) on any browser
 -   Select how you want to register (Facebook, Google Login, or email)
 -   After registering, you will receive a confirmation email. Click the link to complete your registration
 -   Choose a codename and a country to play
@@ -46,7 +46,6 @@ Learn more about:
 
 You have multiple ways to reach our team:
 
-- **[Report an Issue on GitHub](https://github.com/Chilltime/world-war-online-guides/issues/new/choose)** - Submit bug reports, documentation issues, or feature requests using our structured templates
-- **[Submit a Support Ticket](https://forms.gle/LN6CvFTAZ95gXF3W9)** - Contact customer support directly
+- **[Submit a Support Ticket](https://www.worldwaronline.com/support/create)** - Contact customer support directly
 
 After reporting an issue, our team will review all the details and situations you described.
