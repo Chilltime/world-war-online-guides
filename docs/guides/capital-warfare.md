@@ -37,6 +37,8 @@ Capital Warfare operates on a simple one-week cycle system with predictable timi
 
 This simplified 1-week cycle makes it easier to plan your squad's strategy, with Capital Warfare starting every Wednesday at noon UTC and running for one week.
 
+![Capital Warfare Schedule](../assets/images/squad_wars_schedule.webp "Capital Warfare Schedule")
+
 ### Progressive Point Multipliers
 
 Capital points now use a progressive multiplier system that increases as the season approaches its end, making the final weeks more strategic and competitive:

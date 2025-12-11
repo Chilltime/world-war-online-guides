@@ -9,6 +9,8 @@ Units sections.
 
 ## Unit Capacity System
 
+![Unit Capacity and Upkeep](../assets/images/resources_upkeep.webp "Unit Capacity")
+
 Your maximum trainable units are based on the number of bases you own. Each non-capital base (Headquarters, Military Bases, Resource Bases, and Mine Bases) provides capacity for **10,000 Normal Units**.
 
 **Key Points:**
