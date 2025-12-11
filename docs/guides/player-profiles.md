@@ -1,5 +1,7 @@
 # Player Profiles
 
+![Player Profile](../assets/images/header_profile.webp "Player Profile")
+
 Your player profile displays your achievements, statistics, and progression in World War Online. Access your profile to track your growth and showcase your accomplishments to other players.
 
 ## Profile Information
@@ -36,6 +38,8 @@ View other players' profiles by clicking on their name in:
 - District views
 
 ## Profile Customization
+
+![Profile Tools](../assets/images/profile_tools.webp "Profile Tools")
 
 While your profile displays your achievements automatically, you can influence what others see through your gameplay:
 

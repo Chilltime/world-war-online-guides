@@ -1,5 +1,7 @@
 # Season Awards
 
+![Season Awards](../assets/images/profile_awards.webp "Season Awards")
+
 Season Awards are prestigious achievements earned by players who perform exceptionally during competitive seasons in World War Online. These awards recognize excellence in Capital Warfare and squad competition.
 
 ## How to Earn Awards

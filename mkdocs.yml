@@ -106,33 +106,69 @@ nav:
   - Home: index.md
   - Guides:
     - Beginner's Guide: guides/index.md
-    - Bases: guides/bases.md
+    - Bases:
+      - Overview: guides/bases.md
+      - Headquarters: guides/bases-headquarters.md
+      - Resource Bases: guides/bases-resource.md
+      - Mines: guides/bases-mines.md
+      - Capitals: guides/bases-capitals.md
     - Units:
-      - Introduction: guides/unit-intro.md
-      - Normal Units: guides/units-normal.md
-      - Supreme Units: guides/units-supreme.md
-      - Tactical Units: guides/units-tactic.md
+      - Types of Units:
+        - Normal Units: guides/units-normal.md
+        - Supreme Units: guides/units-supreme.md
+        - Tactical Units: guides/units-tactic.md
       - Training Guide: guides/unit-train.md
       - Combat Stats: guides/unit-stats.md
-    - Resources: guides/resources.md
-    - Player Ranks: guides/player-rank.md
+      - Movement: guides/unit-movement.md
+    - Resources:
+      - Overview: guides/resources.md
+      - Money: guides/resources-money.md
+      - Food: guides/resources-food.md
+      - Iron: guides/resources-iron.md
+      - Brick: guides/resources-brick.md
+    - Players:
+      - Ranks: guides/player-rank.md
+      - Profiles: guides/player-profiles.md
+      - Season Awards: guides/player-awards.md
+      - Battle Statistics: guides/player-stats.md
     - Battles:
-      - Rules: guides/battle-rules.md
+      - Overview: guides/battle-overview.md
+      - Attacking:
+        - Introduction: guides/battle-attack-intro.md
+        - Rules: guides/battle-attack-rules.md
+      - Conquering:
+        - Introduction: guides/battle-conquer-intro.md
+        - Rules: guides/battle-conquer-rules.md
+      - Destroying:
+        - Introduction: guides/battle-destroy-intro.md
+        - Rules: guides/battle-destroy-rules.md
     - Leaderboards:
+      - Overview: guides/leaderboards.md
       - Squad: guides/leaderboard-squad.md
       - Player: guides/leaderboard-player.md
-    - Map & Movement: guides/maps-movement.md
-    - Campaign: guides/campaign.md
+      - History: guides/leaderboard-history.md
+    - Map:
+      - Overview: guides/map-overview.md
+      - Continent View: guides/map-continent.md
+      - District View: guides/map-district.md
+      - Base View: guides/map-base.md
+    - Play Modes:
+      - Competitive: guides/play-competitive.md
+      - Single Player: guides/play-singleplayer.md
     - Squads:
       - Overview: guides/squads.md
       - Capital Warfare: guides/capital-warfare.md
-      - Squad Leaderboard: guides/leaderboard-squad.md
+      - Creating a Squad: guides/squads-create.md
+      - Joining a Squad: guides/squads-join.md
     - Store:
-      - Introduction: guides/store.md
+      - Types of Packs: guides/store-packs.md
+      - Sections: guides/store-sections.md
+      - Payment Methods: guides/store-payments.md
       - Rules: legal/store-rules.md
     - Community:
-      - Ingame Chat: guides/chat.md
+      - In-game Chat: guides/chat.md
       - Discord: legal/discord-chat.md
   - Support:
+    - Contact Us: guides/support-contact.md
     - FAQ: faq/index.md
     - Cheating: legal/reports-bans-suspensions.md
