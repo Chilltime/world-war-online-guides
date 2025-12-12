@@ -2,6 +2,10 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Local Instructions
+
+**IMPORTANT**: If the file `.claude/CLAUDE.local.md` exists, read it at the start of each session for user-specific instructions (account policies, local preferences, etc.). This file is gitignored and contains settings that vary per contributor.
+
 ## Security Guidelines
 
 **IMPORTANT**: This is a public repository.
