@@ -97,15 +97,17 @@ plugins:
       branch: main
   - minify:
       minify_html: true
+  - redirects:
+      redirect_maps:
+        'guides/index.md': 'index.md'
 
 not_in_nav: |
   /legal/*.md
 
 # Page tree
 nav:
-  - Home: index.md
   - Guides:
-    - Beginner's Guide: guides/index.md
+    - Beginner's Guide: index.md
     - Bases:
       - Overview: guides/bases.md
       - Headquarters: guides/bases-headquarters.md

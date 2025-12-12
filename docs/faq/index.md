@@ -8,7 +8,7 @@ hide:
 
 **1. What is World War Online?**
 
-**World War Online** is an online strategy game where you play for your country and join players from your country to conquer capitals around the world. If you are new to our game, we recommend you explore our [Beginner's Guide](../guides/index.md).
+**World War Online** is an online strategy game where you play for your country and join players from your country to conquer capitals around the world. If you are new to our game, we recommend you explore our [Beginner's Guide](../index.md).
 
 **2. Will I need to pay for access to World War Online?**
 
