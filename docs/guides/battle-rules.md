@@ -76,9 +76,10 @@ These rules apply to **all battles**, whether attacking regular bases or capital
 - Wait for your current attack to complete before launching another attack to the same base
 
 ### Player Attack Limit (Non-Capital Bases Only)
-- ⚠️ You can attack the same player a **maximum number of times within 24 hours**
+- ⚠️ You can attack the same player a **maximum of 3 times within 12 hours** per district
+- This limit includes both **active attacks** and **completed attacks**
 - This limit applies to **non-capital bases only**
-- Capital bases do **not** have a 24-hour attack limit
+- Capital bases do **not** have this attack limit
 
 ### Conquering Bases
 To conquer a base, you must include a **General** unit in your attack:
