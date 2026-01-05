@@ -166,6 +166,7 @@ nav:
       - Types of Packs: guides/store-packs.md
       - Sections: guides/store-sections.md
       - Payment Methods: guides/store-payments.md
+      - Friend Invites: guides/store-friend-invites.md
       - Rules: legal/store-rules.md
     - Community:
       - In-game Chat: guides/chat.md
