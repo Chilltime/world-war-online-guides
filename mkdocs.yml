@@ -151,6 +151,7 @@ nav:
       - Overview: guides/leaderboards.md
       - Squad: guides/leaderboard-squad.md
       - Player: guides/leaderboard-player.md
+      - Country: guides/leaderboard-country.md
       - History: guides/leaderboard-history.md
     - Map:
       - Overview: guides/map-overview.md
