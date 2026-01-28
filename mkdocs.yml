@@ -144,6 +144,9 @@ nav:
       - Destroying:
         - Introduction: guides/battle-destroy-intro.md
         - Rules: guides/battle-destroy-rules.md
+      - Battalion Support:
+        - Introduction: guides/battle-battalion-support-intro.md
+        - Rules: guides/battle-battalion-support-rules.md
     - Leaderboards:
       - Overview: guides/leaderboards.md
       - Squad: guides/leaderboard-squad.md
