@@ -61,10 +61,22 @@ These rules apply to all battle types:
 - Attack limits apply to non-capital bases (3 per player per district per 12 hours)
 - Capital bases have no attack limit during warfare
 
+## Battalion Support
+
+Battalion members can reinforce each other's attacks and defenses:
+
+| Support Type | Requirement | Effect |
+|:-------------|:------------|:-------|
+| **Attack Support** | Within 4 districts of target | Join ally's attack at wave 10 |
+| **Defense Support** | Within 4 districts of ally's base | Reinforce defense at wave 10 |
+
+Support units are limited to 30% of the district's capacity. See [Battalion Support](battle-battalion-support-intro.md) for details.
+
 ## Related Guides
 
 - [Attacking](battle-attack-intro.md) - Resource raids
 - [Conquering](battle-conquer-intro.md) - Taking bases with Generals
 - [Destroying](battle-destroy-intro.md) - Permanent base destruction
+- [Battalion Support](battle-battalion-support-intro.md) - Reinforce battalion members
 - [Tactical Units](units-tactic.md) - Generals and Special Forces
 - [Combat Stats](unit-stats.md) - Unit effectiveness in battle
