@@ -8,6 +8,7 @@ World War Online features competitive leaderboards that rank players and squads 
 |:------------|:-------|:--------|
 | **[Squad Leaderboard](leaderboard-squad.md)** | Squad performance in Capital Warfare | WWO-Influence for top squads |
 | **[Player Leaderboard](leaderboard-player.md)** | Individual battle victories | Personal ranking |
+| **[Country Leaderboard](leaderboard-country.md)** | National performance across all squads | National pride |
 
 ## Squad Leaderboard
 
@@ -35,6 +36,19 @@ The Squad Leaderboard ranks squads based on points earned through [Capital Warfa
 
 The Player Leaderboard tracks individual performance based on battle victories. Your position reflects your combat effectiveness and activity level.
 
+## Country Leaderboard
+
+The Country Leaderboard ranks nations using an **Olympic-style medal system**. Countries earn medals when their squads perform well in Capital Warfare:
+
+| Medal | Earned From |
+|:------|:------------|
+| **Gold** | Squads in Gold League (positions 1-10) |
+| **Silver** | Squads in Silver League (positions 11-20) |
+| **Bronze** | Squads in Bronze League (positions 21-30) |
+| **Iron** | Squads in Iron League (positions 31+) |
+
+Countries are ranked by gold medals first, then silver, bronze, and iron as tiebreakers. This creates a true Olympic ranking where a country with more golds always ranks higher.
+
 ## Point Multiplier System
 
 The final weeks of each season feature increased point multipliers:
@@ -52,6 +66,7 @@ This system makes end-of-season gameplay significantly more competitive and rewa
 
 - [Squad Leaderboard](leaderboard-squad.md) - Detailed squad rankings
 - [Player Leaderboard](leaderboard-player.md) - Individual rankings
+- [Country Leaderboard](leaderboard-country.md) - National rankings
 - [Leaderboard History](leaderboard-history.md) - Past seasons and champions
 - [Capital Warfare](capital-warfare.md) - How to earn squad points
 - [Season Awards](player-awards.md) - Awards from competitive play
