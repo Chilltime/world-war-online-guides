@@ -3,7 +3,7 @@ site_name: Official Guides for World War Online
 site_url: https://guides.worldwaronline.com/
 site_description: >-
   Official guides for World War Online - A real-time PvP MMO Strategy Game.
-  Learn unit tactics, resource management, squad warfare, and competitive strategies.
+  Learn unit tactics, resource management, battalion warfare, and competitive strategies.
 site_author: World War Online
 
 # Copyright
@@ -67,7 +67,7 @@ extra:
       link: https://www.facebook.com/WorldWarOnline/
   meta:
     - name: keywords
-      content: World War Online, WWO, strategy game, MMO, PvP game, military strategy, tactical warfare, mobile strategy game, squad warfare, capital warfare, game guides, unit guides, strategy guides
+      content: World War Online, WWO, strategy game, MMO, PvP game, military strategy, tactical warfare, mobile strategy game, battalion warfare, capital warfare, game guides, unit guides, strategy guides
     - name: author
       content: World War Online
     - property: og:type
@@ -75,7 +75,7 @@ extra:
     - property: og:title
       content: Official Guides for World War Online
     - property: og:description
-      content: Official guides for World War Online - A real-time PvP MMO Strategy Game. Learn unit tactics, resource management, squad warfare, and competitive strategies.
+      content: Official guides for World War Online - A real-time PvP MMO Strategy Game. Learn unit tactics, resource management, battalion warfare, and competitive strategies.
     - property: og:image
       content: https://guides.worldwaronline.com/assets/images/header_welcome.webp
     - name: twitter:card
@@ -83,7 +83,7 @@ extra:
     - name: twitter:title
       content: Official Guides for World War Online
     - name: twitter:description
-      content: Official guides for World War Online - A real-time PvP MMO Strategy Game. Learn unit tactics, resource management, squad warfare, and competitive strategies.
+      content: Official guides for World War Online - A real-time PvP MMO Strategy Game. Learn unit tactics, resource management, battalion warfare, and competitive strategies.
     - name: twitter:image
       content: https://guides.worldwaronline.com/assets/images/header_welcome.webp
 plugins:
@@ -149,7 +149,7 @@ nav:
         - Rules: guides/battle-battalion-support-rules.md
     - Leaderboards:
       - Overview: guides/leaderboards.md
-      - Squad: guides/leaderboard-squad.md
+      - Battalion: guides/leaderboard-battalion.md
       - Player: guides/leaderboard-player.md
       - Country: guides/leaderboard-country.md
       - History: guides/leaderboard-history.md
@@ -161,11 +161,11 @@ nav:
     - Play Modes:
       - Competitive: guides/play-competitive.md
       - Single Player: guides/play-singleplayer.md
-    - Squads:
-      - Overview: guides/squads.md
+    - Battalions:
+      - Overview: guides/battalions.md
       - Capital Warfare: guides/capital-warfare.md
-      - Creating a Squad: guides/squads-create.md
-      - Joining a Squad: guides/squads-join.md
+      - Creating a Battalion: guides/battalions-create.md
+      - Joining a Battalion: guides/battalions-join.md
     - Store:
       - Types of Packs: guides/store-packs.md
       - Sections: guides/store-sections.md

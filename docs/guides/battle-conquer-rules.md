@@ -31,7 +31,7 @@ You cannot conquer if you've reached your limit:
 
 - **Cannot conquer Headquarters** - Only raid for resources
 - Must own fewer than the maximum bases of that type
-- Standard attack restrictions apply (no self-attack, no squad member attack)
+- Standard attack restrictions apply (no self-attack, no battalion member attack)
 
 ## Capital Conquest Rules
 
@@ -39,10 +39,10 @@ Conquering Capital Bases has additional requirements:
 
 | Requirement | Description |
 |:------------|:------------|
-| **Squad membership** | Must be in a squad |
-| **Active Capital Warfare** | Your squad must have an active session |
+| **Battalion membership** | Must be in a battalion |
+| **Active Capital Warfare** | Your battalion must have an active session |
 | **Valid target** | Capital must be in your assigned targets |
-| **Pre-warfare join** | Must have joined squad before warfare started |
+| **Pre-warfare join** | Must have joined battalion before warfare started |
 
 ### No Attack Limit on Capitals
 

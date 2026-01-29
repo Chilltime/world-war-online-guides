@@ -28,7 +28,7 @@ Use normal attacks when you want to:
 Use conquer attacks when you want to:
 
 - **Expand your territory** by taking enemy bases
-- **Capture Capital Bases** for squad points
+- **Capture Capital Bases** for battalion points
 - **Acquire high-level bases** that would take time to build
 - **Deny strategic positions** to enemies
 
@@ -56,7 +56,7 @@ All battles share common mechanics:
 
 These rules apply to all battle types:
 
-- You cannot attack your own bases or squad members' bases
+- You cannot attack your own bases or battalion members' bases
 - Only one active attack per specific base at a time
 - Attack limits apply to non-capital bases (3 per player per district per 12 hours)
 - Capital bases have no attack limit during warfare

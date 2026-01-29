@@ -80,7 +80,7 @@ For information about refunds and purchase disputes:
 ### Maximize Value
 
 - Compare pack values before buying
-- Consider squad benefits from bonus packs
+- Consider battalion benefits from bonus packs
 - Watch for Special Deals in the Store
 
 ### Budget Responsibly

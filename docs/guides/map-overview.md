@@ -54,7 +54,7 @@ The map contains three types of districts:
 |:-----|:------------|:-----------------|
 | **Guerrilla** | Standard land districts | Air and Land units |
 | **Coastal** | Districts near water | Navy unit production |
-| **Capital** | Country capitals | Squad warfare objectives |
+| **Capital** | Country capitals | Battalion warfare objectives |
 
 ## Key Map Features
 

@@ -70,7 +70,7 @@ At this point, you:
 
 -   **Stop using VPN connections to access the game:** you must have a consistent country in your
     logins;
--   **Refrain from using multiple accounts in game**, even if it’s “just to move a squadmate’s
+-   **Refrain from using multiple accounts in game**, even if it’s “just to move a Battalion member’s
     army”;
 -   **Do not share purchase accounts** as this is sensible information that can be considered
     fraudulent;

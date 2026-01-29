@@ -20,7 +20,7 @@ To conquer a base:
 | Resource Bases | Yes | Level is preserved |
 | Mine Bases | Yes | Level is preserved |
 | Military Bases | Yes | Level is preserved |
-| Capital Bases | Yes | Awards squad and player points |
+| Capital Bases | Yes | Awards battalion and player points |
 | Headquarters | **No** | Cannot be conquered |
 
 ## Level Preservation
@@ -58,7 +58,7 @@ Both are consumed upon successful conquest.
 
 Conquering Capital Bases is the core objective of competitive play:
 
-- Awards points for your [Squad Leaderboard](leaderboard-squad.md)
+- Awards points for your [Battalion Leaderboard](leaderboard-battalion.md)
 - Awards points for your [Player Leaderboard](leaderboard-player.md)
 - Requires active [Capital Warfare](capital-warfare.md) participation
 

@@ -27,7 +27,7 @@ To launch a destruction attack, you must meet these conditions:
 ### Standard Attack Restrictions
 
 - Cannot attack your own bases
-- Cannot attack squad members' bases
+- Cannot attack battalion members' bases
 - Attack limits apply (3 per player per district per 12 hours)
 - Only one active attack per base at a time
 
@@ -69,7 +69,7 @@ To launch a destruction attack, you must meet these conditions:
 | **Enemy forward base** | Destroy to remove staging point |
 | **High-level resource base** | Consider conquering instead for value |
 | **Strategic denial** | Destroy to prevent anyone from using location |
-| **Weakening enemy squad** | Target key infrastructure |
+| **Weakening enemy battalion** | Target key infrastructure |
 
 ### Target Prioritization
 

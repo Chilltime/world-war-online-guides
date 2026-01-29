@@ -54,7 +54,7 @@ The amount of resources you can steal depends on your surviving units:
 
 - **3 attacks per 12 hours** per player per district (non-capital bases)
 - **One active attack** per specific base at a time
-- Cannot attack your own bases or squad members
+- Cannot attack your own bases or battalion members
 
 ## Related Guides
 

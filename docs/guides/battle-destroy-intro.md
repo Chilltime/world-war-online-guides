@@ -48,7 +48,7 @@ When a base is destroyed:
 
 ### Competitive Advantage
 
-- Weaken enemy squads by destroying their infrastructure
+- Weaken enemy battalions by destroying their infrastructure
 - Reduce their ability to train and deploy units
 - Create resource shortages that affect their warfare capability
 

@@ -21,7 +21,7 @@ When you open a district, a sidebar appears with all essential information:
 - **Your Defense Setup** - Current defensive configuration
 - **Your Army** - Units you have stationed here
 - **Enemy Units** - Visible enemy positions (targetable)
-- **Other Armies** - Squad members and guerilla forces
+- **Other Armies** - Battalion members and guerilla forces
 - **Base Information** - Hover tooltips showing base types
 - **Recent Battles** - Last 5 battles in the past 2 hours
 
@@ -48,7 +48,7 @@ Guerrilla districts located next to water:
 Special districts accessible only during Capital Warfare:
 
 - Fixed number of Capital Bases
-- Requires squad membership to attack
+- Requires battalion membership to attack
 - Primary objective for competitive play
 
 ## Scouting Enemy Positions
@@ -75,7 +75,7 @@ This prevents overwhelming individual players while allowing multi-front conflic
 
 Keep the District Sidebar open to watch battles unfold in real-time. This helps you:
 
-- Track squad operations
+- Track battalion operations
 - Monitor enemy activity
 - Time your own attacks strategically
 

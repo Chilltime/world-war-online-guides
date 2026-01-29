@@ -13,10 +13,10 @@ from there.
 ## What is World War Online?
 
 World War Online is a PvP MMO Strategy Game where you control and command your armies, work with
-allies to create Squads and engage in conflicts and diplomacy with other players and squads.
+allies to create Battalions and engage in conflicts and diplomacy with other players and battalions.
 
-The main objective is for Squads of players to conquer Capitals in
-[Capital Warfare](guides/capital-warfare.md) and get points for the [Leaderboard](guides/leaderboard-squad.md),
+The main objective is for Battalions of players to conquer Capitals in
+[Capital Warfare](guides/capital-warfare.md) and get points for the [Leaderboard](guides/leaderboard-battalion.md),
 where at the end of each Season - which lasts around 3 months - **the winners receive in-game
 rewards for the next Season and the glory of carrying their country flag to the top of the podium!**
 
@@ -28,7 +28,7 @@ When you create an account and login for the first time in a Season, you will be
 
 In the Mission Center, you will find different Missions in the form of a Tech Tree - where
 completing missions will unlock Different Units, Base Upgrades, [Campaign Levels](guides/campaign.md),
-Squads and, finally, the access to Capital Warfare battles!
+Battalions and, finally, the access to Capital Warfare battles!
 
 These missions should help you grow to around Military Rank 20-25. Once you finish these (except for
 Conquer Capital), you will set yourself up on your path to victory.
@@ -94,9 +94,9 @@ The cost to accelerate unit movements is determined by each given distance.
 ## Playing the Game
 
 Once you have explored the map, understood the mechanics of World War Online, either by yourself or
-through the help of a Squad, you want to start focusing on what your end-goal is. Given that this is
+through the help of a Battalion, you want to start focusing on what your end-goal is. Given that this is
 an MMO, players are allowed to do what they want with their armies, whether they want to be Rogue
-commanders, seeking to destroy units of those who are enemies of their friends, join a squad and
+commanders, seeking to destroy units of those who are enemies of their friends, join a battalion and
 dominate in the Leaderboard, or simply play solo and Duel against other players and compete in the
 Player Leaderboard.
 

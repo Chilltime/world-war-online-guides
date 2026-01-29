@@ -28,9 +28,9 @@ Districts to produce Navy Units.
 
 ### 3. Capital
 
-Country Capitals are only accessible to players within a Squad participating in Squad Wars. They
-have a fixed amount of Bases. If you're a member of a Squad, you can attack and conquer these Bases
-to earn points in the Leaderboard through Squad Wars.
+Country Capitals are only accessible to players within a Battalion participating in Battalion Wars. They
+have a fixed amount of Bases. If you're a member of a Battalion, you can attack and conquer these Bases
+to earn points in the Leaderboard through Battalion Wars.
 
 ## Actions Available in Districts
 
@@ -52,7 +52,7 @@ It also shows:
 -   Your current Defense Setup;
 -   Your Army in the District;
 -   **Enemy Units**: Enemy units positioned in districts are now visible and targetable, allowing you to scout and plan your attacks strategically;
--   Armies in the district belonging to other Squads or Guerilla Armies (Not belonging to a Squad);
+-   Armies in the district belonging to other Battalions or Guerilla Armies (Not belonging to a Battalion);
 -   **Base Information**: Hover over bases to see tooltips showing the base type and subtype (Headquarters, Resource bases like oil fields, Military installations, etc.);
 -   The 5 latest battles in the last 2 Hours.
 

@@ -13,7 +13,7 @@ Your profile includes:
 | **Player Name** | Your in-game username |
 | **Country** | Your home nation in the game |
 | **Military Rank** | Your current rank and level |
-| **Squad** | Your squad membership (if any) |
+| **Battalion** | Your battalion membership (if any) |
 | **Season Awards** | Awards earned in previous seasons |
 | **Battle Statistics** | Your combat performance metrics |
 
@@ -34,7 +34,7 @@ View other players' profiles by clicking on their name in:
 
 - Battle reports
 - Leaderboards
-- Squad member lists
+- Battalion member lists
 - District views
 
 ## Profile Customization
@@ -46,11 +46,11 @@ While your profile displays your achievements automatically, you can influence w
 - **Climb the ranks** to display higher military titles
 - **Win battles** to improve your statistics
 - **Compete in seasons** to earn prestigious awards
-- **Join top squads** to show squad affiliations
+- **Join top battalions** to show battalion affiliations
 
 ## Related Guides
 
 - [Military Ranks](player-rank.md) - Rank progression system
 - [Season Awards](player-awards.md) - Awards from competitive seasons
 - [Battle Statistics](player-stats.md) - Your combat performance
-- [Squads Overview](squads.md) - Joining competitive squads
+- [Battalions Overview](battalions.md) - Joining competitive battalions

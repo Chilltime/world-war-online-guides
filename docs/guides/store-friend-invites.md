@@ -19,7 +19,7 @@ Your invited friends are automatically assigned to tiers based on their activity
 |:-----|:-------------|:----------------:|
 | **Tier 1** | Active in last 24 hours | 1 WWO |
 | **Tier 2** | Tier 1 + Rank 20 or higher | 2 WWO |
-| **Tier 3** | Tier 2 + In a Squad | 3 WWO |
+| **Tier 3** | Tier 2 + In a Battalion | 3 WWO |
 | **Tier 4** | Tier 2 + Rank 30 or higher | 4 WWO |
 | **Tier 5** | Tier 2 + Rank 40 or higher | 5 WWO |
 
@@ -30,7 +30,7 @@ Your invited friends are automatically assigned to tiers based on their activity
 - If a friend becomes inactive for 24+ hours, they drop to Tier 0 (no daily WWO until they return)
 - When they return and play again, they automatically restore to their appropriate tier
 
-**Example**: A Rank 35 player in a squad who was active today qualifies for Tier 4 (4 WWO/day) because they meet: active (Tier 1) + Rank 20+ (Tier 2) + Rank 30+ (Tier 4). Being in a squad doesn't increase their tier further since Tier 4 is higher than Tier 3.
+**Example**: A Rank 35 player in a battalion who was active today qualifies for Tier 4 (4 WWO/day) because they meet: active (Tier 1) + Rank 20+ (Tier 2) + Rank 30+ (Tier 4). Being in a battalion doesn't increase their tier further since Tier 4 is higher than Tier 3.
 
 ## Managing Your Friend Slots
 
@@ -158,7 +158,7 @@ No. Both you and your invited friend must be from the same country for the invit
 
 ### What if my friend stops playing?
 
-If your friend becomes inactive for 24+ hours, they drop to Tier 0 and stop generating daily rewards. When they return and become active again, they automatically restore to their appropriate tier based on their rank and squad status.
+If your friend becomes inactive for 24+ hours, they drop to Tier 0 and stop generating daily rewards. When they return and become active again, they automatically restore to their appropriate tier based on their rank and battalion status.
 
 ### Can I remove a friend and add them back later?
 

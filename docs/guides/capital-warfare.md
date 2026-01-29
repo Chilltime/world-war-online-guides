@@ -3,7 +3,7 @@
 ![Learn more about Capital Warfare](../assets/images/header_capital.webp "Capital Warfare")
 
 Capital Warfare is at the heart of World War Online strategic gameplay. During each Capital
-Warfare 5 Squads are put into battle for 3 Country capitals, engaging in epic battles and strategic
+Warfare 5 Battalions are put into battle for 3 Country capitals, engaging in epic battles and strategic
 alliances. Each Capital Base rewards a certain number of points, with progressive multipliers applied
 based on how close the season is to ending, making the final weeks more strategic and competitive.
 
@@ -11,15 +11,15 @@ based on how close the season is to ending, making the final weeks more strategi
 
 ![Capital Warfare Matchmaking](../assets/images/capital_warfare_panels.webp "Matchmaking")
 
-The [Squad Leaderboard](leaderboard-squad.md) is composed of Squads that are currently competing by
+The [Battalion Leaderboard](leaderboard-battalion.md) is composed of Battalions that are currently competing by
 participating in Capital Warfare, and conquering Capital Bases to gain points.
 
-Each Squad starts out as Unranked and once they get their first points, they immediately placed in
+Each Battalion starts out as Unranked and once they get their first points, they immediately placed in
 the Leaderboard.
 
-At the end of every capital warfare, the top 2 Squads are promoted to the League above, and at the
-same time, the bottom 2 Squads are demoted to the League below. The promoted and demoted squads will
-be at the bottom/top of their new League respectively. At the end of the Season, the top 5 Squads
+At the end of every capital warfare, the top 2 Battalions are promoted to the League above, and at the
+same time, the bottom 2 Battalions are demoted to the League below. The promoted and demoted battalions will
+be at the bottom/top of their new League respectively. At the end of the Season, the top 5 Battalions
 host their respective country's flags in the podium.
 
 ## Capital Warfare Cycles
@@ -35,9 +35,9 @@ Capital Warfare operates on a simple one-week cycle system with predictable timi
   - Cleanup phase: 00:00-02:00 UTC (warfare ends, units return, promotions/demotions processed)
   - Preparation phase: 02:00-12:00 UTC (new cycles created, matchmaking occurs)
 
-This simplified 1-week cycle makes it easier to plan your squad's strategy, with Capital Warfare starting every Wednesday at noon UTC and running for one week.
+This simplified 1-week cycle makes it easier to plan your battalion's strategy, with Capital Warfare starting every Wednesday at noon UTC and running for one week.
 
-![Capital Warfare Schedule](../assets/images/squad_wars_schedule.webp "Capital Warfare Schedule")
+![Capital Warfare Schedule](../assets/images/capital_warfare_schedule.webp "Capital Warfare Schedule")
 
 ### Progressive Point Multipliers
 
@@ -50,9 +50,9 @@ Capital points now use a progressive multiplier system that increases as the sea
 
 The active multiplier is displayed in the Capital Warfare interface with a colored chip indicator, helping you track when strategic pushes for capitals will have the most impact on the leaderboard.
 
-## Squad Matchmaking
+## Battalion Matchmaking
 
-The matchmaking system in World War Online matches you against 5 random Squads in your League.
+The matchmaking system in World War Online matches you against 5 random Battalions in your League.
 Matchmaking will occur before each new Capital Warfare cycle.
 
 ## Conquering a Capital Base
@@ -74,7 +74,7 @@ The General counts as an extra unit and does not count toward your 6-unit group 
 
 ## Related Guides
 
-- [Squads](squads.md) - Join or create a squad to participate in Capital Warfare
+- [Battalions](battalions.md) - Join or create a battalion to participate in Capital Warfare
 - [Battle Rules](battle-rules.md#capital-specific-rules) - Capital-specific battle requirements
 - [Tactical Units](units-tactic.md) - Using Generals to conquer capitals
-- [Squad Leaderboard](leaderboard-squad.md) - League system and rewards
+- [Battalion Leaderboard](leaderboard-battalion.md) - League system and rewards

@@ -75,7 +75,7 @@ Battle Arena introduces a new combat experience:
 
 | Aspect | Single Player | Competitive |
 |:-------|:--------------|:------------|
-| **Requires Squad** | No | Yes |
+| **Requires Battalion** | No | Yes |
 | **Time Pressure** | None | Season-based |
 | **Rewards** | Fixed per level/ELO | Position-based |
 | **Skill Development** | Practice-focused | Competition-focused |
@@ -98,7 +98,7 @@ Battle Arena introduces a new combat experience:
 
 ## Related Guides
 
-- [Competitive Play](play-competitive.md) - Squad-based warfare
+- [Competitive Play](play-competitive.md) - Battalion-based warfare
 - [Combat Stats](unit-stats.md) - Unit effectiveness
 - [Normal Units](units-normal.md) - Building your army
 - [Unit Training](unit-train.md) - Training mechanics

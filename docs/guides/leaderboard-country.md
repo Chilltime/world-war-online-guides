@@ -1,21 +1,21 @@
 # Country Leaderboard
 
-The Country Leaderboard showcases national pride by ranking countries based on how their squads perform in [Capital Warfare](capital-warfare.md). Unlike other leaderboards, the Country Leaderboard uses an **Olympic-style medal ranking system**.
+The Country Leaderboard showcases national pride by ranking countries based on how their battalions perform in [Capital Warfare](capital-warfare.md). Unlike other leaderboards, the Country Leaderboard uses an **Olympic-style medal ranking system**.
 
 ## How It Works
 
-When squads compete in Capital Warfare and earn points, those points contribute to their country's standing based on the squad's league:
+When battalions compete in Capital Warfare and earn points, those points contribute to their country's standing based on the battalion's league:
 
-1. **Squads earn points** through Capital Warfare performance
-2. **Points flow to countries** based on each squad's league tier
-3. **Countries accumulate medals** (Gold, Silver, Bronze, Iron) from their squads
+1. **Battalions earn points** through Capital Warfare performance
+2. **Points flow to countries** based on each battalion's league tier
+3. **Countries accumulate medals** (Gold, Silver, Bronze, Iron) from their battalions
 4. **Olympic-style ranking** determines country positions
 
 ## Medal Tiers
 
-Your squad's league determines which medal type your country receives:
+Your battalion's league determines which medal type your country receives:
 
-| Squad League | Medal Earned | Positions |
+| Battalion League | Medal Earned | Positions |
 |:-------------|:-------------|:---------:|
 | **Gold League** | Gold Medal | 1-10 |
 | **Silver League** | Silver Medal | 11-20 |
@@ -43,7 +43,7 @@ In this example, Portugal ranks first because it has 5 gold medals, beating Braz
 
 ## Point Multipliers
 
-The Country Leaderboard benefits from the same **point multiplier system** as other leaderboards. During the final weeks of each season, squad contributions to their country are amplified:
+The Country Leaderboard benefits from the same **point multiplier system** as other leaderboards. During the final weeks of each season, battalion contributions to their country are amplified:
 
 | Timing | Multiplier |
 |:-------|:----------:|
@@ -58,18 +58,18 @@ This makes end-of-season competition even more critical for national rankings.
 
 To help your country climb the leaderboard:
 
-- **Join a competitive squad** - Your squad's success directly impacts your country
+- **Join a competitive battalion** - Your battalion's success directly impacts your country
 - **Participate in Capital Warfare** - Points earned in warfare count toward national totals
 - **Push for league promotions** - Higher leagues mean more valuable medals for your country
-- **Coordinate with compatriots** - Multiple strong squads from one country compound national success
+- **Coordinate with compatriots** - Multiple strong battalions from one country compound national success
 
 ## Rewards
 
-The Country Leaderboard is a showcase of **national pride and prestige**. Unlike Squad and Player leaderboards, there are no WWO-Influence rewards for country rankings. The reward is the honor of representing your nation at the top.
+The Country Leaderboard is a showcase of **national pride and prestige**. Unlike Battalion and Player leaderboards, there are no WWO-Influence rewards for country rankings. The reward is the honor of representing your nation at the top.
 
 ## Related Guides
 
 - [Leaderboards Overview](leaderboards.md) - All leaderboard types
-- [Squad Leaderboard](leaderboard-squad.md) - How squads earn points
+- [Battalion Leaderboard](leaderboard-battalion.md) - How battalions earn points
 - [Capital Warfare](capital-warfare.md) - The source of leaderboard points
 - [Player Leaderboard](leaderboard-player.md) - Individual rankings
