@@ -132,17 +132,17 @@ Building Military Bases requires [WWO-Influence](resources.md) at a fixed cost:
 
 ## Capital Bases
 
-Capital Bases are special bases that are automatically generated inside world capitals during [Capital Warfare](capital-warfare.md) events. These bases are fundamental to winning the game, as conquering and holding them earns points for both the [Squad Leaderboard](leaderboard-squad.md) and [Player Leaderboard](leaderboard-player.md).
+Capital Bases are special bases that are automatically generated inside world capitals during [Capital Warfare](capital-warfare.md) events. These bases are fundamental to winning the game, as conquering and holding them earns points for both the [Battalion Leaderboard](leaderboard-battalion.md) and [Player Leaderboard](leaderboard-player.md).
 
 **Key Features:**
 - **Automatically created** when a Capital Warfare event starts
 - **Cannot be constructed** by players - only conquered
 - **Cannot be upgraded** or modified
 - **Cannot be destroyed** - only conquered and defended
-- **Earn competitive points** for your squad and personal ranking when held
-- **Strategic importance**: Controlling capital bases is how squads win seasons and earn rewards
+- **Earn competitive points** for your battalion and personal ranking when held
+- **Strategic importance**: Controlling capital bases is how battalions win seasons and earn rewards
 
-Capital Bases represent the ultimate strategic objectives in World War Online. Coordinating with your squad to conquer and defend these bases during Capital Warfare events is essential for achieving victory and climbing the leaderboards.
+Capital Bases represent the ultimate strategic objectives in World War Online. Coordinating with your battalion to conquer and defend these bases during Capital Warfare events is essential for achieving victory and climbing the leaderboards.
 
 ## Automatic Base Defense
 
@@ -205,5 +205,5 @@ Maximize your defensive advantage with these tactical approaches:
 - [Battle Rules](battle-rules.md) - Conquest and destruction rules
 - [Tactical Units](units-tactic.md) - Conquering and destroying bases
 - [Capital Warfare](capital-warfare.md) - Competing in Capital Warfare events
-- [Squad Leaderboard](leaderboard-squad.md) - Earning squad points through capital control
+- [Battalion Leaderboard](leaderboard-battalion.md) - Earning battalion points through capital control
 - [Player Leaderboard](leaderboard-player.md) - Individual ranking through capital conquest

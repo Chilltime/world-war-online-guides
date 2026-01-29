@@ -15,13 +15,13 @@ Supply Crates provide free rewards based on your gameplay activity. Collect them
 | **Experience Crate** | Experience earned | Every 8 hours |
 | **Damage Crate** | Damage dealt in attacks | Every 12 hours |
 | **Supreme Crate** | Supreme units killed in battles | Every 24 hours |
-| **Capital Crate** | Capital points earned for squad | Every 24 hours |
+| **Capital Crate** | Capital points earned for battalion | Every 24 hours |
 
 ### Maximizing Crate Rewards
 
 - **Play actively** to generate higher crate values
 - **Collect on time** - Don't let crates sit uncollected
-- **Participate in warfare** - Capital Crates reward squad activity
+- **Participate in warfare** - Capital Crates reward battalion activity
 - **Use Supreme Units in battle** - Supreme Crates reward combat against elite units
 
 ## Daily WWO-Influence

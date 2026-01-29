@@ -1,41 +1,41 @@
-# Creating a Squad
+# Creating a Battalion
 
-![How to create a squad](../assets/images/squad_create.webp "How to create a squad")
+![How to create a battalion](../assets/images/battalion_create.webp "How to create a battalion")
 
-Creating your own squad allows you to lead a team in competitive Capital Warfare and build your own community within World War Online.
+Creating your own battalion allows you to lead a team in competitive Capital Warfare and build your own community within World War Online.
 
 ## Requirements
 
-To create a squad, you must:
+To create a battalion, you must:
 
 | Requirement | Details |
 |:------------|:--------|
 | **Military Rank** | Rank 25 or higher |
-| **No Current Squad** | Must not be a member of another squad |
+| **No Current Battalion** | Must not be a member of another battalion |
 
 Check your current rank in your profile. If you're below rank 25, continue playing to earn experience and level up.
 
-## How to Create a Squad
+## How to Create a Battalion
 
-Follow these steps to create your squad:
+Follow these steps to create your battalion:
 
 1. **Click on your Country** under your Profile
-2. **Click "Create a Squad"**
-3. **Select a Squad Name** - Choose carefully (first rename is free, subsequent changes cost 25 WWO)
-4. **Confirm creation** - Your squad is now active
+2. **Click "Create a Battalion"**
+3. **Select a Battalion Name** - Choose carefully (first rename is free, subsequent changes cost 25 WWO)
+4. **Confirm creation** - Your battalion is now active
 
-Once created, you become the **Squad Leader** with full administrative control.
+Once created, you become the **Battalion Leader** with full administrative control.
 
 ## Initial Setup
 
-After creating your squad, configure these settings:
+After creating your battalion, configure these settings:
 
-### Squad Profile
+### Battalion Profile
 
 | Setting | Description | Cost |
 |:--------|:------------|:-----|
-| **Squad Name** | Your team's identity | First change free, then 25 WWO |
-| **Squad Photo** | Avatar image | First change free, then 10 WWO |
+| **Battalion Name** | Your team's identity | First change free, then 25 WWO |
+| **Battalion Photo** | Avatar image | First change free, then 10 WWO |
 | **Background Image** | Profile backdrop | Free to upload |
 
 ### Recruitment Settings
@@ -47,13 +47,13 @@ After creating your squad, configure these settings:
 
 ### Recruiting Members
 
-As a new squad leader:
+As a new battalion leader:
 
 1. **Advertise in Global Chat** - Announce you're recruiting
 2. **Send invitations** - Invite players you've battled alongside
 3. **Review applications** - Accept players who request to join
 
-### Squad Capacity
+### Battalion Capacity
 
 - **Maximum 8 members** including yourself
 - Up to **7 foreign country members** allowed
@@ -65,23 +65,23 @@ Promote trusted members to Captain to help with:
 
 - Accepting new members
 - Initiating Capital Warfare searches
-- Managing squad operations
+- Managing battalion operations
 
 ## Leader Responsibilities
 
-As Squad Leader, you have exclusive abilities:
+As Battalion Leader, you have exclusive abilities:
 
 | Action | Description |
 |:-------|:------------|
 | **Promote Captains** | Grant administrative rights |
 | **Select new Leader** | Transfer leadership |
 | **Kick any member** | Remove members including Captains |
-| **Close Squad** | Dissolve the squad entirely |
+| **Close Battalion** | Dissolve the battalion entirely |
 | **Create Forum posts** | Announcements visible to all members |
 
 ## Tips for New Leaders
 
-### Building a Strong Squad
+### Building a Strong Battalion
 
 - **Recruit active players** - Consistency matters more than raw power
 - **Communicate clearly** - Set expectations for participation
@@ -89,13 +89,13 @@ As Squad Leader, you have exclusive abilities:
 
 ### Avoiding Common Mistakes
 
-- Don't close your squad during the final 14 days of a season
+- Don't close your battalion during the final 14 days of a season
 - Train your own army before focusing solely on recruiting
 - Promote Captains you trust completely
 
 ## Related Guides
 
-- [Squads Overview](squads.md) - Complete squad guide
-- [Joining a Squad](squads-join.md) - Alternative to creating
-- [Capital Warfare](capital-warfare.md) - Your squad's main objective
+- [Battalions Overview](battalions.md) - Complete battalion guide
+- [Joining a Battalion](battalions-join.md) - Alternative to creating
+- [Capital Warfare](capital-warfare.md) - Your battalion's main objective
 - [Military Ranks](player-rank.md) - Reaching rank 25

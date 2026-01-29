@@ -1,18 +1,18 @@
 # Leaderboards Overview
 
-World War Online features competitive leaderboards that rank players and squads based on their performance. Climbing the leaderboards earns prestige, rewards, and recognition.
+World War Online features competitive leaderboards that rank players and battalions based on their performance. Climbing the leaderboards earns prestige, rewards, and recognition.
 
 ## Types of Leaderboards
 
 | Leaderboard | Tracks | Rewards |
 |:------------|:-------|:--------|
-| **[Squad Leaderboard](leaderboard-squad.md)** | Squad performance in Capital Warfare | WWO-Influence for top squads |
+| **[Battalion Leaderboard](leaderboard-battalion.md)** | Battalion performance in Capital Warfare | WWO-Influence for top battalions |
 | **[Player Leaderboard](leaderboard-player.md)** | Individual battle victories | Personal ranking |
-| **[Country Leaderboard](leaderboard-country.md)** | National performance across all squads | National pride |
+| **[Country Leaderboard](leaderboard-country.md)** | National performance across all battalions | National pride |
 
-## Squad Leaderboard
+## Battalion Leaderboard
 
-The Squad Leaderboard ranks squads based on points earned through [Capital Warfare](capital-warfare.md). Squads compete across four leagues:
+The Battalion Leaderboard ranks battalions based on points earned through [Capital Warfare](capital-warfare.md). Battalions compete across four leagues:
 
 | League | Positions | End-of-Season Rewards |
 |:-------|:---------:|:---------------------|
@@ -21,7 +21,7 @@ The Squad Leaderboard ranks squads based on points earned through [Capital Warfa
 | **Bronze** | 21-30 | Recognition |
 | **Iron** | 31+ | Participation |
 
-### Top Squad Rewards
+### Top Battalion Rewards
 
 | Position | WWO-Influence |
 |:--------:|:-------------:|
@@ -38,14 +38,14 @@ The Player Leaderboard tracks individual performance based on battle victories. 
 
 ## Country Leaderboard
 
-The Country Leaderboard ranks nations using an **Olympic-style medal system**. Countries earn medals when their squads perform well in Capital Warfare:
+The Country Leaderboard ranks nations using an **Olympic-style medal system**. Countries earn medals when their battalions perform well in Capital Warfare:
 
 | Medal | Earned From |
 |:------|:------------|
-| **Gold** | Squads in Gold League (positions 1-10) |
-| **Silver** | Squads in Silver League (positions 11-20) |
-| **Bronze** | Squads in Bronze League (positions 21-30) |
-| **Iron** | Squads in Iron League (positions 31+) |
+| **Gold** | Battalions in Gold League (positions 1-10) |
+| **Silver** | Battalions in Silver League (positions 11-20) |
+| **Bronze** | Battalions in Bronze League (positions 21-30) |
+| **Iron** | Battalions in Iron League (positions 31+) |
 
 Countries are ranked by gold medals first, then silver, bronze, and iron as tiebreakers. This creates a true Olympic ranking where a country with more golds always ranks higher.
 
@@ -64,9 +64,9 @@ This system makes end-of-season gameplay significantly more competitive and rewa
 
 ## Related Guides
 
-- [Squad Leaderboard](leaderboard-squad.md) - Detailed squad rankings
+- [Battalion Leaderboard](leaderboard-battalion.md) - Detailed battalion rankings
 - [Player Leaderboard](leaderboard-player.md) - Individual rankings
 - [Country Leaderboard](leaderboard-country.md) - National rankings
 - [Leaderboard History](leaderboard-history.md) - Past seasons and champions
-- [Capital Warfare](capital-warfare.md) - How to earn squad points
+- [Capital Warfare](capital-warfare.md) - How to earn battalion points
 - [Season Awards](player-awards.md) - Awards from competitive play

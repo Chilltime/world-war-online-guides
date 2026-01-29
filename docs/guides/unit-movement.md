@@ -37,7 +37,7 @@ Movement takes time based on the distance traveled. However, you have the option
 ### Offensive Operations
 
 - **Pre-position units** near targets before launching attacks
-- **Coordinate with squad members** to converge on objectives simultaneously
+- **Coordinate with battalion members** to converge on objectives simultaneously
 - **Use multiple continents** to flank enemies from unexpected directions
 
 ### Defensive Operations
@@ -57,4 +57,4 @@ Movement takes time based on the distance traveled. However, you have the option
 - [Map Overview](map-overview.md) - Understanding the map system
 - [Resources](resources.md) - WWO-Influence for acceleration
 - [Battle Rules](battle-overview.md) - Planning attacks and defenses
-- [Squads Overview](squads.md) - Coordinating with squad members
+- [Battalions Overview](battalions.md) - Coordinating with battalion members

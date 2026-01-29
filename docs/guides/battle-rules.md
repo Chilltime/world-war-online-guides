@@ -26,7 +26,7 @@ Conquer attacks allow you to take ownership of enemy bases using the **General**
 - **General is consumed**: After successfully conquering a base, the General unit is removed from your army - plan your conquests strategically
 - **Level preserved**: When you conquer a base, its level is maintained - conquering a Level 10 resource base gives you Level 10 production immediately
 - **Resource Bases**: Become part of your territory and their production counts toward your economy
-- **Capital Bases**: Award points for your [Squad Leaderboard](leaderboard-squad.md) and [Country Leaderboard](leaderboard-player.md) - a central objective in World War Online
+- **Capital Bases**: Award points for your [Battalion Leaderboard](leaderboard-battalion.md) and [Country Leaderboard](leaderboard-country.md) - a central objective in World War Online
 
 **Restrictions:**
 - ❌ You **cannot conquer Headquarters** - only resource bases, military bases, mines, and capitals
@@ -59,9 +59,9 @@ For detailed information about Special Forces, see [Tactical Units - Special For
 
 These rules apply to **all battles**, whether attacking regular bases or capitals:
 
-### Cannot Attack Yourself or Squad Members
+### Cannot Attack Yourself or Battalion Members
 - ❌ You cannot attack your own bases
-- ❌ You cannot attack bases owned by members of your squad
+- ❌ You cannot attack bases owned by members of your battalion
 
 ### Battle Availability
 - ✅ Battles must be enabled for the current season
@@ -105,26 +105,26 @@ To destroy a base, you must include **Special Forces** units in your attack.
 
 Attacking **capital bases** has additional strict requirements beyond the common rules:
 
-### 1. Squad Membership Required
-- ✅ You **must** be a member of a squad to attack capital bases
+### 1. Battalion Membership Required
+- ✅ You **must** be a member of a battalion to attack capital bases
 - ❌ Solo players cannot participate in capital warfare
 
 ### 2. Active Capital Warfare Required
-- ✅ Your squad must have an **active Capital Warfare** session
+- ✅ Your battalion must have an **active Capital Warfare** session
 - Capital warfare sessions have specific start and end times
-- You can only attack capitals during your squad's active warfare window
+- You can only attack capitals during your battalion's active warfare window
 
 ### 3. Valid Capital Target
-- ✅ You can **only** attack capitals that are part of your squad's assigned Capital Warfare targets
-- Each Capital Warfare session assigns specific countries/capitals your squad can attack
+- ✅ You can **only** attack capitals that are part of your battalion's assigned Capital Warfare targets
+- Each Capital Warfare session assigns specific countries/capitals your battalion can attack
 - ❌ Attacking capitals outside your assigned targets is **not allowed**
 
-### 4. Squad Join Time Restriction
-- ✅ You must have joined your squad **before** the Capital Warfare started
-- ❌ Players who join a squad after a Capital Warfare begins **cannot participate** in that warfare
+### 4. Battalion Join Time Restriction
+- ✅ You must have joined your battalion **before** the Capital Warfare started
+- ❌ Players who join a battalion after a Capital Warfare begins **cannot participate** in that warfare
 - You will be eligible to participate in the **next** Capital Warfare session
 
-**Example:** If Capital Warfare starts on January 1st at 12:00 PM and you join the squad on January 1st at 1:00 PM, you cannot participate in that warfare. You must wait for the next Capital Warfare session.
+**Example:** If Capital Warfare starts on January 1st at 12:00 PM and you join the battalion on January 1st at 1:00 PM, you cannot participate in that warfare. You must wait for the next Capital Warfare session.
 
 ### 5. No 24-Hour Attack Limit
 - Unlike regular bases, capital bases do **not** have a 24-hour attack limit
@@ -134,7 +134,7 @@ Attacking **capital bases** has additional strict requirements beyond the common
 
 1. **Check Base Limits** - Before attempting to conquer, verify you haven't reached your base limits
 2. **Review Attack History** - Keep track of how many times you've attacked the same player
-3. **Plan Capital Attacks** - Join squads early and coordinate with your team for Capital Warfare
+3. **Plan Capital Attacks** - Join battalions early and coordinate with your team for Capital Warfare
 4. **Include Tactical Units** - Add Generals for conquest or Special Forces for destruction when needed
 5. **Monitor Active Attacks** - Track your ongoing attacks to avoid duplicate attacks on the same base
 
@@ -144,4 +144,4 @@ Attacking **capital bases** has additional strict requirements beyond the common
 - [Tactical Units](units-tactic.md) - Detailed information about conquest and destruction units
 - [Bases](bases.md) - Understanding base types and limits
 - [Capital Warfare](capital-warfare.md) - Complete guide to attacking capital bases
-- [Player Squads](squads.md) - Information about joining and participating in squads
+- [Battalions](battalions.md) - Information about joining and participating in battalions

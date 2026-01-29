@@ -48,7 +48,7 @@ A higher win rate indicates:
 
 - **Choose winnable battles** - Don't attack obviously superior forces
 - **Assess risk vs reward** - Consider what you gain from victory
-- **Time your attacks** - Coordinate with squad operations
+- **Time your attacks** - Coordinate with battalion operations
 
 ## Statistics and Leaderboards
 
@@ -56,7 +56,7 @@ Your battle statistics contribute to:
 
 - **Player Leaderboard** - Individual ranking based on battle wins
 - **Personal reputation** - Other players can see your combat record
-- **Squad recruitment** - Active squads look for players with good stats
+- **Battalion recruitment** - Active battalions look for players with good stats
 
 ## Related Guides
 

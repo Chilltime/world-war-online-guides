@@ -86,7 +86,7 @@ that correctly identify the account name and information.
 -   All Topics, comments and replies must, first and foremost, abide by the Game Rules as well as
     World War Online's [Terms of Service](tos.md).
 -   English is the only permitted language in the global forums. You are free to speak in your
-    native language in your Country Chat, Squad Chat or through Private Messages sent to other
+    native language in your Country Chat, Battalion Chat or through Private Messages sent to other
     players, if there is a mutual understanding.
 
 ## Player Code of Conduct

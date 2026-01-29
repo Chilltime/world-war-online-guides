@@ -19,9 +19,9 @@ Connect with other players for help:
 
 | Channel | Best For |
 |:--------|:---------|
-| **Global Chat** | Quick questions, finding squads |
+| **Global Chat** | Quick questions, finding battalions |
 | **Discord** | Detailed discussions, community help |
-| **Squad Chat** | Team coordination, squad-specific issues |
+| **Battalion Chat** | Team coordination, battalion-specific issues |
 
 ## Official Channels
 
@@ -60,7 +60,7 @@ Follow World War Online on social platforms:
 |:------|:---------|
 | **Battle bugs** | Report with screenshots/details |
 | **Missing rewards** | Check all collection points, then report |
-| **Squad issues** | Contact squad leader first, then support |
+| **Battalion issues** | Contact battalion leader first, then support |
 
 ### Purchase Issues
 

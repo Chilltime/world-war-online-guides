@@ -28,11 +28,11 @@ Plan your Store purchases strategically to make the most of your weekly allowanc
 
 ![Available Store Packs](../assets/images/store_packs.webp "Store Packs")
 
--   **Gold Pack:** Contains 10.000 WWO and 3 extra packs of 200 WWO to offer to squadmates.
--   **Silver Pack:** Contains 4.500 WWO and 3 extra packs of 160 WWO to offer to squadmates.
--   **Bronze Pack:** Contains 2.000 WWO and 3 extra packs of 80 WWO to offer to squadmates.
--   **White Pack:** Contains 900 WWO and 3 extra packs of 60 WWO to offer to squadmates.
--   **Squad Pack:** Contains 5 packs of 600 WWO - 1 for you and 4 that can be offered to squadmates.
+-   **Gold Pack:** Contains 10.000 WWO and 3 extra packs of 200 WWO to offer to Battalion members.
+-   **Silver Pack:** Contains 4.500 WWO and 3 extra packs of 160 WWO to offer to Battalion members.
+-   **Bronze Pack:** Contains 2.000 WWO and 3 extra packs of 80 WWO to offer to Battalion members.
+-   **White Pack:** Contains 900 WWO and 3 extra packs of 60 WWO to offer to Battalion members.
+-   **Battalion Pack:** Contains 5 packs of 600 WWO - 1 for you and 4 that can be offered to Battalion members.
 
 ## Supply Crates
 
@@ -42,12 +42,12 @@ Plan your Store purchases strategically to make the most of your weekly allowanc
 -   **Damage Crate:** based on Damage Dealt in Attacks sent to other players, collectible every 12
     hours.
 -   **Supreme Crate:** based on supreme units killed in battles, collectible every 24 hours.
--   **Capital Crate:** Capital points earned for Squad, collectible every 24 hours.
+-   **Capital Crate:** Capital points earned for Battalion, collectible every 24 hours.
 
 ## First Purchase Season Pack
 
 First Purchase Season Pack relates to the **first purchase** a player does on a Season. By
-purchasing one of the available Packs (Gold, Silver, Bronze, White or Squad), a player will receive
+purchasing one of the available Packs (Gold, Silver, Bronze, White or Battalion), a player will receive
 **half of its value in Supreme Units**. These Supreme Units will appear as packs in the Store
 section.
 

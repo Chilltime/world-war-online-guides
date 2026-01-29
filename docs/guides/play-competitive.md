@@ -1,30 +1,30 @@
 # Competitive Play
 
-Competitive play in World War Online centers around squad-based warfare for control of capital bases. This is the primary multiplayer experience and the path to the most prestigious rewards.
+Competitive play in World War Online centers around battalion-based warfare for control of capital bases. This is the primary multiplayer experience and the path to the most prestigious rewards.
 
 ## What is Competitive Play?
 
 Competitive play involves:
 
-- **Joining a squad** - Team up with up to 7 other players
+- **Joining a battalion** - Team up with up to 7 other players
 - **Capital Warfare** - Battle for control of world capitals
-- **Leaderboard rankings** - Compete for squad and individual positions
+- **Leaderboard rankings** - Compete for battalion and individual positions
 - **Season rewards** - Earn WWO-Influence for top performance
 
 ## Getting Started
 
-### Step 1: Join or Create a Squad
+### Step 1: Join or Create a Battalion
 
-You need to be part of a [squad](squads.md) to participate in competitive play:
+You need to be part of a [battalion](battalions.md) to participate in competitive play:
 
-- **[Join an existing squad](squads-join.md)** - Find active squads recruiting members
-- **[Create your own squad](squads-create.md)** - Requires rank 25 or higher
+- **[Join an existing battalion](battalions-join.md)** - Find active battalions recruiting members
+- **[Create your own battalion](battalions-create.md)** - Requires rank 25 or higher
 
 ### Step 2: Participate in Capital Warfare
 
-Once in a squad, your leader can initiate [Capital Warfare](capital-warfare.md):
+Once in a battalion, your leader can initiate [Capital Warfare](capital-warfare.md):
 
-- Squads are matched with 5 random opponents
+- Battalions are matched with 5 random opponents
 - Warfare lasts 6.5 days (starting Wednesdays at 12:00 UTC)
 - Conquer and hold capital bases to earn points
 
@@ -32,7 +32,7 @@ Once in a squad, your leader can initiate [Capital Warfare](capital-warfare.md):
 
 Earn points through Capital Warfare to improve your rankings:
 
-- [Squad Leaderboard](leaderboard-squad.md) - Your squad's competitive position
+- [Battalion Leaderboard](leaderboard-battalion.md) - Your battalion's competitive position
 - [Player Leaderboard](leaderboard-player.md) - Your individual ranking
 
 ## Competitive Structure
@@ -41,14 +41,14 @@ Earn points through Capital Warfare to improve your rankings:
 
 | League | Positions | Description |
 |:-------|:---------:|:------------|
-| **Gold** | 1-10 | Elite squads, highest rewards |
+| **Gold** | 1-10 | Elite battalions, highest rewards |
 | **Silver** | 11-20 | Strong competitors |
 | **Bronze** | 21-30 | Rising challengers |
 | **Iron** | 31+ | Building strength |
 
 ### Season Rewards
 
-Top squads earn WWO-Influence at season end:
+Top battalions earn WWO-Influence at season end:
 
 | Position | Reward |
 |:--------:|:------:|
@@ -67,9 +67,9 @@ The final weeks feature increased point values:
 
 ## Keys to Competitive Success
 
-### Squad Coordination
+### Battalion Coordination
 
-- Communicate strategies in squad chat
+- Communicate strategies in battalion chat
 - Coordinate attack timing
 - Share resources through support mechanics
 - Assign roles based on player strengths
@@ -88,7 +88,7 @@ The final weeks feature increased point values:
 
 ## Related Guides
 
-- [Squads Overview](squads.md) - Squad mechanics and features
+- [Battalions Overview](battalions.md) - Battalion mechanics and features
 - [Capital Warfare](capital-warfare.md) - Detailed warfare guide
-- [Squad Leaderboard](leaderboard-squad.md) - Ranking system
+- [Battalion Leaderboard](leaderboard-battalion.md) - Ranking system
 - [Single Player](play-singleplayer.md) - Non-competitive alternatives

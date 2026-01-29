@@ -13,7 +13,7 @@ Tactical Units are specialized units in World War Online designed for strategic 
 The General is a Tactical Unit used to conquer enemy Bases. Generals provide unique tactical flexibility in combat.
 
 -   **Unlocked at Military Rank**: 20
--   **Must belong to a Squad**
+-   **Must belong to a Battalion**
 -   **Enters Battle on Wave**: 11
 -   **Resource cost**: 5 WWO-Influence
 
@@ -40,7 +40,7 @@ The General is a special tactical unit that enables base conquest. When you incl
 - ✅ Resource Bases - become part of your territory with their current level preserved
 - ✅ Military Bases - expand your unit capacity
 - ✅ Mine Bases - gain resource storage
-- ✅ Capital Bases - award [Squad Leaderboard](leaderboard-squad.md) points (central to World War Online gameplay)
+- ✅ Capital Bases - award [Battalion Leaderboard](leaderboard-battalion.md) points (central to World War Online gameplay)
 - ❌ **Headquarters cannot be conquered**
 
 **Defensive Tips - Killing a General:**
@@ -112,5 +112,5 @@ Special Forces units are strong against Infantry and Armored units but weak agai
 - [Battle Rules](battle-rules.md) - Complete conquest and destruction rules
 - [Bases](bases.md) - Understanding base types, limits, and unit capacity
 - [Capital Warfare](capital-warfare.md) - Conquering capital bases
-- [Squads](squads.md) - Join a squad to participate in capital conquest
+- [Battalions](battalions.md) - Join a battalion to participate in capital conquest
 - [Player Ranks](player-rank.md) - Unlock requirements for Tactical Units

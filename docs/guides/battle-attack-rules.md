@@ -8,7 +8,7 @@ To launch a normal attack, you must meet these conditions:
 
 | Requirement | Description |
 |:------------|:------------|
-| **Valid target** | Cannot attack your own bases or squad members |
+| **Valid target** | Cannot attack your own bases or battalion members |
 | **Battles enabled** | Must be during an active battle period |
 | **Valid unit setup** | Units must form a valid battlefield composition |
 | **No active attack** | Cannot have another attack in progress to the same base |
@@ -39,12 +39,12 @@ To launch a normal attack, you must meet these conditions:
 | Resource Bases | Yes | All resource types |
 | Mine Bases | Yes | High Iron targets |
 | Military Bases | Yes | Strategic targets |
-| Capital Bases | Conditional | Requires squad membership and active warfare |
+| Capital Bases | Conditional | Requires battalion membership and active warfare |
 
 ## What You Cannot Attack
 
 - Your own bases
-- Bases owned by your squad members
+- Bases owned by your battalion members
 - Capital bases without an active Capital Warfare session
 - Capital bases outside your assigned warfare targets
 

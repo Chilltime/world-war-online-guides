@@ -59,7 +59,7 @@ Brick Resource Bases can be constructed to ensure a steady supply of this constr
 
 WWO-Influence is the premium resource in World War Online, primarily gained through in-game purchases in the [Store](store.md).
 
-Players who end a Season in Gold and Silver Leagues for [Squad Leaderboard](leaderboard-squad.md)
+Players who end a Season in Gold and Silver Leagues for [Battalion Leaderboard](leaderboard-battalion.md)
 also receive WWO-Influence that transfers to the next Season of World War Online.
 
 WWO-Influence can be used to:
@@ -130,4 +130,4 @@ Effective resource management is crucial for success in World War Online:
 - [Bases](bases.md) - Learn about building and upgrading resource-producing bases
 - [Unit Training](unit-train.md) - Understand resource costs for training units
 - [Store](store.md) - Purchase WWO-Influence and special deals
-- [Squad Leaderboard](leaderboard-squad.md) - Earn WWO-Influence rewards through squad competition
+- [Battalion Leaderboard](leaderboard-battalion.md) - Earn WWO-Influence rewards through battalion competition
