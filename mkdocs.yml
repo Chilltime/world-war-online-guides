@@ -1,6 +1,6 @@
 # Project information
 site_name: Official Guides for World War Online
-site_url: https://guides.worldwaronline.com/
+site_url: https://www.worldwaronline.com/guides/
 site_description: >-
   Official guides for World War Online - A real-time PvP MMO Strategy Game.
   Learn unit tactics, resource management, battalion warfare, and competitive strategies.
@@ -77,7 +77,7 @@ extra:
     - property: og:description
       content: Official guides for World War Online - A real-time PvP MMO Strategy Game. Learn unit tactics, resource management, battalion warfare, and competitive strategies.
     - property: og:image
-      content: https://guides.worldwaronline.com/assets/images/header_welcome.webp
+      content: https://www.worldwaronline.com/guides/assets/images/header_welcome.webp
     - name: twitter:card
       content: summary_large_image
     - name: twitter:title
@@ -85,7 +85,7 @@ extra:
     - name: twitter:description
       content: Official guides for World War Online - A real-time PvP MMO Strategy Game. Learn unit tactics, resource management, battalion warfare, and competitive strategies.
     - name: twitter:image
-      content: https://guides.worldwaronline.com/assets/images/header_welcome.webp
+      content: https://www.worldwaronline.com/guides/assets/images/header_welcome.webp
 plugins:
   - search:
     #

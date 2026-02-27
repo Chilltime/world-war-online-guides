@@ -196,7 +196,7 @@ This ensures questions and options don't get lost in technical output.
 
 - **Repository**: Chilltime/world-war-online-guides
 - **Issues URL**: https://github.com/Chilltime/world-war-online-guides/issues
-- **Site URL**: https://guides.worldwaronline.com/
+- **Site URL**: https://www.worldwaronline.com/guides/
 - **Build Command**: `python3 -m mkdocs build --site-dir _site/`
 - **Dev Server**: `python3 -m mkdocs serve`
 

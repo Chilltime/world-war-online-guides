@@ -32,7 +32,7 @@ body:
     attributes:
       label: Page URL
       description: Link to the documentation page with the issue
-      placeholder: "https://guides.worldwaronline.com/guides/units-normal/"
+      placeholder: "https://www.worldwaronline.com/guides/units-normal/"
     validations:
       required: true
       

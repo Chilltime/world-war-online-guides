@@ -182,7 +182,7 @@ Then provide a concise work summary in 3-5 bullet points:
 
 - **Repository**: Chilltime/world-war-online-guides
 - **Issues URL**: https://github.com/Chilltime/world-war-online-guides/issues
-- **Site URL**: https://guides.worldwaronline.com/
+- **Site URL**: https://www.worldwaronline.com/guides/
 
 ## Labels Reference
 
