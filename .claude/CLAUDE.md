@@ -128,7 +128,7 @@ docs/
 2. Workflow uses weekly cache (`mkdocs-material-{week_number}`) for faster builds
 3. Installs dependencies via `.devcontainer/requirements.sh`
 4. Builds site with `mkdocs build --site-dir _site/`
-5. Deploys to GitHub Pages at https://guides.worldwaronline.com/
+5. Deploys to GitHub Pages, served at https://www.worldwaronline.com/guides/
 
 Note: The workflow can also be triggered manually via `workflow_dispatch`.
 

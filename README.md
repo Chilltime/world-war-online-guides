@@ -2,7 +2,7 @@
 
 Official documentation and game guides for World War Online, built with MkDocs and deployed via GitHub Pages.
 
-**Live Site:** https://guides.worldwaronline.com/
+**Live Site:** https://www.worldwaronline.com/guides/
 
 ## About
 
