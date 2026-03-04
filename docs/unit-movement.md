@@ -1,6 +1,6 @@
 # Unit Movement
 
-![Moving in the map](../assets/images/map_movement.webp "Map Movements")
+![Moving in the map](assets/images/map_movement.webp "Map Movements")
 
 To get around in the world, players need to understand movement. Moving your units strategically across the map is essential for both offensive operations and defensive positioning.
 

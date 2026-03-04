@@ -1,6 +1,6 @@
 # Player Leaderboard
 
-![Single Player Leaderboard](../assets/images/header_player_leaderboard.webp "Player Leaderboard")
+![Single Player Leaderboard](assets/images/header_player_leaderboard.webp "Player Leaderboard")
 
 The Player Leaderboard is an individual competition that's completely separate from the main
 Leaderboard. In the Player Leaderboard, players get points for winning Battles against other

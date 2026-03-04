@@ -1,6 +1,6 @@
 # Battles Overview
 
-![Battles in World War Online](../assets/images/header_unit_types.webp "Battle Rules")
+![Battles in World War Online](assets/images/header_unit_types.webp "Battle Rules")
 
 World War Online features three distinct attack types, each serving different strategic objectives. Understanding when and how to use each type is crucial for success.
 

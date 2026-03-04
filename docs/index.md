@@ -16,18 +16,18 @@ World War Online is a PvP MMO Strategy Game where you control and command your a
 allies to create Battalions and engage in conflicts and diplomacy with other players and battalions.
 
 The main objective is for Battalions of players to conquer Capitals in
-[Capital Warfare](guides/capital-warfare.md) and get points for the [Leaderboard](guides/leaderboard-battalion.md),
+[Capital Warfare](capital-warfare.md) and get points for the [Leaderboard](leaderboard-battalion.md),
 where at the end of each Season - which lasts around 3 months - **the winners receive in-game
 rewards for the next Season and the glory of carrying their country flag to the top of the podium!**
 
 ## Starting
 
-When you create an account and login for the first time in a Season, you will be presented with a short Tutorial Video. This Tutorial serves to show you some of the basic mechanics of the game, and the User Interface (UI). Once it finishes you will be dropped into the [World Map](guides/maps-movement.md) and told that your Mission Center is on the top left corner.
+When you create an account and login for the first time in a Season, you will be presented with a short Tutorial Video. This Tutorial serves to show you some of the basic mechanics of the game, and the User Interface (UI). Once it finishes you will be dropped into the [World Map](maps-movement.md) and told that your Mission Center is on the top left corner.
 
 ## Mission Center
 
 In the Mission Center, you will find different Missions in the form of a Tech Tree - where
-completing missions will unlock Different Units, Base Upgrades, [Campaign Levels](guides/campaign.md),
+completing missions will unlock Different Units, Base Upgrades, [Campaign Levels](campaign.md),
 Battalions and, finally, the access to Capital Warfare battles!
 
 These missions should help you grow to around Military Rank 20-25. Once you finish these (except for
@@ -39,19 +39,19 @@ Conquer Capital), you will set yourself up on your path to victory.
 
 ![What units exist in World War Online](assets/images/header_unit_types.webp "Unit Introduction")
 
-World War Online has 4 basic [unit types](guides/unit-intro.md): Infantry, Armored, Air and Navy. Inside
+World War Online has 4 basic [unit types](unit-intro.md): Infantry, Armored, Air and Navy. Inside
 each one, you will find 1 type of unit that has an advantage over another unit type. These are then
 split into Normal and Supreme Units, where Supreme Units are empowered versions of Normal Units.
 Given their strength, fewer of them are allowed on the battlefield (max. 25), where a player must
 make a choice on whether they wish to use a Supreme Unit or a Normal unit, given that the budget is
-fair and shared. You can know more about it in [Unit Stats](guides/unit-stats.md) section.
+fair and shared. You can know more about it in [Unit Stats](unit-stats.md) section.
 
 ### Headquarters
 
 ![What is the HQ base?](assets/images/beginner_headquarters.webp "Your Headquarters Base")
 
-The only base you start with is the [Headquarters Base](guides/bases.md), where you can produce
-[Iron](guides/resources.md) and train Units.
+The only base you start with is the [Headquarters Base](bases.md), where you can produce
+[Iron](resources.md) and train Units.
 
 Upgrading your Headquarters Base will allow you to have a greater number of units (increases Upkeep)
 and will increase your resource production. Since your Headquarters can never be destroyed, you
@@ -61,7 +61,7 @@ resources!
 
 ### Resources
 
-You have 2 different types of [Resources](guides/resources.md), these being **Iron** and **WWO-Influence**.
+You have 2 different types of [Resources](resources.md), these being **Iron** and **WWO-Influence**.
 
 WWO-Influence is the in-game currency of World War Online, and can be used to:
 

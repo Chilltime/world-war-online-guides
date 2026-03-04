@@ -1,6 +1,6 @@
 # Single Player
 
-![Campaign Mode](../assets/images/header_campaign.webp "Campaign Mode")
+![Campaign Mode](assets/images/header_campaign.webp "Campaign Mode")
 
 World War Online offers single player content for players who want to test their skills, earn rewards, and progress without competitive pressure.
 

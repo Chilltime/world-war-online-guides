@@ -65,7 +65,7 @@ Remember the weekly purchase limits:
 
 For information about refunds and purchase disputes:
 
-- Review the [Store Rules](../legal/store-rules.md)
+- Review the [Store Rules](legal/store-rules.md)
 - Contact support for specific issues
 - Understand the terms before purchasing
 
@@ -94,4 +94,4 @@ For information about refunds and purchase disputes:
 - [Store Overview](store.md) - Complete store guide
 - [Store Packs](store-packs.md) - Available purchase options
 - [Store Sections](store-sections.md) - Free rewards and deals
-- [Store Rules](../legal/store-rules.md) - Terms and conditions
+- [Store Rules](legal/store-rules.md) - Terms and conditions

@@ -1,6 +1,6 @@
 # Battalion Leaderboard
 
-![Battalion Leaderboard](../assets/images/header_capital_warfare.webp "Battalion Leaderboard")
+![Battalion Leaderboard](assets/images/header_capital_warfare.webp "Battalion Leaderboard")
 
 The Battalion Leaderboard is composed of the Battalions that are currently competing by participating in
 Capital Warfare against other Battalions and conquering Capital Bases to get points. Each Battalion starts out as

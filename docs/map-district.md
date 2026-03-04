@@ -1,6 +1,6 @@
 # District View
 
-![Map Districts](../assets/images/map_district.webp "Map Districts")
+![Map Districts](assets/images/map_district.webp "Map Districts")
 
 The District View is your tactical command center, showing detailed information about bases, armies, and recent battles within a specific district.
 

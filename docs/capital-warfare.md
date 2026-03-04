@@ -1,6 +1,6 @@
 # Capital Warfare
 
-![Learn more about Capital Warfare](../assets/images/header_capital.webp "Capital Warfare")
+![Learn more about Capital Warfare](assets/images/header_capital.webp "Capital Warfare")
 
 Capital Warfare is at the heart of World War Online strategic gameplay. During each Capital
 Warfare 5 Battalions are put into battle for 3 Country capitals, engaging in epic battles and strategic
@@ -9,7 +9,7 @@ based on how close the season is to ending, making the final weeks more strategi
 
 ## How it works
 
-![Capital Warfare Matchmaking](../assets/images/capital_warfare_panels.webp "Matchmaking")
+![Capital Warfare Matchmaking](assets/images/capital_warfare_panels.webp "Matchmaking")
 
 The [Battalion Leaderboard](leaderboard-battalion.md) is composed of Battalions that are currently competing by
 participating in Capital Warfare, and conquering Capital Bases to gain points.
@@ -37,7 +37,7 @@ Capital Warfare operates on a simple one-week cycle system with predictable timi
 
 This simplified 1-week cycle makes it easier to plan your battalion's strategy, with Capital Warfare starting every Wednesday at noon UTC and running for one week.
 
-![Capital Warfare Schedule](../assets/images/capital_warfare_schedule.webp "Capital Warfare Schedule")
+![Capital Warfare Schedule](assets/images/capital_warfare_schedule.webp "Capital Warfare Schedule")
 
 ### Progressive Point Multipliers
 
@@ -57,7 +57,7 @@ Matchmaking will occur before each new Capital Warfare cycle.
 
 ## Conquering a Capital Base
 
-![Capital Bases](../assets/images/capital_bases.webp "Capital Bases")
+![Capital Bases](assets/images/capital_bases.webp "Capital Bases")
 
 In Capital Districts, when you attack and win the base you immediatly Conquer them. When you click
 on Conquer on a Capital Base, you will automatically generate a General which is a Tactical Infantry
@@ -70,7 +70,7 @@ The General counts as an extra unit and does not count toward your 6-unit group 
 -   If the General dies but you win the battle, you will not Conquer the base.
 -   The General gives you more tactical flexibility by not consuming one of your standard unit slots.
 
-![Battle Reports for Capital Warfare](../assets/images/warfare_report.webp "Capital Warfare Report")
+![Battle Reports for Capital Warfare](assets/images/warfare_report.webp "Capital Warfare Report")
 
 ## Related Guides
 

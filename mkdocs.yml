@@ -100,6 +100,59 @@ plugins:
   - redirects:
       redirect_maps:
         'guides/index.md': 'index.md'
+        'guides/bases.md': 'bases.md'
+        'guides/bases-headquarters.md': 'bases-headquarters.md'
+        'guides/bases-resource.md': 'bases-resource.md'
+        'guides/bases-mines.md': 'bases-mines.md'
+        'guides/bases-capitals.md': 'bases-capitals.md'
+        'guides/units-normal.md': 'units-normal.md'
+        'guides/units-supreme.md': 'units-supreme.md'
+        'guides/units-tactic.md': 'units-tactic.md'
+        'guides/unit-train.md': 'unit-train.md'
+        'guides/unit-stats.md': 'unit-stats.md'
+        'guides/unit-movement.md': 'unit-movement.md'
+        'guides/resources.md': 'resources.md'
+        'guides/resources-money.md': 'resources-money.md'
+        'guides/resources-food.md': 'resources-food.md'
+        'guides/resources-iron.md': 'resources-iron.md'
+        'guides/resources-brick.md': 'resources-brick.md'
+        'guides/player-rank.md': 'player-rank.md'
+        'guides/player-profiles.md': 'player-profiles.md'
+        'guides/player-awards.md': 'player-awards.md'
+        'guides/player-stats.md': 'player-stats.md'
+        'guides/battle-overview.md': 'battle-overview.md'
+        'guides/battle-attack-intro.md': 'battle-attack-intro.md'
+        'guides/battle-attack-rules.md': 'battle-attack-rules.md'
+        'guides/battle-conquer-intro.md': 'battle-conquer-intro.md'
+        'guides/battle-conquer-rules.md': 'battle-conquer-rules.md'
+        'guides/battle-destroy-intro.md': 'battle-destroy-intro.md'
+        'guides/battle-destroy-rules.md': 'battle-destroy-rules.md'
+        'guides/battle-battalion-support-intro.md': 'battle-battalion-support-intro.md'
+        'guides/battle-battalion-support-rules.md': 'battle-battalion-support-rules.md'
+        'guides/leaderboards.md': 'leaderboards.md'
+        'guides/leaderboard-battalion.md': 'leaderboard-battalion.md'
+        'guides/leaderboard-player.md': 'leaderboard-player.md'
+        'guides/leaderboard-country.md': 'leaderboard-country.md'
+        'guides/leaderboard-history.md': 'leaderboard-history.md'
+        'guides/map-overview.md': 'map-overview.md'
+        'guides/map-continent.md': 'map-continent.md'
+        'guides/map-district.md': 'map-district.md'
+        'guides/map-base.md': 'map-base.md'
+        'guides/play-competitive.md': 'play-competitive.md'
+        'guides/play-singleplayer.md': 'play-singleplayer.md'
+        'guides/battalions.md': 'battalions.md'
+        'guides/capital-warfare.md': 'capital-warfare.md'
+        'guides/battalions-create.md': 'battalions-create.md'
+        'guides/battalions-join.md': 'battalions-join.md'
+        'guides/store-packs.md': 'store-packs.md'
+        'guides/store-sections.md': 'store-sections.md'
+        'guides/store-payments.md': 'store-payments.md'
+        'guides/store-friend-invites.md': 'store-friend-invites.md'
+        'guides/chat.md': 'chat.md'
+        'guides/support-contact.md': 'support-contact.md'
+        'guides/unit-intro.md': 'unit-intro.md'
+        'guides/maps-movement.md': 'maps-movement.md'
+        'guides/campaign.md': 'campaign.md'
 
 not_in_nav: |
   /legal/*.md
@@ -109,73 +162,73 @@ nav:
   - Guides:
     - Beginner's Guide: index.md
     - Bases:
-      - Overview: guides/bases.md
-      - Headquarters: guides/bases-headquarters.md
-      - Resource Bases: guides/bases-resource.md
-      - Mines: guides/bases-mines.md
-      - Capitals: guides/bases-capitals.md
+      - Overview: bases.md
+      - Headquarters: bases-headquarters.md
+      - Resource Bases: bases-resource.md
+      - Mines: bases-mines.md
+      - Capitals: bases-capitals.md
     - Units:
       - Types of Units:
-        - Normal Units: guides/units-normal.md
-        - Supreme Units: guides/units-supreme.md
-        - Tactical Units: guides/units-tactic.md
-      - Training Guide: guides/unit-train.md
-      - Combat Stats: guides/unit-stats.md
-      - Movement: guides/unit-movement.md
+        - Normal Units: units-normal.md
+        - Supreme Units: units-supreme.md
+        - Tactical Units: units-tactic.md
+      - Training Guide: unit-train.md
+      - Combat Stats: unit-stats.md
+      - Movement: unit-movement.md
     - Resources:
-      - Overview: guides/resources.md
-      - Money: guides/resources-money.md
-      - Food: guides/resources-food.md
-      - Iron: guides/resources-iron.md
-      - Brick: guides/resources-brick.md
+      - Overview: resources.md
+      - Money: resources-money.md
+      - Food: resources-food.md
+      - Iron: resources-iron.md
+      - Brick: resources-brick.md
     - Players:
-      - Ranks: guides/player-rank.md
-      - Profiles: guides/player-profiles.md
-      - Season Awards: guides/player-awards.md
-      - Battle Statistics: guides/player-stats.md
+      - Ranks: player-rank.md
+      - Profiles: player-profiles.md
+      - Season Awards: player-awards.md
+      - Battle Statistics: player-stats.md
     - Battles:
-      - Overview: guides/battle-overview.md
+      - Overview: battle-overview.md
       - Attacking:
-        - Introduction: guides/battle-attack-intro.md
-        - Rules: guides/battle-attack-rules.md
+        - Introduction: battle-attack-intro.md
+        - Rules: battle-attack-rules.md
       - Conquering:
-        - Introduction: guides/battle-conquer-intro.md
-        - Rules: guides/battle-conquer-rules.md
+        - Introduction: battle-conquer-intro.md
+        - Rules: battle-conquer-rules.md
       - Destroying:
-        - Introduction: guides/battle-destroy-intro.md
-        - Rules: guides/battle-destroy-rules.md
+        - Introduction: battle-destroy-intro.md
+        - Rules: battle-destroy-rules.md
       - Battalion Support:
-        - Introduction: guides/battle-battalion-support-intro.md
-        - Rules: guides/battle-battalion-support-rules.md
+        - Introduction: battle-battalion-support-intro.md
+        - Rules: battle-battalion-support-rules.md
     - Leaderboards:
-      - Overview: guides/leaderboards.md
-      - Battalion: guides/leaderboard-battalion.md
-      - Player: guides/leaderboard-player.md
-      - Country: guides/leaderboard-country.md
-      - History: guides/leaderboard-history.md
+      - Overview: leaderboards.md
+      - Battalion: leaderboard-battalion.md
+      - Player: leaderboard-player.md
+      - Country: leaderboard-country.md
+      - History: leaderboard-history.md
     - Map:
-      - Overview: guides/map-overview.md
-      - Continent View: guides/map-continent.md
-      - District View: guides/map-district.md
-      - Base View: guides/map-base.md
+      - Overview: map-overview.md
+      - Continent View: map-continent.md
+      - District View: map-district.md
+      - Base View: map-base.md
     - Play Modes:
-      - Competitive: guides/play-competitive.md
-      - Single Player: guides/play-singleplayer.md
+      - Competitive: play-competitive.md
+      - Single Player: play-singleplayer.md
     - Battalions:
-      - Overview: guides/battalions.md
-      - Capital Warfare: guides/capital-warfare.md
-      - Creating a Battalion: guides/battalions-create.md
-      - Joining a Battalion: guides/battalions-join.md
+      - Overview: battalions.md
+      - Capital Warfare: capital-warfare.md
+      - Creating a Battalion: battalions-create.md
+      - Joining a Battalion: battalions-join.md
     - Store:
-      - Types of Packs: guides/store-packs.md
-      - Sections: guides/store-sections.md
-      - Payment Methods: guides/store-payments.md
-      - Friend Invites: guides/store-friend-invites.md
+      - Types of Packs: store-packs.md
+      - Sections: store-sections.md
+      - Payment Methods: store-payments.md
+      - Friend Invites: store-friend-invites.md
       - Rules: legal/store-rules.md
     - Community:
-      - In-game Chat: guides/chat.md
+      - In-game Chat: chat.md
       - Discord: legal/discord-chat.md
   - Support:
-    - Contact Us: guides/support-contact.md
+    - Contact Us: support-contact.md
     - FAQ: faq/index.md
     - Cheating: legal/reports-bans-suspensions.md

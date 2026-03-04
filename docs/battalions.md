@@ -1,6 +1,6 @@
 # Battalions
 
-![Creating a Battalion](../assets/images/header_battalion.webp "Battalions")
+![Creating a Battalion](assets/images/header_battalion.webp "Battalions")
 
 Battalions are an optional feature in World War Online, but to experience the primary objective of the
 game, which is [Capital Warfare](capital-warfare.md), a player must belong to a Battalion. It is
@@ -26,7 +26,7 @@ To become a member of a Battalion, there are several methods you can use:
 
 ## Creating a Battalion
 
-![How to create a battalion](../assets/images/battalion_create.webp "How to create a battalion")
+![How to create a battalion](assets/images/battalion_create.webp "How to create a battalion")
 
 You can also create your own Battalion, as long as you are [rank 25 or higher](player-rank.md).
 
@@ -39,7 +39,7 @@ You can also create your own Battalion, as long as you are [rank 25 or higher](p
 
 ## Battalion Roles
 
-![Battalion Management and Roles](../assets/images/battalion_management.webp "Battalion Management")
+![Battalion Management and Roles](assets/images/battalion_management.webp "Battalion Management")
 
 ### Leader
 
@@ -85,7 +85,7 @@ strategies as a Battalion rather than having to send private messages to each Ba
 
 ## Sending Support
 
-![How to send support to a Battalion member](../assets/images/sending_support.webp "Sending support")
+![How to send support to a Battalion member](assets/images/sending_support.webp "Sending support")
 
 Players in Battalions have the ability to set the Authorization of their Army in Settings, where other
 Battalion members can use their armies so long as they are located in the same
