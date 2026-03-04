@@ -1,6 +1,6 @@
 # Battle Rules
 
-![Battles in World War Online](../assets/images/header_unit_types.webp "Battle Rules")
+![Battles in World War Online](assets/images/header_unit_types.webp "Battle Rules")
 
 World War Online has specific rules that govern when and how battles can occur. Understanding these rules is crucial for planning your attacks and defending your bases effectively.
 

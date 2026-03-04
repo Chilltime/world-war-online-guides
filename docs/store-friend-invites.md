@@ -184,7 +184,7 @@ You won't be able to collect friend rewards until you spend some WWO to bring yo
 
 - [Store Packs](store-packs.md) - Purchase WWO-Influence packs
 - [Store Sections](store-sections.md) - Other store features
-- [Store Rules](../legal/store-rules.md) - Complete store policies
+- [Store Rules](legal/store-rules.md) - Complete store policies
 - [Payment Methods](store-payments.md) - How to make purchases
 
 ## Support

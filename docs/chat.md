@@ -1,13 +1,13 @@
 # Chat
 
-![Available Chats](../assets/images/header_chat.webp "Chat")
+![Available Chats](assets/images/header_chat.webp "Chat")
 
 **Inside World War Online you have different ways to communicate with other players.**
 
 ## Global Chat
 
 Global Chat is open for all active players of World War Online. Here the same
-[rules](../legal/discord-chat.md) defined for our
+[rules](legal/discord-chat.md) defined for our
 [Discord Server](https://discordapp.com/invite/AEcggZh) will be applied.
 
 ## Country Chat

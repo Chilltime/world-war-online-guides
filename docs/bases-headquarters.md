@@ -1,6 +1,6 @@
 # Headquarters Base
 
-![Your Headquarters Base](../assets/images/beginner_headquarters.webp "Your Headquarters Base")
+![Your Headquarters Base](assets/images/beginner_headquarters.webp "Your Headquarters Base")
 
 Upon creating an account in World War Online, you will receive a **Headquarters Base** placed randomly in the territory of your Country, which cannot be relocated.
 

@@ -1,6 +1,6 @@
 # Store Sections
 
-![Available Supply Crates](../assets/images/store_crates.webp "Supply Crates")
+![Available Supply Crates](assets/images/store_crates.webp "Supply Crates")
 
 The Store contains several sections beyond pack purchases, including free Supply Crates, Special Deals, and collectible items.
 

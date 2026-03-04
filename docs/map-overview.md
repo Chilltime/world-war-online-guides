@@ -1,6 +1,6 @@
 # Map Overview
 
-![Map](../assets/images/header_map.webp "The Map")
+![Map](assets/images/header_map.webp "The Map")
 
 The Map in World War Online is divided into three main views, each providing different levels of detail for strategic planning and navigation.
 

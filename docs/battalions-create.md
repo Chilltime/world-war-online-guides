@@ -1,6 +1,6 @@
 # Creating a Battalion
 
-![How to create a battalion](../assets/images/battalion_create.webp "How to create a battalion")
+![How to create a battalion](assets/images/battalion_create.webp "How to create a battalion")
 
 Creating your own battalion allows you to lead a team in competitive Capital Warfare and build your own community within World War Online.
 

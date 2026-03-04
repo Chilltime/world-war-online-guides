@@ -1,6 +1,6 @@
 # Store Packs
 
-![Available Store Packs](../assets/images/store_packs.webp "Store Packs")
+![Available Store Packs](assets/images/store_packs.webp "Store Packs")
 
 The Store offers various WWO-Influence packs for purchase, each providing premium currency and bonus packs to share with Battalion members.
 

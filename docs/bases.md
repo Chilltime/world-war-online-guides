@@ -1,6 +1,6 @@
 # Bases in World War Online
 
-![What is the HQ base?](../assets/images/beginner_headquarters.webp "Your Headquarters Base")
+![What is the HQ base?](assets/images/beginner_headquarters.webp "Your Headquarters Base")
 
 World War Online features several types of bases, each with its own purpose and strategic importance:
 

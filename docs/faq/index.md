@@ -35,12 +35,12 @@ You can only have one active account in order to play. You can learn more about 
 
 **5. How does the Championship work?**
 
-The Championship is annual and composed of four seasons, with each season lasting three months. To compete, you'll need to join a [Battalion](../guides/battalions.md) (team of up to 8 players) and battle in [Capital Warfare](../guides/capital-warfare.md).
+The Championship is annual and composed of four seasons, with each season lasting three months. To compete, you'll need to join a [Battalion](../battalions.md) (team of up to 8 players) and battle in [Capital Warfare](../capital-warfare.md).
 
 Learn more about:
-- [Battalion system and how to join](../guides/battalions.md)
-- [Capital Warfare battles](../guides/capital-warfare.md)
-- [Leaderboards and rankings](../guides/leaderboard-player.md)
+- [Battalion system and how to join](../battalions.md)
+- [Capital Warfare battles](../capital-warfare.md)
+- [Leaderboards and rankings](../leaderboard-player.md)
 
 **6. Who can I contact to report a bug or an issue in-game?**
 

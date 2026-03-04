@@ -1,6 +1,6 @@
 # Combat Stats
 
-![Combat Stats](../assets/images/header_unit_stats.webp "Combat Stats")
+![Combat Stats](assets/images/header_unit_stats.webp "Combat Stats")
 
 **_Attack_** and **_Defense_** stats are the most important stats for units in World War Online. The
 **_Attack_** stat is the amount of damage a unit can deal to an enemy unit, while the **_Defense_**

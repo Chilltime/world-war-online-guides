@@ -68,7 +68,7 @@ Follow World War Online on social platforms:
 |:------|:---------|
 | **Missing WWO** | Wait a few minutes, then contact support |
 | **Payment failed** | Check payment method, try again |
-| **Refund requests** | Review [Store Rules](../legal/store-rules.md), contact support |
+| **Refund requests** | Review [Store Rules](legal/store-rules.md), contact support |
 
 ## Reporting Players
 
@@ -79,7 +79,7 @@ To report rule violations:
 3. Include player name and specific violation
 4. Allow time for investigation
 
-See [Reports, Bans & Suspensions](../legal/reports-bans-suspensions.md) for details.
+See [Reports, Bans & Suspensions](legal/reports-bans-suspensions.md) for details.
 
 ## Feedback & Suggestions
 
@@ -100,7 +100,7 @@ To help resolve your issue faster:
 
 ## Related Guides
 
-- [FAQ](../faq/index.md) - Frequently asked questions
-- [Game Rules](../legal/rules.md) - Official game rules
-- [Reports & Bans](../legal/reports-bans-suspensions.md) - Reporting violations
-- [Discord Guidelines](../legal/discord-chat.md) - Community chat rules
+- [FAQ](faq/index.md) - Frequently asked questions
+- [Game Rules](legal/rules.md) - Official game rules
+- [Reports & Bans](legal/reports-bans-suspensions.md) - Reporting violations
+- [Discord Guidelines](legal/discord-chat.md) - Community chat rules

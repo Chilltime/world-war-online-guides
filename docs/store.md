@@ -1,11 +1,11 @@
 # Store
 
-![World War Online Store](../assets/images/header_store.webp "Store")
+![World War Online Store](assets/images/header_store.webp "Store")
 
 The [Store](https://www.worldwaronline.com/store) is the location in World War Online where you
 collect your Daily WWO-Influence (up to a maximum of 2.000 free WWO). It is also used to purchase
 and spend WWO-Influence, or redeem coupon codes offered by the game. You can learn more about how
-World War Online Store works, in our [Store Rules](../legal/store-rules.md). In Store Section you
+World War Online Store works, in our [Store Rules](legal/store-rules.md). In Store Section you
 can also collect your Supply Crates and Unit Packs.
 
 ## In-Game Purchases
@@ -26,7 +26,7 @@ Plan your Store purchases strategically to make the most of your weekly allowanc
 
 ## WWO Packs
 
-![Available Store Packs](../assets/images/store_packs.webp "Store Packs")
+![Available Store Packs](assets/images/store_packs.webp "Store Packs")
 
 -   **Gold Pack:** Contains 10.000 WWO and 3 extra packs of 200 WWO to offer to Battalion members.
 -   **Silver Pack:** Contains 4.500 WWO and 3 extra packs of 160 WWO to offer to Battalion members.
@@ -36,7 +36,7 @@ Plan your Store purchases strategically to make the most of your weekly allowanc
 
 ## Supply Crates
 
-![Available Supply Crates](../assets/images/store_crates.webp "Supply Crates")
+![Available Supply Crates](assets/images/store_crates.webp "Supply Crates")
 
 -   **Experience Crate:** based on experience earned, collectible every 8 hours.
 -   **Damage Crate:** based on Damage Dealt in Attacks sent to other players, collectible every 12

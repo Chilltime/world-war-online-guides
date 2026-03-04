@@ -1,6 +1,6 @@
 # Game Resources
 
-![World War Online Resources](../assets/images/header_resources.webp "Game Resources")
+![World War Online Resources](assets/images/header_resources.webp "Game Resources")
 
 Resources are essential currencies used to train [Units](unit-intro.md) and upgrade your [bases](bases.md), including your Headquarters and various specialized facilities.
 
@@ -55,7 +55,7 @@ Brick Resource Bases can be constructed to ensure a steady supply of this constr
 
 ## WWO-Influence (Premium)
 
-![World War Online Resources](../assets/images/resources_wwo.webp "Game Resources")
+![World War Online Resources](assets/images/resources_wwo.webp "Game Resources")
 
 WWO-Influence is the premium resource in World War Online, primarily gained through in-game purchases in the [Store](store.md).
 

@@ -74,7 +74,7 @@ At this point, you:
     army”;
 -   **Do not share purchase accounts** as this is sensible information that can be considered
     fraudulent;
--   **Don’t use offensive and/or aggressive language in [game chats](../guides/chat.md)**,
+-   **Don’t use offensive and/or aggressive language in [game chats](../chat.md)**,
     especially Global and Country Chats.
 -   Any other behavior that violates our [Terms of Service](tos.md), [Game Rules](rules.md) and
     [Privacy Policy](privacy.md).
